@@ -7,4 +7,4 @@
 - [Овчинникова Анастасия Анатольевна](asya.less/catalog.md)
 - [Чуракова Виталина Вячеславовна](vitalina/catalog.md)
 
-Составитель: SmallSoft (https://smallsoftru.wordpress.com)
+Составитель: SmallSoft ([https://smallsoftru.wordpress.com](https://smallsoftru.wordpress.com))
