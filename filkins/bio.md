@@ -5,6 +5,8 @@
 - https://rutube.ru/video/66a5b4570cd292d6b9f27287dd8ce474/
 - https://www.culture.ru/events/4871282/vystavka-rabot-anny-frant-zhivi-yarko
 
+![](U3T19izr9DUiWPXi.jpg)
+
 Настоящее имя: Солдатова Анна Андреевна.
 
 Родилась 9 апреля 1989 года.
