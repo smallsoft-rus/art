@@ -6,6 +6,8 @@
 
 Родилась 21 апреля 1999 г.
 
+2017-2021: Училась в Уральском колледже прикладного искусства и дизайна (филиал ФГБОУ ВО «РГХПУ им. С.Г.Строганова»). Дипломная работа была связана с изготовлением изделий из стекла в технике "Фьюзинг".
+
 В 2022 г. поступила на ФХО НТГСПИ (Изобразительное искусство и дизайн). С 2025 г. перевелась на заочное обучение.
 
 ## Каталог картин
@@ -176,3 +178,113 @@ https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242938%2F70375
 В глубине души, 2022. Акварель, 29.5х40 см
 
 https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242923%2Fa53df018f7f9ed1374
+
+![](6knBb2UafjlGW5o5.jpg)
+
+Портрет Натальи Запояско, 2022
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242919%2Fwall-79794560_6816
+
+![](QttCABaGy8e.jpg)
+
+Два сердца, что удерживаются цепями обстоятельств, 2021
+
+https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242975%2Fdb9d9264c2cca9a93b
+
+![](3sYbOx3ZtHd4uTA7sj.jpg)
+
+Дочь солнца и пламени, 2021
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242894%2Fa03a5e5d09ea27431f
+
+![](75CaSY1iFADbPG5g.jpg)
+
+(Ворон), 2021
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242892%2Fwall-79794560_6778
+
+![](cLCt7RTiVpIXG2b.jpg)
+
+Омут, 2021
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242884%2F535c2d3f84f71ed751
+
+![](kJG3K3CJsHR.jpg)
+
+Яблочки, 2021
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242885%2F7547f222178e8b7790
+
+![](X6e4sAoU2vjP02ZwiI.jpg)
+
+Памятник затопленным кораблям, 2021. Акварель в технике "по сырому"
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242866%2F0cd17169ccd7f71b0c
+
+![](G1mrswtd6uUhpsxC.jpg)
+
+Пилигрим, 2021
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242850%2F4296f2955fe25aefd4
+
+![](2SqPRYqBtC7j.jpg)
+
+Портрет Юлии Евдокимовой, 2021
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242849%2Fc5ba6f67963c0f4689
+
+![](2VQeEYK2YQCrQSu.jpg)
+
+Эскиз открытки к 300-летию Нижнего Тагила, 2021
+
+https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242774%2F593cf683436b853551
+
+![](O07hROoLSaCGqWf.jpg)
+
+Автопортрет, 2020
+
+https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242753%2F96668bd370642cd79a
+
+![](8hvAblfjgmnhd2dh.jpg)
+
+Разочарование, 2020
+
+https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242752%2Fdf37ba9935cf17b880
+
+![](SnTo8ZG7tUS8c4eV7.jpg)
+
+Разум и чувства, 2020
+
+https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242688%2F035f1ffdeeefb54d25
+
+![](CvaNU4AGNb0rk.jpg)
+
+Страсть, 2020
+
+https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242650%2F250a7cbbd4581eafc4
+
+![](2QQMDEAZ0RbOYnQ3XKDdE.jpg)
+
+Путь к свету, 2020
+
+https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242617%2F13e6009b57d8d7b6bd
+
+Путь к свету через темноту. А свет - это любящее тебя сердце... Ключ от которого только у тебя..
+
+![](KWOTZEgBtYoNjeKk.jpg)
+
+Сонливость, 2020
+
+https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242499%2F9c3d3c4783288bb895
+
+![](9Xlk3jtblNAKPE9cbnC0s.jpg)
+
+Берегите себя и своих близких, 2020
+
+https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242512%2Fa7b61ccefcc0f52e07
+
+![](Ce1CWt1OiL0fevAN.jpg)
+
+Икар и солнце, 2016
+
+https://vk.com/wall-79794560_6350
