@@ -75,14 +75,6 @@ https://vk.com/albums-218867577?z=photo-218867577_457239483%2Fphotos-218867577
 
 Выставлялась в ArtSpaceDepo
 
-![](7wmQ7eV7FqE.jpg)
-
-(Натюрморт с кувшином и яблоком), 2023. Акварель, 50х60 см
-
-https://vk.com/albums-218867577?z=photo-218867577_457239482%2Fphotos-218867577
-
-Выставлялась в ArtSpaceDepo
-
 ![](9MfdCogYW4k.jpg)
 
 Начало жизни и судьбы, 2023. Холст на подрамнике, акрил, контур, 24.5х29 см
@@ -328,6 +320,56 @@ https://vk.com/wall-79794560?offset=800&own=1&z=photo-79794560_457241965%2F65bdb
 Портрет Дарьи Ступак, 2019
 
 https://vk.com/wall-79794560?offset=980&own=1&z=photo-79794560_456241815%2Fwall-79794560_5550
+
+![](7wmQ7eV7FqE.jpg)
+
+(Натюрморт с кувшином и яблоком), 2018. Акварель, 50х60 см
+
+https://vk.com/albums-218867577?z=photo-218867577_457239482%2Fphotos-218867577
+
+Выставлялась в ArtSpaceDepo в 2023 г.
+
+![](tdT3HCrBOx1w1J.jpg)
+
+(Арка), 2019
+
+https://vk.com/photo-79794560_456241791
+
+![](DoTRBItS57yZrtpg.jpg)
+
+Автопортрет, 2019
+
+https://vk.com/wall-79794560?offset=1300&own=1&z=photo-79794560_456241155%2F1bec6ce12becb26567
+
+![](P4HO7Sgb6iAXtzV.jpg)
+
+Стул, 2019
+
+https://vk.com/wall-79794560?offset=1300&own=1&z=photo-79794560_456241132%2Fd32dbb9a0050157231
+
+![](I4AJnUsTHOkjHQG9xUS.jpg)
+
+(Натюрморт), 2018
+
+https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456241007%2Fe403419e1cdcfe700b
+
+![](Rl2OCIarZOn3R0cC.jpg)
+
+(Портрет девушки), 2018
+
+https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456240850%2F20426702f02506a2a4
+
+![](CZkBa9TFHjFwoGrTU.jpg)
+
+Не грусти, скоро взойдет наше солнце, 2018
+
+https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456240775%2F3a4a6184cb04d11c65
+
+![](NqXMgGmHKK73XyQ4TS.jpg)
+
+(Розы), 2018
+
+https://vk.com/wall-79794560?offset=1740&own=1&z=photo-79794560_456240718%2Fc80808a4dfc9d99263
 
 ![](Ce1CWt1OiL0fevAN.jpg)
 
