@@ -301,8 +301,6 @@ https://vk.com/wall-79794560?offset=640&own=1&z=photo-79794560_457242401%2F0eca9
 
 https://vk.com/wall-79794560?offset=640&own=1&z=photo-79794560_457242334%2Fe1d7c3deef9349441b
 
-Первый рисунок Ирины на холсте
-
 ![](LPl_qb1GskShW8tWs.jpg)
 
 Портрет одногруппницы, 2019
@@ -371,8 +369,64 @@ https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456240775%2F3a4a
 
 https://vk.com/wall-79794560?offset=1740&own=1&z=photo-79794560_456240718%2Fc80808a4dfc9d99263
 
+![](D1rxEP7maKWmtlGfF.jpg)
+
+(Дракон), 2018
+
+https://vk.com/wall-79794560?offset=1750&own=1&z=photo-79794560_456240667%2F75c914140ff41412fc
+
+![](NJ2PtLWJM4u7Q9tP1.jpg)
+
+Я - Волк, 2018
+
+https://vk.com/wall-79794560?offset=1750&own=1&z=photo-79794560_456240660%2F2f9fcf598910291c68
+
+![](hJBKq2oL5yWWzFC.jpg)
+
+(Натюрморт с чайником), 2017
+
+https://vk.com/wall-79794560?offset=2100&own=1&z=photo-79794560_456240175%2Fwall-79794560_3685
+
+![](KpBHAi3M6h9bsZ8l.jpg)
+
+(Осенняя набережная), 2017. Масло
+
+https://vk.com/wall-79794560?offset=2100&own=1
+
+Ирина: Моя первая работа масляными красками.
+
+![](onIBUHMrwoEXoJGNOtr.jpg)
+
+(Любовь русалки), 2017
+
+https://vk.com/wall-79794560?offset=2640&own=1&z=photo-79794560_456239772%2Fwall-79794560_3159
+
+![](1UhOL41MDqqMDGw.jpg)
+
+(Осень), 2016. Гуашь
+
+https://vk.com/wall-79794560?offset=2640&own=1&z=photo-79794560_456239769%2F1c10b95ba485b3c9f2
+
 ![](Ce1CWt1OiL0fevAN.jpg)
 
 Икар и солнце, 2016
 
 https://vk.com/wall-79794560_6350
+
+![](KgqSCe7iM-DKg.jpg)
+
+(Сова), 2016
+
+https://vk.com/wall-79794560?offset=3680&own=1&z=photo-79794560_415758360%2Fa6a6786603741cc1c3
+
+![](A3E2yQGTVQJCmoQ.jpg)
+
+Фантазия влюблённых, 2015
+
+https://vk.com/wall-79794560?offset=4080&own=1&z=photo-79794560_395865182%2F0e957fd0e743194491
+
+![](s26KfAdgUzZHlJGhKtA.jpg)
+
+Влюбленная в небо никогда не упадет на землю камнем, 2015
+
+https://vk.com/wall-79794560?offset=4080&own=1&z=photo-79794560_394505698%2Fe6725e2838c049a5cc
