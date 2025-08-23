@@ -1,13 +1,11 @@
 # Франт Анна
-
-# Черновик биографии
-- https://vk.com/filkins
-- https://rutube.ru/video/66a5b4570cd292d6b9f27287dd8ce474/
-- https://www.culture.ru/events/4871282/vystavka-rabot-anny-frant-zhivi-yarko
+## Черновик биографии
 
 ![](U3T19izr9DUiWPXi.jpg)
 
 Настоящее имя: Солдатова Анна Андреевна.
+
+Страница в интернете: https://vk.com/filkins
 
 Родилась 9 апреля 1989 года.
 
@@ -38,6 +36,11 @@
 ![](RC8FQUJA-2HWA.jpg)
 
 На просмотре
+
+Источники:
+- https://vk.com/filkins
+- https://rutube.ru/video/66a5b4570cd292d6b9f27287dd8ce474/
+- https://www.culture.ru/events/4871282/vystavka-rabot-anny-frant-zhivi-yarko
 
 ## Каталог картин
 
@@ -146,8 +149,6 @@ https://vk.com/wall35705684?offset=300&z=photo35705684_457259453%2Fwall35705684_
 https://vk.com/wall35705684?offset=300&z=photo35705684_457258889%2Ffab3ae423bb55c583d
 
 Выставлялась в ArtSpaceDepo
-
-От составителя: Отлично! Современное искусство должно быть именно таким, не слишком абстрактным, с интересным сюжетом и хорошей проработкой деталей изображаемых объектов. То, что в семейке зебр у каждой есть какая-то забавная черта - крайне интересная находка.
 
 ![](gw7j6852RQDhNL.jpg)
 

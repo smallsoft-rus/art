@@ -1,11 +1,12 @@
 # Овчинникова Анастасия Анатольевна
 
-- https://vk.com/asyalesss
-- https://storynavigation.com/user/asya.less
-
 ![](lZdhvfmPvWI.jpg)
 
 ## Краткая биография
+
+Страницы в интернете:
+- https://vk.com/asyalesss
+- https://storynavigation.com/user/asya.less
 
 Родилась 20 апреля 2000 г., г. Невьянск
 

@@ -2,11 +2,12 @@
 
 ![](yISCBHgZbTs.jpg)
 
+Родилась 21 апреля 1999 г., Красноуральск
+
+Страницы в интернете:
 - https://vk.com/rinsun2033
 - https://vk.com/anarho_punk8grop
 - https://t.me/s/RinaSun2033
-
-Родилась 21 апреля 1999 г., Красноуральск
 
 О детстве (https://t.me/RinaSun2033/105):
 
