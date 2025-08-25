@@ -40,7 +40,7 @@
 - https://turizmnt.ru/news/34849/
 - https://tribuna-urala.ru/?module=articles&action=view&id=19168
 
-## Каталог картин
+## Каталог работ
 Составление начато 01.06.2025. Радует, что на этот раз у почти каждой картины есть название и выходные данные. Выглядит так, будто я составляю каталог работ состоявшейся художницы, а не непонятное нечто.
 
 ![](7hmi02egl1_ecWnMO.jpg)
@@ -75,17 +75,23 @@ https://vk.com/id384086272?z=photo384086272_457243840%2F3880ea669a14e5f717
 
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239103%2Fwall-224151515_47
 
+Написана на заказ
+
 ![](hnVze-G7ymg.jpg)
 
 Портрет Сергея Зырянова, 2024. Бумага, уголь, Формат А2
 
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239105%2Fwall-224151515_48
 
+Написана на заказ
+
 ![](fWMbXQlKlDE.jpg)
 
 Портрет Василия Мещангина, 2024. Бумага, уголь, Формат А2
 
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239101%2Fwall-224151515_46
+
+Написана на заказ
 
 ![](L0Oj_fxvIfI.jpg)
 
@@ -99,11 +105,15 @@ https://vk.com/club224151515?from=groups&z=photo-224151515_457239094%2F7e2c1cc56
 
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239091%2Fwall-224151515_40
 
+Написана на заказ
+
 ![](3c8lNYFkJ5A.jpg)
 
 Лис Мафиози, 2024. Холст на картоне, акрил, 40×60 см
 
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239090%2F90c3dcf6019100beab
+
+Написана на заказ
 
 ![](Syv-x65gPhGhhTuJyOS0eb.jpg)
 
@@ -123,6 +133,8 @@ https://vk.com/club224151515?from=groups&z=photo-224151515_457239070%2Fwall-2241
 
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239066%2F124a3d05ab7c1330cd
 
+Написана на заказ
+
 ![](Ijc99EhxgGo.jpg)
 
 Брутальный лис, 2024. Холст, акрил, 40×60 см
@@ -140,6 +152,8 @@ https://vk.com/club224151515?from=groups&z=photo-224151515_457239060%2F91b2b792f
 Белое чудо, 2024. Холст, акрил, 40×30 см
 
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239057%2Fwall-224151515_29
+
+Написана на заказ
 
 ![](ZP86ozjDdwk.jpg)
 
