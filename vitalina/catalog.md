@@ -75,6 +75,8 @@ https://vk.com/club224151515?from=groups&z=photo-224151515_457239118%2F4036e5c1b
 
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239113%2Fwall-224151515_53
 
+Заняла 1 место в конкурсе АРТ-БОМБА-Я (https://vk.com/arononoreschool?w=wall-186925653_69172)
+
 ![](HrPzvrZYS0A.jpg)
 
 Тигр в воде, 2025. 30×40 см
