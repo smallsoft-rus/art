@@ -249,6 +249,8 @@ https://vk.com/wall-224151515?own=1&z=photo-224151515_457239033%2Fwall-224151515
 
 https://vk.com/wall-224151515?own=1&z=photo-224151515_457239024%2F0a132d4b3efc49bbf2
 
+Выставлялась в ArtSpaceDepo (не продавалась)
+
 ![](4sz8UsNDTO8.jpg)
 
 Зайчик, 2023. Акрил, 60×85 см
@@ -260,6 +262,22 @@ https://vk.com/wall-224151515?own=1&z=photo-224151515_457239020%2F9e74b094cabe30
 Сиреневые сумерки, 2023. Холст, акрил, 40×40 см
 
 https://vk.com/albums-218867577?z=photo-218867577_457239481%2Fphotos-218867577
+
+Выставлялась в ArtSpaceDepo
+
+![](5yopeF87V6URqZbGddZ.jpg)
+
+Фонарь желаний, 2023. Холст, акрил, 40×30 см
+
+https://vk.com/albums-218867577?z=photo-218867577_457239309%2Fphotos-218867577
+
+Выставлялась в ArtSpaceDepo
+
+![](NQclMiU6hb78B5v04u0.jpg)
+
+На закате, 2023. Холст, акрил, 40×60 см
+
+https://vk.com/albums-218867577?z=photo-218867577_457239306%2Fphotos-218867577
 
 Выставлялась в ArtSpaceDepo
 
