@@ -268,6 +268,39 @@ https://vk.com/photo-218867577_457239415
 
 Выставлялась в ArtSpaceDepo
 
+![](2023_W9905y8tpBpTiXO0Fl99.jpg)
+
+Привет из краснодара!, 2023. ДВП, акрил, золото, 79,5х79,5 см
+
+https://vk.com/albums-218867577?z=photo-218867577_457239913%2Fphotos-218867577
+
+Идея с фотографии Рождественской А.А.  
+Выставлялась в ArtSpaceDepo
+
+![](2023_Cp5hXr4josnhvMohVy.jpg)
+
+Пионы, 2023. Холст, акрил, золото, 28х83 см
+
+https://vk.com/albums-218867577?z=photo-218867577_457239912%2Fphotos-218867577
+
+Выставлялась в ArtSpaceDepo
+
+![](2023_BFbtXqC9fxBc1jiVzAG7yljZ.jpg)
+
+Сухоцвет, 2023. ДВП, акрил, серебро, 30х47 см
+
+https://vk.com/albums-218867577?z=photo-218867577_457239755%2Fphotos-218867577
+
+Выставлялась в ArtSpaceDepo
+
+![](2023_7fcP7m0NczNWV4Jw4kP.jpg)
+
+Огромные Анютины глазки, не ирисы, 2023. ДВП, акрил, золото, 30х47 см
+
+https://vk.com/albums-218867577?z=photo-218867577_457239754%2Fphotos-218867577
+
+Выставлялась в ArtSpaceDepo
+
 ![](RypFkFcgGENtZ233.jpg)
 
 Мистер Холмс, 2023. Холст, акрил
