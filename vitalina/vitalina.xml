@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <metadata>
+    <author>Чуракова Виталина</author>
+  </metadata>
+  <item>
+    <metadata>
+      <title>Зеркало души</title>
+      <date>2025</date>
+      <dimensions>30×40 см</dimensions>
+      <medium>Холст на картоне, акрил</medium>
+      <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239119%2Fddf309973a3592276c</source>
+    </metadata>
+    <file name="etMsnEwjnhXbVbG.jpg"></file>
+  </item>
+  <item>
+    <metadata>
+      <title>Девушка со змеей</title>
+      <date>2025</date>
+      <dimensions>50×90 см</dimensions>
+      <medium>Холст на картоне, акрил</medium>
+      <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239113%2Fwall-224151515_53</source>
+      <titleType>descriptive</titleType>
+    </metadata>
+    <file name="WnvZZZp5C4ne53.jpg"></file>
+    <events>
+      <event type="contest" date="2025">
+        <description>Заняла 1 место в конкурсе АРТ-БОМБА-Я (https://vk.com/arononoreschool?w=wall-186925653_69172)</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Копия картины Боттичелли "Портрет молодой женщины"</title>
+      <date>2024</date>
+      <dimensions>40×30 см</dimensions>
+      <medium>Темпера</medium>
+      <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239038%2Fwall-224151515_16</source>
+    </metadata>
+    <file name="9XUqkCxPd4Q.jpg"></file>
+    <events>
+      <event type="exhibition" date="2025">
+        <description>Участвовала в выставке студенческих работ ФХО НТГСПИ</description>
+      </event>
+    </events>
+    <relatedWorks>
+      <relatedWork rel="copy of">
+        <title>Idealised Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph)</title>
+        <creator>Sandro Botticelli</creator>
+        <URL>https://sammlung.staedelmuseum.de/en/work/idealised-portrait-of-a-lady</URL>
+      </relatedWork>
+    </relatedWorks>
+  </item>
+  <item>
+    <metadata>
+      <title>На закате</title>
+      <date>2023</date>
+      <dimensions>40×60 см</dimensions>
+      <medium>Холст, акрил</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239306%2Fphotos-218867577</source>
+      <description></description>
+      <notes></notes>
+    </metadata>
+    <file name="NQclMiU6hb78B5v04u0.jpg"></file>
+    <events>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo</description>
+      </event>
+    </events>
+  </item>
+</collection>
