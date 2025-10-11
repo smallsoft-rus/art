@@ -41,6 +41,8 @@
 Примечания составителя
 ```
 
+Каталог может составляться в виде Markdown-документа, редактируемого вручную, либо в виде структурированного XML-файла, из которого автоматически генерируется MD с помощью [CatalogTools](https://gitflic.ru/project/smallsoft/catalogtools).
+
 ## Источники
 - https://dzen.ru/a/aIyvkcnkDQDox4Ax
 - https://joseartgallery.com/ru/articles/how-to-write-a-great-bio-for-your-artist-profile

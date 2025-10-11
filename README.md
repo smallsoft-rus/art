@@ -6,6 +6,6 @@
 - [Каранина Ирина Дмитриевна](rinasun/catalog.md)
 - [Овчинникова Анастасия Анатольевна](asya.less/catalog.md)
 - [Франт Анна](filkins/bio.md)
-- [Чуракова Виталина Вячеславовна](vitalina/catalog.md)
+- [Чуракова Виталина Вячеславовна](vitalina/vitalina.md)
 
 Составитель: SmallSoft ([https://smallsoftru.wordpress.com](https://smallsoftru.wordpress.com))
