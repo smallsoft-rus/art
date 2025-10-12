@@ -1,0 +1,8 @@
+# Line endings
+* text=auto
+*.md text
+*.xml text
+*.html text
+*.png binary
+*.bmp binary
+*.jpg binary
