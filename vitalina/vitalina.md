@@ -194,7 +194,7 @@ https://vk.com/club224151515?from=groups&z=photo-224151515_457239048%2Fwall-2241
 История:  
 - 2025: Участвовала в выставке студенческих работ ФХО НТГСПИ
 
-Оригинал: Sandro Botticelli. Мадонна с младенцем
+Оригинал: [Sandro Botticelli. The Virgin and Child](https://hvrd.art/o/230460)
 
 ![](9XUqkCxPd4Q.jpg)
 

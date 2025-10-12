@@ -267,7 +267,7 @@
       <title>Фрагментарная копия картины Сандро Боттичелли "Мадонна с младенцем"</title>
       <date>2024</date>
       <dimensions>60×40 см</dimensions>
-      <medium> Византийская мозаика, смальта</medium>
+      <medium>Византийская мозаика, смальта</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239048%2Fwall-224151515_24</source>
       <description></description>
       <notes></notes>
@@ -280,8 +280,9 @@
     </events>
     <relatedWorks>
       <relatedWork rel="copy of">
-        <title>Мадонна с младенцем</title>
+        <title>The Virgin and Child</title>
         <creator>Sandro Botticelli</creator>
+        <URL>https://hvrd.art/o/230460</URL>
       </relatedWork>
     </relatedWorks>
   </item>
