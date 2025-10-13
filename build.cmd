@@ -9,4 +9,6 @@ cd ..\arnaut
 CatalogTools catalog.xml
 cd ..\gozamnoi
 CatalogTools catalog.xml
+cd ..\filkins
+CatalogTools catalog.xml
 PAUSE

@@ -4,7 +4,7 @@
 
 - [Арнаутова Анастасия Александровна](arnaut/catalog.md)
 - [Каранина Ирина Дмитриевна](rinasun/catalog.md)
-- [Овчинникова Анастасия Анатольевна](asya.less/catalog.md)
+- [Овчинникова Анастасия Анатольевна](asya.less/asyaless.md)
 - [Франт Анна](filkins/bio.md)
 - [Чуракова Виталина Вячеславовна](vitalina/vitalina.md)
 
