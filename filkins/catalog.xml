@@ -8,6 +8,10 @@
   </author>
   <files>
     <file name="U3T19izr9DUiWPXi.jpg" purpose="frontPortrait" />
+    <file name="VKXevOLz0fv0gt.jpg" title="С группой The Beavers" />
+    <file name="cpvoc--IQ6GSCLj1r.jpg" title="На пленэре" />
+    <file name="RC8FQUJA-2HWA.jpg" title="На просмотре" />
+    <file name="LAnXwcQxiAbzkRU6k.jpg" title="За работой, 2024" />
   </files>
   <item>
     <metadata>
@@ -20,6 +24,12 @@
       <notes>Выставлялась на продажу за 2000₽.</notes>
     </metadata>
     <file name="GLRMU8RIPFOLwh.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Нижнетагильский горно-металлургический колледж имени Е.А. и М.Е. Черепановых</name>
+        <URL>https://ntgmk.ru/ru</URL>
+      </subject>
+    </subjects>
     <events>
       <event type="exhibition" date="2025">
         <description>Участвовала в выставке художественных работ «Территория» на территории Старого Демидовского завода.</description>
@@ -37,6 +47,12 @@
       <notes>Выставлялась на продажу за 2000₽</notes>
     </metadata>
     <file name="WI5Xgkf5AH5Hd.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Скорбященский женский монастырь, Вознесенский храм, г. Нижний Тагил</name>
+        <URL>https://ntobitel.cerkov.ru/voznesenskij-xram</URL>
+      </subject>
+    </subjects>
     <events>
       <event type="exhibition" date="2025">
         <description>Участвовала в выставке художественных работ «Территория» на территории Старого Демидовского завода.</description>
@@ -53,6 +69,11 @@
       <notes></notes>
     </metadata>
     <file name="2025_1ZdtwSkOgLMyBc8VOz0w1.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Нижнетагильский Металлургический Комбинат</name>
+      </subject>
+    </subjects>
     <events>
       <event type="exhibition" date="2025">
         <description>Выставлялась в музее ЕВРАЗ НТМК</description>
@@ -80,6 +101,12 @@
       <notes>Выставлялась на продажу за 5000₽</notes>
     </metadata>
     <file name="FimxQcZj2.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Храм Александра Невского, г. Нижний Тагил</name>
+        <URL>https://anevsly-ntagil.cerkov.ru</URL>
+      </subject>
+    </subjects>
     <events>
       <event type="exhibition" date="2025">
         <description>Участвовала в выставке художественных работ «Территория» на территории Старого Демидовского завода.</description>
@@ -526,6 +553,11 @@
       <notes></notes>
     </metadata>
     <file name="SWLXFEiw6mX.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Боб Марли</name>
+      </subject>
+    </subjects>
     <events>
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo</description>
@@ -558,6 +590,11 @@
       <notes>Выставлялась на продажу за 5000 р.</notes>
     </metadata>
     <file name="VR4bmQInUAteHJs.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Сальвадор Дали</name>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -607,6 +644,11 @@
       <notes></notes>
     </metadata>
     <file name="UpqDs_WbyvCx8i9j.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Виктор Цой</name>
+      </subject>
+    </subjects>
     <events>
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo</description>
@@ -716,6 +758,11 @@
       <notes></notes>
     </metadata>
     <file name="2Rh7zMthugdXp5qL65kCdn2D.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Фонтан на набережной возле Драматического театра, г. Нижний Тагил</name>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>

@@ -11,4 +11,6 @@ cd ..\gozamnoi
 CatalogTools catalog.xml
 cd ..\filkins
 CatalogTools catalog.xml
+cd ..\rinasun
+CatalogTools rinasun.xml
 PAUSE
