@@ -58,6 +58,14 @@
 
 ## Каталог работ
 
+![](2025_703iYy4TS6ccv2yHDBK.jpg)
+
+Пылающий взлëт, 2025. Холст на картоне, акрил, 30×40 см
+
+https://vk.com/club224151515?from=groups&w=wall-224151515_70
+
+Оригинал: [Пылающий взлёт](https://kibart.ru/zhivopis-kartiny/giperrealizm-fotorealizm/kartina-pylayuschij-vzlyot_7677)
+
 ![](etMsnEwjnhXbVbG.jpg)
 
 Зеркало души, 2025. Холст на картоне, акрил, 30×40 см
