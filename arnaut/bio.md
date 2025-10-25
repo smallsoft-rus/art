@@ -5,7 +5,7 @@
 
 Страницы в интернете:
 - https://t.me/s/otvalmaski
-- https://vk.com/mental_mask
+- https://vk.ru/arrrrrnaut
 
 Родилась в октябре 2004 г. в Краснотурьинске.
 
