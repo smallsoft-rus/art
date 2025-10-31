@@ -5,6 +5,8 @@ cd vitalina
 CatalogTools --html --homelink vitalina.xml
 cd ..\arnaut
 CatalogTools --html --homelink catalog.xml
+cd ..\alisa
+CatalogTools --html --homelink catalog.xml
 cd ..\asya.less
 CatalogTools --html --homelink --layout Indexed asyaless.xml
 cd ..\filkins
