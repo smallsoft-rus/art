@@ -385,40 +385,6 @@
   </item>
   <item>
     <metadata>
-      <title>Возлюбленный</title>
-      <date>2023</date>
-      <dimensions>А4</dimensions>
-      <medium>Холст в багете</medium>
-      <source>https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577</source>
-      <description></description>
-      <notes></notes>
-    </metadata>
-    <file name="2023_FYWHnTggyD0mXQ3.jpg"></file>
-    <events>
-      <event type="exhibition" date="2023">
-        <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
-      </event>
-    </events>
-  </item>
-  <item>
-    <metadata>
-      <title>Учитель</title>
-      <date>2023</date>
-      <dimensions>А4</dimensions>
-      <medium>Холст в багете</medium>
-      <source>https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577</source>
-      <description></description>
-      <notes></notes>
-    </metadata>
-    <file name="2023_uchitel.jpg"></file>
-    <events>
-      <event type="exhibition" date="2023">
-        <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
-      </event>
-    </events>
-  </item>
-  <item>
-    <metadata>
       <title>Два Влюбленных</title>
       <date>2023</date>
       <dimensions>А4</dimensions>
@@ -465,6 +431,46 @@
     <events>
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Возлюбленный</title>
+      <date>2022</date>
+      <dimensions>А4</dimensions>
+      <medium>Холст в багете</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577</source>
+      <description></description>
+      <notes></notes>
+    </metadata>
+    <file name="2023_FYWHnTggyD0mXQ3.jpg"></file>
+    <events>
+      <event type="exhibition" date="2022">
+        <description>Участвовала в выставке студенческих работ ФХО в Центральной библиотеке</description>
+      </event>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Учитель</title>
+      <date>2022</date>
+      <dimensions>А4</dimensions>
+      <medium>Холст в багете</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577</source>
+      <description></description>
+      <notes></notes>
+    </metadata>
+    <file name="2023_uchitel.jpg"></file>
+    <events>
+      <event type="exhibition" date="2022">
+        <description>Участвовала в выставке студенческих работ ФХО в Центральной библиотеке (https://vk.com/photo-4891369_457257357)</description>
+      </event>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
       </event>
     </events>
   </item>

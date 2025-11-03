@@ -375,23 +375,6 @@
   </item>
   <item>
     <metadata>
-      <title>Вдохновение</title>
-      <date>2023</date>
-      <dimensions>21×30 см</dimensions>
-      <medium>Акрил</medium>
-      <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239023%2F4acc264039295932d7</source>
-      <description>Виталина: "Работа участвовала во многих выставках и конкурсах и до сих пор она остался одной из моих самых любимых картин"</description>
-      <notes></notes>
-    </metadata>
-    <file name="3Y6cS90CMmA.jpg"></file>
-    <events>
-      <event type="exhibition" date="2023">
-        <description>Выставлялась в ArtSpaceDepo, было продано 2 копии этой картины (оригинал не продавался)</description>
-      </event>
-    </events>
-  </item>
-  <item>
-    <metadata>
       <title>Картина-коллаж</title>
       <date>2023</date>
       <dimensions>60×84 см</dimensions>
@@ -551,6 +534,26 @@
     <events>
       <event type="exhibition" date="2023">
         <description>Участвовала в выставке студенческих работ "60 мгновений лета"</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Вдохновение</title>
+      <date>2022</date>
+      <dimensions>21×30 см</dimensions>
+      <medium>Картон, акрил</medium>
+      <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239023%2F4acc264039295932d7</source>
+      <description>Виталина: "Работа участвовала во многих выставках и конкурсах и до сих пор она остался одной из моих самых любимых картин"</description>
+      <notes></notes>
+    </metadata>
+    <file name="3Y6cS90CMmA.jpg"></file>
+    <events>
+      <event type="exhibition" date="2022">
+        <description>Участвовала в выставке студенческих работ ФХО в Центральной библиотеке (https://vk.com/photo-4891369_457257333)</description>
+      </event>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo, было продано 2 копии этой картины (оригинал не продавался)</description>
       </event>
     </events>
   </item>
