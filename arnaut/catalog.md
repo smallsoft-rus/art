@@ -193,6 +193,12 @@ https://vk.com/wall-213873622?offset=100&own=1&z=photo-213873622_457239034%2Fwal
 
 https://t.me/OTVALMASKI/1859
 
+## Галерея
+
+![](2025_SNHH3b0kJEhYzU.jpg)
+
+На пленере в Верхней Туре, 2025
+
 ## См. также
 
 - [Черновик биографии](bio.md)
