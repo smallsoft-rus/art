@@ -4,10 +4,12 @@
     <displayName>Горшенина Алиса</displayName>
     <birthDate>1994</birthDate>
     <birthPlace>c. Якшина, Свердловская область</birthPlace>
+    <styles>Фольклор, модерн-арт</styles>
     <website>https://vk.com/hualice</website>
   </author>
   <externalLinks>
     <link title="Черновик биографии" URL="bio.md" />
+    <link title="Работы в Архиве Российского Искусства" URL="https://russianartarchive.net/ru/catalogue/person/PDXZJ" />
   </externalLinks>
   <item>
     <metadata>
@@ -79,6 +81,53 @@
   </item>
   <item>
     <metadata>
+      <title>Глаза в окнах</title>
+      <date>2019</date>
+      <type>installation</type>
+      <titleType>descriptive</titleType>
+      <source>https://russianartarchive.net/ru/catalogue/document/F6177</source>
+      <description></description>
+      <notes>Инсталляция с выставки "Русское инородное", с. Якшина, Свердловская область</notes>
+    </metadata>
+    <link URL="https://hb.bizmrg.com/raan/F/000006177/F6177/421d0a2c-e544-4fe6-9691-97a94045a0a5-800px.jpg"></link>
+  </item>
+  <item>
+    <metadata>
+      <title>Фигура в руинах дома</title>
+      <date>2019</date>
+      <type>installation</type>
+      <titleType>descriptive</titleType>
+      <source>https://russianartarchive.net/ru/catalogue/document/F6177</source>
+      <description></description>
+      <notes>Инсталляция с выставки "Русское инородное", с. Якшина, Свердловская область</notes>
+    </metadata>
+    <link URL="https://hb.bizmrg.com/raan/F/000006177/F6177/2c7835ad-39ce-46c2-a852-8a72e32fa396-800px.jpg"></link>
+  </item>
+  <item>
+    <metadata>
+      <title>Уральская шкура</title>
+      <date>2018</date>
+      <type>installation</type>
+      <source>https://russianartarchive.net/ru/catalogue/document/D12463</source>
+      <description>Мода Урала, пропитанная искаженными местными мифами, легендами и витающей в воздухе магией. Художник ощущает влияние местности на свою деятельность, работы рождаются больными, искаженными, неприятными на вид. Дизайнерские объекты, посвященные всем уральцам - людям, которые никогда не примерят ничего из этого, и никогда не примут это, как олицетворение своего внутреннего состояния. Художник надевает это на себя, показывая, что мистика места существует, осталось лишь увидеть ее и принять.
+
+Проект "Уральская шкура" - это показ капсульной коллекции уральского жудожника [...] в сопровождении с новой уральской электронной музыкой. Коллекция представляет искаженное восприятие местности, внутренних лиц людей и вымышленных животных Урала в форме реальных вещей, которые каждый желающий сможет надеть на себя "примерить чужую шкуру". (Из концепции выставки, https://russianartarchive.net/ru/catalogue/document/D10390)</description>
+      <notes>Инсталляции с выставки "Уральская шкура", ВДНХ, г. Москва</notes>
+    </metadata>
+    <link URL="https://hb.bizmrg.com/raan/D/000012463/D12463/8a6abe1d-7ac9-4712-ac0e-33880fc2d302-800px.jpg"></link>
+  </item>
+  <item>
+    <metadata>
+      <title>Без названия (Птицы)</title>
+      <date>2016</date>
+      <source>https://russianartarchive.net/ru/catalogue/document/F6175</source>
+      <description></description>
+      <notes></notes>
+    </metadata>
+    <link URL="https://hb.bizmrg.com/raan/F/000006175/F6175/9fd8942a-54ba-4201-a360-cd898a5b6ffe-800px.jpg"></link>
+  </item>
+  <item>
+    <metadata>
       <title>Семь святых дев худграфа, фигура I</title>
       <date>2015</date>
       <type>mural</type>
@@ -124,5 +173,38 @@
       <notes>Данная роспись была сделана незадолго до "Семи святых дев". Уничтожена в то же время.</notes>
     </metadata>
     <file name="2015_405304_original.jpg"></file>
+  </item>
+  <item>
+    <metadata>
+      <title>Квартира ненужных вещей</title>
+      <date>2015</date>
+      <type>installation</type>
+      <source>https://russianartarchive.net/ru/catalogue/document/F6212</source>
+      <description></description>
+      <notes>Инсталляция с III Уральской индустриальной биеннале современного искусства. Была установлена в кинотеатре "Красногвардеец", г. Нижний Тагил.</notes>
+    </metadata>
+    <link URL="https://hb.bizmrg.com/raan/F/000006212/F6212/09b5e620-aa90-4bff-949d-a068a6571bd3-800px.jpg"></link>
+  </item>
+  <item>
+    <metadata>
+      <title>Кукла в электричке</title>
+      <date>2015</date>
+      <titleType>descriptive</titleType>
+      <source>https://russianartarchive.net/ru/catalogue/document/F6214</source>
+      <description></description>
+      <notes>Работа из проекта «Уральская кома»</notes>
+    </metadata>
+    <link URL="https://hb.bizmrg.com/raan/F/000006214/F6214/adb3ecc0-f597-4c53-8c5b-0daa93bd5426-800px.jpg"></link>
+  </item>
+  <item>
+    <metadata>
+      <title>Купание красного меня</title>
+      <date>2015</date>
+      <type>mural</type>
+      <source>https://russianartarchive.net/ru/catalogue/document/F6256</source>
+      <description></description>
+      <notes></notes>
+    </metadata>
+    <file name="2015_51875e6a4151.jpg"></file>
   </item>
 </collection>
