@@ -305,7 +305,9 @@
     <file name="W8kLiM3JzJ0.jpg"></file>
     <events>
       <event type="exhibition" date="2025">
-        <description>Участвовала в выставке студенческих работ ФХО НТГСПИ</description>
+        <name>Выставка учебно-творческих работ "Учимся у мастеров"</name>
+        <URL>https://vk.com/fho_tho?w=wall-4891369_8448</URL>
+        <location name="ФХО НТГСПИ" />
       </event>
     </events>
     <relatedWorks>
@@ -313,6 +315,8 @@
         <title>The Virgin and Child</title>
         <creator>Sandro Botticelli</creator>
         <URL>https://hvrd.art/o/230460</URL>
+        <location>Harvard Art Museums</location>
+        <id>1943.105</id>
       </relatedWork>
     </relatedWorks>
   </item>
@@ -327,7 +331,9 @@
     <file name="9XUqkCxPd4Q.jpg"></file>
     <events>
       <event type="exhibition" date="2025">
-        <description>Участвовала в выставке студенческих работ ФХО НТГСПИ</description>
+        <name>Выставка учебно-творческих работ "Учимся у мастеров"</name>
+        <URL>https://vk.com/fho_tho?w=wall-4891369_8448</URL>
+        <location name="ФХО НТГСПИ" />
       </event>
     </events>
     <relatedWorks>

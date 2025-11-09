@@ -154,9 +154,9 @@ https://vk.com/club224151515?from=groups&z=photo-224151515_457239052%2Fwall-2241
 https://vk.com/club224151515?from=groups&z=photo-224151515_457239048%2Fwall-224151515_24
 
 История:  
-- 2025: Участвовала в выставке студенческих работ ФХО НТГСПИ
+- 2025: Участвовала в выставке 
 
-Оригинал: [Sandro Botticelli. The Virgin and Child](https://hvrd.art/o/230460)
+Оригинал: [Sandro Botticelli. The Virgin and Child](https://hvrd.art/o/230460); Harvard Art Museums; 1943.105
 
 ![](9XUqkCxPd4Q.jpg)
 
@@ -165,7 +165,7 @@ https://vk.com/club224151515?from=groups&z=photo-224151515_457239048%2Fwall-2241
 https://vk.com/wall-224151515?own=1&z=photo-224151515_457239038%2Fwall-224151515_16
 
 История:  
-- 2025: Участвовала в выставке студенческих работ ФХО НТГСПИ
+- 2025: Участвовала в выставке 
 
 Оригинал: [Sandro Botticelli. Idealised Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph)](https://sammlung.staedelmuseum.de/en/work/idealised-portrait-of-a-lady)
 
