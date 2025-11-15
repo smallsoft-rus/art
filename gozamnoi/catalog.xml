@@ -6,6 +6,9 @@
     <birthPlace></birthPlace>
     <website>https://t.me/s/gozamnoi</website>
   </author>
+  <files>
+    <file name="portrait.jpg" purpose="frontPortrait" />
+  </files>
   <item>
     <metadata>
       <title>Гриша</title>
