@@ -280,7 +280,9 @@
     <file name="D3JPd7IvjmPWdW.jpg"></file>
     <events>
       <event type="exhibition" date="2023">
-        <description>Участвовала в выставке студенческих работ "60 мгновений лета"</description>
+        <name>Выставка студенческих работ "60 мгновений лета"</name>
+        <URL>https://vk.com/wall-4891369_7782</URL>
+        <location name="ФХО НТГСПИ" />
       </event>
     </events>
   </item>
@@ -296,7 +298,9 @@
     <file name="PL5YpYmAf8k11X.jpg"></file>
     <events>
       <event type="exhibition" date="2023">
-        <description>Участвовала в выставке студенческих работ "60 мгновений лета"</description>
+        <name>Выставка студенческих работ "60 мгновений лета"</name>
+        <URL>https://vk.com/wall-4891369_7782</URL>
+        <location name="ФХО НТГСПИ" />
       </event>
     </events>
   </item>
@@ -312,7 +316,9 @@
     <file name="AlkoXNYGn06ydkd.jpg"></file>
     <events>
       <event type="exhibition" date="2023">
-        <description>Участвовала в выставке студенческих работ "60 мгновений лета"</description>
+        <name>Выставка студенческих работ "60 мгновений лета"</name>
+        <URL>https://vk.com/wall-4891369_7782</URL>
+        <location name="ФХО НТГСПИ" />
       </event>
     </events>
   </item>
@@ -328,7 +334,9 @@
     <file name="Ynws0B4oylGcDd.jpg"></file>
     <events>
       <event type="exhibition" date="2023">
-        <description>Участвовала в выставке студенческих работ "60 мгновений лета"</description>
+        <name>Выставка студенческих работ "60 мгновений лета"</name>
+        <URL>https://vk.com/wall-4891369_7782</URL>
+        <location name="ФХО НТГСПИ" />
       </event>
     </events>
   </item>
@@ -447,7 +455,9 @@
     <file name="2023_FYWHnTggyD0mXQ3.jpg"></file>
     <events>
       <event type="exhibition" date="2022">
-        <description>Участвовала в выставке студенческих работ ФХО в Центральной библиотеке</description>
+        <name>Выставка студенческих работ ФХО</name>
+        <URL>https://vk.com/album-4891369_289481614</URL>
+        <location name="Центральная библиотека г. Нижний Тагил" />
       </event>
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
@@ -467,7 +477,9 @@
     <file name="2023_uchitel.jpg"></file>
     <events>
       <event type="exhibition" date="2022">
-        <description>Участвовала в выставке студенческих работ ФХО в Центральной библиотеке (https://vk.com/photo-4891369_457257357)</description>
+        <name>Выставка студенческих работ ФХО</name>
+        <URL>https://vk.com/album-4891369_289481614</URL>
+        <location name="Центральная библиотека г. Нижний Тагил" />
       </event>
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>

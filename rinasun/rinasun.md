@@ -1,10 +1,11 @@
 # Каранина Ирина Дмитриевна
 
-![](yISCBHgZbTs.jpg)
+![Портрет](yISCBHgZbTs.jpg)
 
 Дата рождения: Апрель 1999  
 Место рождения: Красноуральск  
-Страница в интернете: https://vk.com/rinsun2033  
+Страница в интернете: <https://vk.com/rinsun2033>  
+
 
 ## Каталог работ
 
@@ -12,7 +13,7 @@
 
 Нет тебе прощения!, 2025. Холст на подрамнике, акрил, 60х80 см
 
-https://vk.com/rinsun2033?w=wall-225094823_197
+<https://vk.com/rinsun2033?w=wall-225094823_197>
 
 Эта картина, отражение моей не прощённой обиды. В первую очередь на саму себя. В ходе работы я пыталась переосмыслить поведение "черного пятна" с картины, но у меня не получилось. Этот человек годами пользовался моим доверием, потому как и привел меня к тому кого я любила.
 А потом.. мною воспользовался, когда я была на пороге отчаяния и потерянности, когда мир вокруг казался чернее мазута. Он споил меня, якобы пытаясь успокоить. А потом.. ну сами знаете.. можете себе вообразить.
@@ -24,7 +25,7 @@ https://vk.com/rinsun2033?w=wall-225094823_197
 
 Безумная любовь, 2025. Холст на подрамнике, акрил, 60х80 см
 
-https://vk.com/rinsun2033?w=wall-225094823_196
+<https://vk.com/rinsun2033?w=wall-225094823_196>
 
 Эта работа.. очень значимая. В процессе её написания, я сумела переосмыслить её содержание. Эта картина, отражение моих прошлых отношений, которые длились 6 лет..
 
@@ -45,7 +46,7 @@ https://vk.com/rinsun2033?w=wall-225094823_196
 
 Я не хочу вас слушать, 2025. Акрил флюорисцентный и люминесцентный, 60х80 см
 
-https://vk.com/rinsun2033?z=photo-225094823_456239430%2Fwall-225094823_184
+<https://vk.com/rinsun2033?z=photo-225094823_456239430%2Fwall-225094823_184>
 
 Картина посвящена оскорблениям, которые я за свою жизнь слышала от окружающих, одноклассников, посторонних людей, в том числе от близких людей, а также некогда очень любимого мной человека. Наверное, слова близких чаще всего задевали мое сердце, и это своего рода крик..! о нежелании мной все это более слушать.
 
@@ -62,7 +63,7 @@ https://vk.com/rinsun2033?z=photo-225094823_456239430%2Fwall-225094823_184
 
 Ты глух. Но мне есть что тебе сказать, 2025. Акрил, 40х50 см
 
-https://vk.com/rinsun2033?z=photo-225094823_456239400%2Fwall-225094823_173
+<https://vk.com/rinsun2033?z=photo-225094823_456239400%2Fwall-225094823_173>
 
 Вопреки всему понимания достичь очень сложная штука. И вот поэтому родилась эта работа. Она посвящена моему любимому. Он не всегда хочет меня слышать, хотя на самом деле в моей голове океан мыслей, которые я очень хочу до него донести, чтобы он их услышал и понял... чтобы принял меня такой, какая я есть.
 
@@ -70,7 +71,7 @@ https://vk.com/rinsun2033?z=photo-225094823_456239400%2Fwall-225094823_173
 
 Драконье логово, 2024
 
-https://vk.com/wall-225094823?z=photo-225094823_456239123%2Fwall-225094823_46
+<https://vk.com/wall-225094823?z=photo-225094823_456239123%2Fwall-225094823_46>
 
 От составителя: Написана в Крыму, на фестивале "Таврида Арт 2024"
 
@@ -78,13 +79,13 @@ https://vk.com/wall-225094823?z=photo-225094823_456239123%2Fwall-225094823_46
 
 Падение в бездну обучения, 2024. Холст без подрамника, Темпера, 30х30 см
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243239%2F8b7d44c8cc7397e2b3
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243239%2F8b7d44c8cc7397e2b3>
 
 ![](NUEWzNjwclY.jpg)
 
 Солнце, 2023. Акварель, Формат А3
 
-https://vk.com/albums-218867577?z=photo-218867577_457239487%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239487%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -93,7 +94,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239487%2Fphotos-218867577
 
 Призраки прошлого, 2023. Тушь, 25х25 см
 
-https://vk.com/albums-218867577?z=photo-218867577_457239486%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239486%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -102,7 +103,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239486%2Fphotos-218867577
 
 Цветы любви, 2023. Гуашь, Формат А5
 
-https://vk.com/albums-218867577?z=photo-218867577_457239485%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239485%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -111,7 +112,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239485%2Fphotos-218867577
 
 (Натюрморт с кувшином и фруктами), 2023. Акварель, Формат А2
 
-https://vk.com/albums-218867577?z=photo-218867577_457239484%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239484%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -120,7 +121,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239484%2Fphotos-218867577
 
 (Натюрморт с сухой травой), 2023. Акварель, Формат А2
 
-https://vk.com/albums-218867577?z=photo-218867577_457239483%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239483%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -129,7 +130,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239483%2Fphotos-218867577
 
 Начало жизни и судьбы, 2023. Холст на подрамнике, акрил, контур, 24.5х29 см
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243234%2Fd5571e4148433feec0
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243234%2Fd5571e4148433feec0>
 
 Если бы ты только знал насколько иронична бывает с нами судьба..
 Связывая одних за долго до самой жизни, по итогу разбрасывает в разные стороны, в надежде на то что они обретут что-то иное, чтобы в итоге отобрать и это..
@@ -138,73 +139,73 @@ https://vk.com/anarho_punk8grop?z=photo-79794560_457243234%2Fd5571e4148433feec0
 
 (Женщина на фоне деревьев), 2023
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243202%2Fwall-79794560_7054
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243202%2Fwall-79794560_7054>
 
 ![](ogl5qVVrOPo.jpg)
 
 Парный портрет, 2023
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243201%2F8a7db70e48b0aa5407
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243201%2F8a7db70e48b0aa5407>
 
 ![](4YjM3DMzV4c.jpg)
 
 Лягушка, 2023
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243200%2Fwall-79794560_7049
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243200%2Fwall-79794560_7049>
 
 ![](Tj69GtZYTD0.jpg)
 
 (Деревья), 2023
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243188%2Fwall-79794560_7046
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243188%2Fwall-79794560_7046>
 
 ![](8RVS_rWHfWw.jpg)
 
 (Крыльцо), 2023
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243190%2Fwall-79794560_7046
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243190%2Fwall-79794560_7046>
 
 ![](D3JPd7IvjmPWdW.jpg)
 
 Домик в деревне, 2023. Бумага, линер
 
-https://vk.com/wall-4891369?offset=340&own=1&z=photo-4891369_457261463%2Fwall-4891369_7851
+<https://vk.com/wall-4891369?offset=340&own=1&z=photo-4891369_457261463%2Fwall-4891369_7851>
 
 История:  
-- 2023: Участвовала в выставке студенческих работ "60 мгновений лета"
+- 2023: Участвовала в выставке [Выставка студенческих работ "60 мгновений лета"](https://vk.com/wall-4891369_7782); Место: ФХО НТГСПИ
 
 ![](PL5YpYmAf8k11X.jpg)
 
 Однажды в солнечный день улыбался ты, 2023. Бумага, гуашь
 
-https://vk.com/wall-4891369?offset=340&own=1&z=photo-4891369_457261464%2Fwall-4891369_7851
+<https://vk.com/wall-4891369?offset=340&own=1&z=photo-4891369_457261464%2Fwall-4891369_7851>
 
 История:  
-- 2023: Участвовала в выставке студенческих работ "60 мгновений лета"
+- 2023: Участвовала в выставке [Выставка студенческих работ "60 мгновений лета"](https://vk.com/wall-4891369_7782); Место: ФХО НТГСПИ
 
 ![](AlkoXNYGn06ydkd.jpg)
 
 Нет роднее места, 2023. Бумага, линер
 
-https://vk.com/wall-4891369?offset=340&own=1&z=photo-4891369_457261465%2Fwall-4891369_7851
+<https://vk.com/wall-4891369?offset=340&own=1&z=photo-4891369_457261465%2Fwall-4891369_7851>
 
 История:  
-- 2023: Участвовала в выставке студенческих работ "60 мгновений лета"
+- 2023: Участвовала в выставке [Выставка студенческих работ "60 мгновений лета"](https://vk.com/wall-4891369_7782); Место: ФХО НТГСПИ
 
 ![](Ynws0B4oylGcDd.jpg)
 
 Одиночество, 2023. Бумага, пастель
 
-https://vk.com/wall-4891369?offset=340&own=1&z=photo-4891369_457261466%2Fwall-4891369_7851
+<https://vk.com/wall-4891369?offset=340&own=1&z=photo-4891369_457261466%2Fwall-4891369_7851>
 
 История:  
-- 2023: Участвовала в выставке студенческих работ "60 мгновений лета"
+- 2023: Участвовала в выставке [Выставка студенческих работ "60 мгновений лета"](https://vk.com/wall-4891369_7782); Место: ФХО НТГСПИ
 
 ![](2023_QnTNAkfeeBzqASFWsNsW.jpg)
 
 У дома, 2023. Черная ручка
 
-https://vk.com/albums-218867577?z=photo-218867577_457239205%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239205%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -213,7 +214,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239205%2Fphotos-218867577
 
 Старый завод, 2023. Черная ручка, А4
 
-https://vk.com/albums-218867577?z=photo-218867577_457239204%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239204%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -222,7 +223,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239204%2Fphotos-218867577
 
 (Дерево), 2023. Акварель, белая ручка, А4
 
-https://vk.com/albums-218867577?z=photo-218867577_457239190%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239190%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -231,7 +232,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239190%2Fphotos-218867577
 
 Два Влюбленных, 2023. Акварель, маркеры, белая ручка, А4
 
-https://vk.com/albums-218867577?z=photo-218867577_457239089%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239089%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -240,7 +241,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239089%2Fphotos-218867577
 
 Сильнее судьбы, 2023. Холст без подрамника, акрил, контур, 35х50 см
 
-https://vk.com/albums-218867577?z=photo-218867577_457239085%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239085%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -249,7 +250,7 @@ https://vk.com/albums-218867577?z=photo-218867577_457239085%2Fphotos-218867577
 
 Взгляд вселенной, 2023. Акрил, поталь, 15х15 см
 
-https://vk.com/albums-218867577?z=photo-218867577_457239084%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239084%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -258,39 +259,39 @@ https://vk.com/albums-218867577?z=photo-218867577_457239084%2Fphotos-218867577
 
 Возлюбленный, 2022. Холст в багете, А4
 
-https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577>
 
 История:  
-- 2022: Участвовала в выставке студенческих работ ФХО в Центральной библиотеке
+- 2022: Участвовала в выставке [Выставка студенческих работ ФХО](https://vk.com/album-4891369_289481614); Место: Центральная библиотека г. Нижний Тагил
 - 2023: Выставлялась в ArtSpaceDepo (не продавалась)
 
 ![](2023_uchitel.jpg)
 
 Учитель, 2022. Холст в багете, А4
 
-https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577>
 
 История:  
-- 2022: Участвовала в выставке студенческих работ ФХО в Центральной библиотеке (https://vk.com/photo-4891369_457257357)
+- 2022: Участвовала в выставке [Выставка студенческих работ ФХО](https://vk.com/album-4891369_289481614); Место: Центральная библиотека г. Нижний Тагил
 - 2023: Выставлялась в ArtSpaceDepo (не продавалась)
 
 ![](jMecDqSKQ0o.jpg)
 
 (Деревья на фоне неба), 2022
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243097%2Fwall-79794560_6976
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243097%2Fwall-79794560_6976>
 
 ![](c4wZfphZqlo.jpg)
 
 (Женщина с синими волосами), 2022. Цифровой рисунок
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243089%2Fwall-79794560_6969
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243089%2Fwall-79794560_6969>
 
 ![](mf1lJApYDBA.jpg)
 
 Нелёгкий путь, 2022
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243086%2Fbd30159e8797cc6556
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243086%2Fbd30159e8797cc6556>
 
 Нелёгкий путь, самому стать для кого-то чем-то большим, чем просто звездой в небе...
 Однако, несмотря на трудный путь, это все равно становится большим счастьем.
@@ -299,19 +300,19 @@ https://vk.com/anarho_punk8grop?z=photo-79794560_457243086%2Fbd30159e8797cc6556
 
 Надежда умирает последней, 2022
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243020%2Ff0404e33066d3e20a8
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243020%2Ff0404e33066d3e20a8>
 
 ![](qvE0KslwDjU.jpg)
 
 Цветок, 2022
 
-https://vk.com/anarho_punk8grop?z=photo-79794560_457243007%2Fwall-79794560_6899
+<https://vk.com/anarho_punk8grop?z=photo-79794560_457243007%2Fwall-79794560_6899>
 
 ![](6Q4yyZZ4L4s.jpg)
 
 Дева солнца, 2022. Холст, акрил, А4
 
-https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242995%2Fb8411333c6a8e1bb44
+<https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242995%2Fb8411333c6a8e1bb44>
 
 От составителя: Картина триплекс. Первоначальное название: "Между нами пламя маяка".
 
@@ -322,7 +323,7 @@ https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242995%2Fb8411
 
 Скованные, 2022. Акрил, поталь, 35х50 см
 
-https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242977%2F710ce06659795d5ac4
+<https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242977%2F710ce06659795d5ac4>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -331,19 +332,19 @@ https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242977%2F710ce
 
 Дочь Солнца, 2022. Холст без подрамника, акрил, 21х30 см
 
-https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242966%2Fa5146b2495f5cf8503
+<https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242966%2Fa5146b2495f5cf8503>
 
 ![](Axq808wIKHM.jpg)
 
 Усталость, 2022
 
-https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242938%2F7037549ccea58e8be0
+<https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242938%2F7037549ccea58e8be0>
 
 ![](LA8NnIjwF2M.jpg)
 
 Скоротечность жизни, 2022. Бумага, акварель, 29.5х40 см
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242923%2Fa53df018f7f9ed1374
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242923%2Fa53df018f7f9ed1374>
 
 От составителя: Первоначальное название: "В глубине души".
 
@@ -354,13 +355,13 @@ https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242923%2Fa53df
 
 Портрет Натальи Запояско, 2022
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242919%2Fwall-79794560_6816
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242919%2Fwall-79794560_6816>
 
 ![](2022_NeWwAJxtRt8wSKC4LpXU.jpg)
 
 Агония, 2022. Акварель, белая ручка, А4
 
-https://vk.com/albums-218867577?z=photo-218867577_457239088%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239088%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -369,79 +370,79 @@ https://vk.com/albums-218867577?z=photo-218867577_457239088%2Fphotos-218867577
 
 Два сердца, что удерживаются цепями обстоятельств, 2021
 
-https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242975%2Fdb9d9264c2cca9a93b
+<https://vk.com/wall-79794560?offset=160&own=1&z=photo-79794560_457242975%2Fdb9d9264c2cca9a93b>
 
 ![](75CaSY1iFADbPG5g.jpg)
 
 (Ворон), 2021
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242892%2Fwall-79794560_6778
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242892%2Fwall-79794560_6778>
 
 ![](cLCt7RTiVpIXG2b.jpg)
 
 Омут, 2021
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242884%2F535c2d3f84f71ed751
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242884%2F535c2d3f84f71ed751>
 
 ![](kJG3K3CJsHR.jpg)
 
 Яблочки, 2021
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242885%2F7547f222178e8b7790
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242885%2F7547f222178e8b7790>
 
 ![](X6e4sAoU2vjP02ZwiI.jpg)
 
 Памятник затопленным кораблям, 2021. Акварель в технике "по сырому"
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242866%2F0cd17169ccd7f71b0c
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242866%2F0cd17169ccd7f71b0c>
 
 ![](G1mrswtd6uUhpsxC.jpg)
 
 Пилигрим, 2021
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242850%2F4296f2955fe25aefd4
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242850%2F4296f2955fe25aefd4>
 
 ![](2SqPRYqBtC7j.jpg)
 
 Портрет Юлии Евдокимовой, 2021
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242849%2Fc5ba6f67963c0f4689
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242849%2Fc5ba6f67963c0f4689>
 
 ![](2VQeEYK2YQCrQSu.jpg)
 
 Эскиз открытки к 300-летию Нижнего Тагила, 2021
 
-https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242774%2F593cf683436b853551
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242774%2F593cf683436b853551>
 
 ![](O07hROoLSaCGqWf.jpg)
 
 Автопортрет, 2020
 
-https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242753%2F96668bd370642cd79a
+<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242753%2F96668bd370642cd79a>
 
 ![](8hvAblfjgmnhd2dh.jpg)
 
 Разочарование, 2020
 
-https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242752%2Fdf37ba9935cf17b880
+<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242752%2Fdf37ba9935cf17b880>
 
 ![](SnTo8ZG7tUS8c4eV7.jpg)
 
 Разум и чувства, 2020
 
-https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242688%2F035f1ffdeeefb54d25
+<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242688%2F035f1ffdeeefb54d25>
 
 ![](CvaNU4AGNb0rk.jpg)
 
 Страсть, 2020
 
-https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242650%2F250a7cbbd4581eafc4
+<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242650%2F250a7cbbd4581eafc4>
 
 ![](2QQMDEAZ0RbOYnQ3XKDdE.jpg)
 
 Судьбоносная встреча, 2020. Холст на подрамнике, А4
 
-https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242617%2F13e6009b57d8d7b6bd
+<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242617%2F13e6009b57d8d7b6bd>
 
 Путь к свету через темноту. А свет - это любящее тебя сердце... Ключ от которого только у тебя..
 
@@ -452,73 +453,73 @@ https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242617%2F13e60
 
 Сонливость, 2020
 
-https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242499%2F9c3d3c4783288bb895
+<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242499%2F9c3d3c4783288bb895>
 
 ![](9Xlk3jtblNAKPE9cbnC0s.jpg)
 
 Берегите себя и своих близких, 2020
 
-https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242512%2Fa7b61ccefcc0f52e07
+<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242512%2Fa7b61ccefcc0f52e07>
 
 ![](OcqPV8V1OPK2MoYubOv.jpg)
 
 Портрет матери, 2020
 
-https://vk.com/wall-79794560?offset=580&own=1&z=photo-79794560_457242443%2F6af3d7981384b960f1
+<https://vk.com/wall-79794560?offset=580&own=1&z=photo-79794560_457242443%2F6af3d7981384b960f1>
 
 ![](7Vn26MLIRmBthWnhQ.jpg)
 
 Она все ещё хочет быть свободной, но сделает все ради любви, 2020
 
-https://vk.com/wall-79794560?offset=640&own=1&z=photo-79794560_457242401%2F0eca9e4471bb8cf0f1
+<https://vk.com/wall-79794560?offset=640&own=1&z=photo-79794560_457242401%2F0eca9e4471bb8cf0f1>
 
 ![](2gDFZTWJm2tGvUWBX.jpg)
 
 (Цветы на фоне луны), 2019
 
-https://vk.com/wall-79794560?offset=640&own=1&z=photo-79794560_457242334%2Fe1d7c3deef9349441b
+<https://vk.com/wall-79794560?offset=640&own=1&z=photo-79794560_457242334%2Fe1d7c3deef9349441b>
 
 ![](LPl_qb1GskShW8tWs.jpg)
 
 Портрет одногруппницы, 2019
 
-https://vk.com/wall-79794560?offset=800&own=1&z=photo-79794560_457242183%2F2e5c1f9c7b6530aa74
+<https://vk.com/wall-79794560?offset=800&own=1&z=photo-79794560_457242183%2F2e5c1f9c7b6530aa74>
 
 ![](lIVgrtFzp2JzR.jpg)
 
 Гуси-лебеди, 2019
 
-https://vk.com/wall-79794560?offset=800&own=1&z=photo-79794560_457241965%2F65bdb57b6f0ec012fa
+<https://vk.com/wall-79794560?offset=800&own=1&z=photo-79794560_457241965%2F65bdb57b6f0ec012fa>
 
 ![](2EDbj4uCj.jpg)
 
 Портрет Дарьи Ступак, 2019
 
-https://vk.com/wall-79794560?offset=980&own=1&z=photo-79794560_456241815%2Fwall-79794560_5550
+<https://vk.com/wall-79794560?offset=980&own=1&z=photo-79794560_456241815%2Fwall-79794560_5550>
 
 ![](tdT3HCrBOx1w1J.jpg)
 
 (Арка), 2019
 
-https://vk.com/photo-79794560_456241791
+<https://vk.com/photo-79794560_456241791>
 
 ![](DoTRBItS57yZrtpg.jpg)
 
 Автопортрет, 2019
 
-https://vk.com/wall-79794560?offset=1300&own=1&z=photo-79794560_456241155%2F1bec6ce12becb26567
+<https://vk.com/wall-79794560?offset=1300&own=1&z=photo-79794560_456241155%2F1bec6ce12becb26567>
 
 ![](P4HO7Sgb6iAXtzV.jpg)
 
 Стул, 2019
 
-https://vk.com/wall-79794560?offset=1300&own=1&z=photo-79794560_456241132%2Fd32dbb9a0050157231
+<https://vk.com/wall-79794560?offset=1300&own=1&z=photo-79794560_456241132%2Fd32dbb9a0050157231>
 
 ![](7wmQ7eV7FqE.jpg)
 
 (Натюрморт с кувшином и яблоком), 2018. Акварель, 50х60 см
 
-https://vk.com/albums-218867577?z=photo-218867577_457239482%2Fphotos-218867577
+<https://vk.com/albums-218867577?z=photo-218867577_457239482%2Fphotos-218867577>
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
@@ -527,49 +528,49 @@ https://vk.com/albums-218867577?z=photo-218867577_457239482%2Fphotos-218867577
 
 (Натюрморт), 2018
 
-https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456241007%2Fe403419e1cdcfe700b
+<https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456241007%2Fe403419e1cdcfe700b>
 
 ![](Rl2OCIarZOn3R0cC.jpg)
 
 (Портрет девушки), 2018
 
-https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456240850%2F20426702f02506a2a4
+<https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456240850%2F20426702f02506a2a4>
 
 ![](CZkBa9TFHjFwoGrTU.jpg)
 
 Не грусти, скоро взойдет наше солнце, 2018
 
-https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456240775%2F3a4a6184cb04d11c65
+<https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456240775%2F3a4a6184cb04d11c65>
 
 ![](NqXMgGmHKK73XyQ4TS.jpg)
 
 (Розы), 2018
 
-https://vk.com/wall-79794560?offset=1740&own=1&z=photo-79794560_456240718%2Fc80808a4dfc9d99263
+<https://vk.com/wall-79794560?offset=1740&own=1&z=photo-79794560_456240718%2Fc80808a4dfc9d99263>
 
 ![](D1rxEP7maKWmtlGfF.jpg)
 
 (Дракон), 2018
 
-https://vk.com/wall-79794560?offset=1750&own=1&z=photo-79794560_456240667%2F75c914140ff41412fc
+<https://vk.com/wall-79794560?offset=1750&own=1&z=photo-79794560_456240667%2F75c914140ff41412fc>
 
 ![](NJ2PtLWJM4u7Q9tP1.jpg)
 
 Я - Волк, 2018
 
-https://vk.com/wall-79794560?offset=1750&own=1&z=photo-79794560_456240660%2F2f9fcf598910291c68
+<https://vk.com/wall-79794560?offset=1750&own=1&z=photo-79794560_456240660%2F2f9fcf598910291c68>
 
 ![](hJBKq2oL5yWWzFC.jpg)
 
 (Натюрморт с чайником), 2017
 
-https://vk.com/wall-79794560?offset=2100&own=1&z=photo-79794560_456240175%2Fwall-79794560_3685
+<https://vk.com/wall-79794560?offset=2100&own=1&z=photo-79794560_456240175%2Fwall-79794560_3685>
 
 ![](KpBHAi3M6h9bsZ8l.jpg)
 
 (Осенняя набережная), 2017. Масло
 
-https://vk.com/wall-79794560?offset=2100&own=1
+<https://vk.com/wall-79794560?offset=2100&own=1>
 
 Ирина: Моя первая работа масляными красками.
 
@@ -577,49 +578,49 @@ https://vk.com/wall-79794560?offset=2100&own=1
 
 (Любовь русалки), 2017
 
-https://vk.com/wall-79794560?offset=2640&own=1&z=photo-79794560_456239772%2Fwall-79794560_3159
+<https://vk.com/wall-79794560?offset=2640&own=1&z=photo-79794560_456239772%2Fwall-79794560_3159>
 
 ![](1UhOL41MDqqMDGw.jpg)
 
 (Осень), 2016. Гуашь
 
-https://vk.com/wall-79794560?offset=2640&own=1&z=photo-79794560_456239769%2F1c10b95ba485b3c9f2
+<https://vk.com/wall-79794560?offset=2640&own=1&z=photo-79794560_456239769%2F1c10b95ba485b3c9f2>
 
 ![](Ce1CWt1OiL0fevAN.jpg)
 
 Икар и солнце, 2016
 
-https://vk.com/wall-79794560_6350
+<https://vk.com/wall-79794560_6350>
 
 ![](KgqSCe7iM-DKg.jpg)
 
 (Сова), 2016
 
-https://vk.com/wall-79794560?offset=3680&own=1&z=photo-79794560_415758360%2Fa6a6786603741cc1c3
+<https://vk.com/wall-79794560?offset=3680&own=1&z=photo-79794560_415758360%2Fa6a6786603741cc1c3>
 
 ![](A3E2yQGTVQJCmoQ.jpg)
 
 Фантазия влюблённых, 2015
 
-https://vk.com/wall-79794560?offset=4080&own=1&z=photo-79794560_395865182%2F0e957fd0e743194491
+<https://vk.com/wall-79794560?offset=4080&own=1&z=photo-79794560_395865182%2F0e957fd0e743194491>
 
 ![](s26KfAdgUzZHlJGhKtA.jpg)
 
 Влюбленная в небо никогда не упадет на землю камнем, 2015
 
-https://vk.com/wall-79794560?offset=4080&own=1&z=photo-79794560_394505698%2Fe6725e2838c049a5cc
+<https://vk.com/wall-79794560?offset=4080&own=1&z=photo-79794560_394505698%2Fe6725e2838c049a5cc>
 
 ![](PTrHvcsr05u7DVVjNEriVoq.jpg)
 
 (Орел), 2015
 
-https://vk.com/wall-79794560?offset=4680&own=1&z=photo177327870_356773771%2F55f84f6382c3a24cbe
+<https://vk.com/wall-79794560?offset=4680&own=1&z=photo177327870_356773771%2F55f84f6382c3a24cbe>
 
 ![](KpXq2pLAPc4fvDUIp5fZc.jpg)
 
 (Змея), 2014
 
-https://vk.com/wall-79794560?offset=5140&own=1&z=photo-79794560_348380092%2F181b188efb2ff5a770
+<https://vk.com/wall-79794560?offset=5140&own=1&z=photo-79794560_348380092%2F181b188efb2ff5a770>
 
 ## Галерея
 
