@@ -4,6 +4,7 @@
     <displayName>Франт Анна</displayName>
     <birthDate>Апрель 1989</birthDate>
     <birthPlace>Нижний Тагил</birthPlace>
+    <signature>Франт</signature>
     <website>https://vk.com/filkins</website>
   </author>
   <files>
@@ -33,11 +34,6 @@
         <URL>https://ntgmk.ru/ru</URL>
       </subject>
     </subjects>
-    <events>
-      <event type="exhibition" date="2025">
-        <description>Участвовала в выставке художественных работ «Территория» на территории Старого Демидовского завода.</description>
-      </event>
-    </events>
   </item>
   <item>
     <metadata>
@@ -56,11 +52,6 @@
         <URL>https://ntobitel.cerkov.ru/voznesenskij-xram</URL>
       </subject>
     </subjects>
-    <events>
-      <event type="exhibition" date="2025">
-        <description>Участвовала в выставке художественных работ «Территория» на территории Старого Демидовского завода.</description>
-      </event>
-    </events>
   </item>
   <item>
     <metadata>
@@ -79,7 +70,8 @@
     </subjects>
     <events>
       <event type="exhibition" date="2025">
-        <description>Выставлялась в музее ЕВРАЗ НТМК</description>
+        <name>Выставка в музее ЕВРАЗ НТМК</name>
+        <URL>https://vk.com/wall35705684_10557</URL>
       </event>
     </events>
   </item>
@@ -110,11 +102,6 @@
         <URL>https://anevsly-ntagil.cerkov.ru</URL>
       </subject>
     </subjects>
-    <events>
-      <event type="exhibition" date="2025">
-        <description>Участвовала в выставке художественных работ «Территория» на территории Старого Демидовского завода.</description>
-      </event>
-    </events>
   </item>
   <item>
     <metadata>
@@ -212,7 +199,8 @@
     <file name="aYsbcvBjmfbF.jpg"></file>
     <events>
       <event type="exhibition" date="2024">
-        <description>Выставлялась в Анапе в галерее "Белый квадрат"</description>
+        <description>Выставлялась в галерее "Белый квадрат", г. Анапа</description>
+        <URL>https://vk.com/wall35705684?w=wall35705684_9933</URL>
       </event>
     </events>
   </item>
@@ -573,7 +561,8 @@
         <description>Выставлялась в ArtSpaceDepo</description>
       </event>
       <event type="exhibition" date="2024">
-        <description>Выставлялась в Анапе в галерее "Белый квадрат"</description>
+        <description>Выставлялась в галерее "Белый квадрат", г. Анапа</description>
+        <URL>https://vk.com/wall35705684?w=wall35705684_9933</URL>
       </event>
     </events>
   </item>
@@ -639,7 +628,8 @@
         <description>Выставлялась в ArtSpaceDepo</description>
       </event>
       <event type="exhibition" date="2024">
-        <description>Выставлялась в Анапе в галерее "Белый квадрат"</description>
+        <description>Выставлялась в галерее "Белый квадрат", г. Анапа</description>
+        <URL>https://vk.com/wall35705684?w=wall35705684_9933</URL>
       </event>
     </events>
   </item>
