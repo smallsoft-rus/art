@@ -23,6 +23,7 @@
     <metadata>
       <title>Нет тебе прощения!</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>60х80 см</dimensions>
       <medium>Холст на подрамнике, акрил</medium>
       <source>https://vk.com/rinsun2033?w=wall-225094823_197</source>
@@ -34,11 +35,23 @@
       <notes></notes>
     </metadata>
     <link URL="https://sun9-31.userapi.com/s/v1/if2/djnM_ypCVuEOzGB-bBZM80mWvBUiXM9JXwM7BeXnM6xcCOanbb2wPZEpqIgiir6DkPCdipuCHVGzNpPT65K2JBYh.jpg?quality=95&amp;as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&amp;from=bu&amp;cs=2560x0" />
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>Нет тебе прощения / Это было сном / Предатель / ERROR</content>
+      </text>
+      <text category="inscription">
+        <type>signature</type>
+        <location>Снизу в центре</location>
+        <content>Rina Noise</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
       <title>Безумная любовь</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>60х80 см</dimensions>
       <medium>Холст на подрамнике, акрил</medium>
       <source>https://vk.com/rinsun2033?w=wall-225094823_196</source>
@@ -59,11 +72,18 @@
       <notes></notes>
     </metadata>
     <file name="2025_JxvFddGEwIeq.jpg"></file>
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>Я ведь люблю / Он хороший / Я так любила но терпела все это зря / За что ты так / [...] ведь привычки не меняются / Disturbed</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
       <title>Я не хочу вас слушать</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>60х80 см</dimensions>
       <medium>Акрил флюорисцентный и люминесцентный</medium>
       <source>https://vk.com/rinsun2033?z=photo-225094823_456239430%2Fwall-225094823_184</source>
@@ -80,11 +100,20 @@
       <notes></notes>
     </metadata>
     <file name="VVT18ADAImJTcoAOH.jpg"></file>
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>Тварь / Шлюха / Мразь / Курва / Сука / Дура / Ущербная / Выродок / Уродка / Падаль / Дрянь
+
+Я не хочу вас слушать</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
       <title>Ты глух. Но мне есть что тебе сказать</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>40х50 см</dimensions>
       <medium>Акрил</medium>
       <source>https://vk.com/rinsun2033?z=photo-225094823_456239400%2Fwall-225094823_173</source>
@@ -98,6 +127,7 @@
     <metadata>
       <title>Драконье логово</title>
       <date>2024</date>
+      <type>painting</type>
       <source>https://vk.com/wall-225094823?z=photo-225094823_456239123%2Fwall-225094823_46</source>
       <description></description>
       <notes>Написана в Крыму, на фестивале "Таврида Арт 2024"</notes>
@@ -120,6 +150,7 @@
     <metadata>
       <title>Солнце</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>Формат А3</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239487%2Fphotos-218867577</source>
@@ -137,6 +168,7 @@
     <metadata>
       <title>Призраки прошлого</title>
       <date>2023</date>
+      <type>drawing</type>
       <dimensions>25х25 см</dimensions>
       <medium>Тушь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239486%2Fphotos-218867577</source>
@@ -154,6 +186,7 @@
     <metadata>
       <title>Цветы любви</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>Формат А5</dimensions>
       <medium>Гуашь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239485%2Fphotos-218867577</source>
@@ -171,6 +204,7 @@
     <metadata>
       <title>Натюрморт с кувшином и фруктами</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>Формат А2</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239484%2Fphotos-218867577</source>
@@ -189,6 +223,7 @@
     <metadata>
       <title>Натюрморт с сухой травой</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>Формат А2</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239483%2Fphotos-218867577</source>
@@ -207,6 +242,7 @@
     <metadata>
       <title>Начало жизни и судьбы</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>24.5х29 см</dimensions>
       <medium>Холст на подрамнике, акрил, контур</medium>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243234%2Fd5571e4148433feec0</source>
@@ -231,6 +267,7 @@
     <metadata>
       <title>Парный портрет</title>
       <date>2023</date>
+      <type>drawing</type>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243201%2F8a7db70e48b0aa5407</source>
       <description></description>
       <notes></notes>
@@ -241,6 +278,7 @@
     <metadata>
       <title>Лягушка</title>
       <date>2023</date>
+      <type>drawing</type>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243200%2Fwall-79794560_7049</source>
       <description></description>
       <notes></notes>
@@ -251,6 +289,7 @@
     <metadata>
       <title>Деревья</title>
       <date>2023</date>
+      <type>painting</type>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243188%2Fwall-79794560_7046</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -262,6 +301,7 @@
     <metadata>
       <title>Крыльцо</title>
       <date>2023</date>
+      <type>painting</type>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243190%2Fwall-79794560_7046</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -273,6 +313,7 @@
     <metadata>
       <title>Домик в деревне</title>
       <date>2023</date>
+      <type>drawing</type>
       <medium>Бумага, линер</medium>
       <source>https://vk.com/wall-4891369?offset=340&amp;own=1&amp;z=photo-4891369_457261463%2Fwall-4891369_7851</source>
       <description></description>
@@ -291,6 +332,7 @@
     <metadata>
       <title>Однажды в солнечный день улыбался ты</title>
       <date>2023</date>
+      <type>painting</type>
       <medium>Бумага, гуашь</medium>
       <source>https://vk.com/wall-4891369?offset=340&amp;own=1&amp;z=photo-4891369_457261464%2Fwall-4891369_7851</source>
       <description></description>
@@ -309,6 +351,7 @@
     <metadata>
       <title>Нет роднее места</title>
       <date>2023</date>
+      <type>drawing</type>
       <medium>Бумага, линер</medium>
       <source>https://vk.com/wall-4891369?offset=340&amp;own=1&amp;z=photo-4891369_457261465%2Fwall-4891369_7851</source>
       <description></description>
@@ -345,6 +388,7 @@
     <metadata>
       <title>У дома</title>
       <date>2023</date>
+      <type>drawing</type>
       <medium>Черная ручка</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239205%2Fphotos-218867577</source>
       <description></description>
@@ -361,6 +405,7 @@
     <metadata>
       <title>Старый завод</title>
       <date>2023</date>
+      <type>drawing</type>
       <dimensions>А4</dimensions>
       <medium>Черная ручка</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239204%2Fphotos-218867577</source>
@@ -378,6 +423,7 @@
     <metadata>
       <title>Дерево</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>А4</dimensions>
       <medium>Акварель, белая ручка</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239190%2Fphotos-218867577</source>
@@ -396,6 +442,7 @@
     <metadata>
       <title>Два Влюбленных</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>А4</dimensions>
       <medium>Акварель, маркеры, белая ручка</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239089%2Fphotos-218867577</source>
@@ -413,6 +460,7 @@
     <metadata>
       <title>Сильнее судьбы</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>35х50 см</dimensions>
       <medium>Холст без подрамника, акрил, контур</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239085%2Fphotos-218867577</source>
@@ -425,11 +473,18 @@
         <description>Выставлялась в ArtSpaceDepo</description>
       </event>
     </events>
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>Пока человек не сдается / он сильнее своей судьбы</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
       <title>Взгляд вселенной</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>15х15 см</dimensions>
       <medium>Акрил, поталь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239084%2Fphotos-218867577</source>
@@ -447,6 +502,7 @@
     <metadata>
       <title>Возлюбленный</title>
       <date>2022</date>
+      <type>painting</type>
       <dimensions>А4</dimensions>
       <medium>Холст в багете</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577</source>
@@ -469,6 +525,7 @@
     <metadata>
       <title>Учитель</title>
       <date>2022</date>
+      <type>painting</type>
       <dimensions>А4</dimensions>
       <medium>Холст в багете</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577</source>
@@ -502,6 +559,7 @@
     <metadata>
       <title>Женщина с синими волосами</title>
       <date>2022</date>
+      <type>digital art</type>
       <medium>Цифровой рисунок</medium>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243089%2Fwall-79794560_6969</source>
       <titleType>descriptive</titleType>
@@ -545,6 +603,7 @@
     <metadata>
       <title>Дева солнца</title>
       <date>2022</date>
+      <type>painting</type>
       <dimensions>А4</dimensions>
       <medium>Холст, акрил</medium>
       <source>https://vk.com/wall-79794560?offset=160&amp;own=1&amp;z=photo-79794560_457242995%2Fb8411333c6a8e1bb44</source>
@@ -562,6 +621,7 @@
     <metadata>
       <title>Скованные</title>
       <date>2022</date>
+      <type>painting</type>
       <dimensions>35х50 см</dimensions>
       <medium>Акрил, поталь</medium>
       <source>https://vk.com/wall-79794560?offset=160&amp;own=1&amp;z=photo-79794560_457242977%2F710ce06659795d5ac4</source>
@@ -579,6 +639,7 @@
     <metadata>
       <title>Дочь Солнца</title>
       <date>2022</date>
+      <type>painting</type>
       <dimensions>21х30 см</dimensions>
       <medium>Холст без подрамника, акрил</medium>
       <source>https://vk.com/wall-79794560?offset=160&amp;own=1&amp;z=photo-79794560_457242966%2Fa5146b2495f5cf8503</source>
@@ -591,6 +652,7 @@
     <metadata>
       <title>Усталость</title>
       <date>2022</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=160&amp;own=1&amp;z=photo-79794560_457242938%2F7037549ccea58e8be0</source>
       <description></description>
       <notes></notes>
@@ -601,6 +663,7 @@
     <metadata>
       <title>Скоротечность жизни</title>
       <date>2022</date>
+      <type>painting</type>
       <dimensions>29.5х40 см</dimensions>
       <medium>Бумага, акварель</medium>
       <source>https://vk.com/wall-79794560?offset=200&amp;own=1&amp;z=photo-79794560_457242923%2Fa53df018f7f9ed1374</source>
@@ -628,6 +691,7 @@
     <metadata>
       <title>Агония</title>
       <date>2022</date>
+      <type>painting</type>
       <dimensions>А4</dimensions>
       <medium>Акварель, белая ручка</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239088%2Fphotos-218867577</source>
@@ -650,6 +714,20 @@
       <notes></notes>
     </metadata>
     <file name="QttCABaGy8e.jpg"></file>
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>Обратятся все обстаятельства в пепел... Обязательно будем вместе! Я буду хранить нашу тайну
+Love
+
+Я буду тебя беречь... Обратятся все обстоятельства в пепел и мы обязательно будем рядом!</content>
+      </text>
+      <text category="inscription">
+        <type>signature</type>
+        <location>Снизу в центре</location>
+        <content>10.10.21 Rina Noise</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
@@ -686,12 +764,25 @@
     <metadata>
       <title>Памятник затопленным кораблям</title>
       <date>2021</date>
+      <type>painting</type>
       <medium>Акварель в технике "по сырому"</medium>
       <source>https://vk.com/wall-79794560?offset=200&amp;own=1&amp;z=photo-79794560_457242866%2F0cd17169ccd7f71b0c</source>
       <description></description>
       <notes></notes>
     </metadata>
     <file name="X6e4sAoU2vjP02ZwiI.jpg"></file>
+    <texts>
+      <text category="inscription">
+        <type>signature</type>
+        <location>Правый верхний угол</location>
+        <content>Sevastopol / Monument to the Souttled Ships</content>
+      </text>
+      <text category="inscription">
+        <type>signature</type>
+        <location>Правый нижний угол</location>
+        <content>Rina Noise 18.07.21</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
@@ -717,11 +808,29 @@
     <metadata>
       <title>Эскиз открытки к 300-летию Нижнего Тагила</title>
       <date>2021</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=200&amp;own=1&amp;z=photo-79794560_457242774%2F593cf683436b853551</source>
       <description></description>
       <notes></notes>
     </metadata>
     <file name="2VQeEYK2YQCrQSu.jpg"></file>
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>Эскизы N2
+
+Открытка / #300 лет Нижний Тагил / Демидовский завод
+
+Фотозона и путеводитель / Путеводитель по достопримечательностям Нижнего Тагила
+
+Фотозона Арт-объект к 300-летию Нижнего Тагила / Может быть представлен в качестве идеи открытки</content>
+      </text>
+      <text category="inscription">
+        <type>signature</type>
+        <location>Правый нижний угол</location>
+        <content>Выполнила: Каранина ИД ЧПД / Преподаватель: Беспамятных АВ</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
@@ -767,6 +876,7 @@
     <metadata>
       <title>Судьбоносная встреча</title>
       <date>2020</date>
+      <type>painting</type>
       <dimensions>А4</dimensions>
       <medium>Холст на подрамнике</medium>
       <source>https://vk.com/wall-79794560?offset=320&amp;own=1&amp;z=photo-79794560_457242617%2F13e6009b57d8d7b6bd</source>
@@ -784,6 +894,7 @@
     <metadata>
       <title>Сонливость</title>
       <date>2020</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=320&amp;own=1&amp;z=photo-79794560_457242499%2F9c3d3c4783288bb895</source>
       <description></description>
       <notes></notes>
@@ -794,6 +905,7 @@
     <metadata>
       <title>Берегите себя и своих близких</title>
       <date>2020</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=320&amp;own=1&amp;z=photo-79794560_457242512%2Fa7b61ccefcc0f52e07</source>
       <description></description>
       <notes></notes>
@@ -824,6 +936,7 @@
     <metadata>
       <title>Цветы на фоне луны</title>
       <date>2019</date>
+      <type>painting</type>
       <source>https://vk.com/wall-79794560?offset=640&amp;own=1&amp;z=photo-79794560_457242334%2Fe1d7c3deef9349441b</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -835,6 +948,7 @@
     <metadata>
       <title>Портрет одногруппницы</title>
       <date>2019</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=800&amp;own=1&amp;z=photo-79794560_457242183%2F2e5c1f9c7b6530aa74</source>
       <description></description>
       <notes></notes>
@@ -855,6 +969,7 @@
     <metadata>
       <title>Портрет Дарьи Ступак</title>
       <date>2019</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=980&amp;own=1&amp;z=photo-79794560_456241815%2Fwall-79794560_5550</source>
       <description></description>
       <notes></notes>
@@ -865,6 +980,7 @@
     <metadata>
       <title>Арка</title>
       <date>2019</date>
+      <type>drawing</type>
       <source>https://vk.com/photo-79794560_456241791</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -876,6 +992,7 @@
     <metadata>
       <title>Автопортрет</title>
       <date>2019</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=1300&amp;own=1&amp;z=photo-79794560_456241155%2F1bec6ce12becb26567</source>
       <description></description>
       <notes></notes>
@@ -886,6 +1003,7 @@
     <metadata>
       <title>Стул</title>
       <date>2019</date>
+      <type>painting</type>
       <source>https://vk.com/wall-79794560?offset=1300&amp;own=1&amp;z=photo-79794560_456241132%2Fd32dbb9a0050157231</source>
       <description></description>
       <notes></notes>
@@ -896,6 +1014,7 @@
     <metadata>
       <title>Натюрморт с кувшином и яблоком</title>
       <date>2018</date>
+      <type>painting</type>
       <dimensions>50х60 см</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239482%2Fphotos-218867577</source>
@@ -914,6 +1033,7 @@
     <metadata>
       <title>Натюрморт</title>
       <date>2018</date>
+      <type>painting</type>
       <source>https://vk.com/wall-79794560?offset=1480&amp;own=1&amp;z=photo-79794560_456241007%2Fe403419e1cdcfe700b</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -925,6 +1045,7 @@
     <metadata>
       <title>Портрет девушки</title>
       <date>2018</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=1480&amp;own=1&amp;z=photo-79794560_456240850%2F20426702f02506a2a4</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -936,6 +1057,7 @@
     <metadata>
       <title>Не грусти, скоро взойдет наше солнце</title>
       <date>2018</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=1480&amp;own=1&amp;z=photo-79794560_456240775%2F3a4a6184cb04d11c65</source>
       <description></description>
       <notes></notes>
@@ -957,6 +1079,7 @@
     <metadata>
       <title>Дракон</title>
       <date>2018</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=1750&amp;own=1&amp;z=photo-79794560_456240667%2F75c914140ff41412fc</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -989,6 +1112,7 @@
     <metadata>
       <title>Осенняя набережная</title>
       <date>2017</date>
+      <type>painting</type>
       <medium>Масло</medium>
       <source>https://vk.com/wall-79794560?offset=2100&amp;own=1</source>
       <titleType>descriptive</titleType>
@@ -1001,17 +1125,25 @@
     <metadata>
       <title>Любовь русалки</title>
       <date>2017</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=2640&amp;own=1&amp;z=photo-79794560_456239772%2Fwall-79794560_3159</source>
       <titleType>descriptive</titleType>
       <description></description>
       <notes></notes>
     </metadata>
     <file name="onIBUHMrwoEXoJGNOtr.jpg"></file>
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>Your? / - Mine</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
       <title>Осень</title>
       <date>2016</date>
+      <type>painting</type>
       <medium>Гуашь</medium>
       <source>https://vk.com/wall-79794560?offset=2640&amp;own=1&amp;z=photo-79794560_456239769%2F1c10b95ba485b3c9f2</source>
       <titleType>descriptive</titleType>
@@ -1024,16 +1156,26 @@
     <metadata>
       <title>Икар и солнце</title>
       <date>2016</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560_6350</source>
       <description></description>
       <notes></notes>
     </metadata>
     <file name="Ce1CWt1OiL0fevAN.jpg"></file>
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>[...] все, так пусть, / Все будто напрочь выжжено огнем...
+
+И знаете, я так к нему хочу, / Прижаться и рядом с ним остаться. / Но он молчит, и я увы молчу / Но знаю я одно: нельзя сдаваться!</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
       <title>Сова</title>
       <date>2016</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=3680&amp;own=1&amp;z=photo-79794560_415758360%2Fa6a6786603741cc1c3</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1045,6 +1187,7 @@
     <metadata>
       <title>Фантазия влюблённых</title>
       <date>2015</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=4080&amp;own=1&amp;z=photo-79794560_395865182%2F0e957fd0e743194491</source>
       <description></description>
       <notes></notes>
@@ -1055,6 +1198,7 @@
     <metadata>
       <title>Влюбленная в небо никогда не упадет на землю камнем</title>
       <date>2015</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=4080&amp;own=1&amp;z=photo-79794560_394505698%2Fe6725e2838c049a5cc</source>
       <description></description>
       <notes></notes>
@@ -1065,6 +1209,7 @@
     <metadata>
       <title>Орел</title>
       <date>2015</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=4680&amp;own=1&amp;z=photo177327870_356773771%2F55f84f6382c3a24cbe</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1076,6 +1221,7 @@
     <metadata>
       <title>Змея</title>
       <date>2014</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-79794560?offset=5140&amp;own=1&amp;z=photo-79794560_348380092%2F181b188efb2ff5a770</source>
       <titleType>descriptive</titleType>
       <description></description>
