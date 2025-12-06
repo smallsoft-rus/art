@@ -6,46 +6,9 @@
     <birthPlace>Нижний Тагил</birthPlace>
     <website>https://vk.com/club224151515</website>
   </author>
-  <document title="Краткая биография">Страница на You Do: https://nizhnij-tagil.youdo.com/m13094685
-
-Училась в МБОУ СОШ № 44, в 2022 г. поступила на ФХО НТГСПИ (Изобразительное искусство и дизайн).
-
-2022 - 1 место в конкурсе рисунка «Домовой воробей - птица года 2022», работа «Спасем воробьев!» (https://рекачусовая.рф/articles/post/itogi-konkursa-risunka-domovoj-vorobej-ptica-goda-2022-1)
-
-2023 - исполняла обязанности заместителя студенческого декана на ФХО.
-
-Январь 2023 - I место в номинации «Живопись» конкурса-выставки учебно-творческих работ студентов ФХО (https://www.ntspi.ru/about_academy/academy_news/70012/)
-
-Анна Франт, директор ArtSpaceDepo, положительно отзывалась о работах Виталины, называя ее "звездочкой".
-
-**Интересы**
-
-Помимо живописи, поет и играет на гитаре. В 2023 и в 2025 участвовала в театральном проекте «Точка опоры» (https://vk.com/proekt_teatr?w=wall-202306952_3283).
-
-Выступления:
-
-- 28.09.2023 - Конкурс "Алло, мы ищем таланты", вокал, 1 место (https://vk.com/photo-4407886_457250964, https://vk.com/wall-4891369_7710)
-- 04.11.2023 - Поздравление с Днём народного единства, вокал (https://vk.com/fsbznt?w=wall-4407886_5344)
-- 09.01.2024 - Финальный концерт смены психолого-педагогических классов «Творцы будущего»: песня «Наше время пришло», вокал (https://vk.com/wall-18120153_5012)
-- 02.09.2024 - Линейка на День знаний, вокал, в составе ансамбля «Новая нота» (https://vk.com/wall-18120153_5369)
-- 27.02.2025 - Проект «Созвездие – 2025», вокал, в составе ансамбля «Новая нота» (https://vk.com/wall-18120153_5758)
-- 25.04.2025 - Всероссийский молодежный форум «МИР» на СГФ НТГСПИ: песня «Прекрасное далеко», вокал, в составе ансамбля «Новая нота» (https://vk.com/wall-18120153_5918)
-- 01.09.2025 - Линейка на День знаний, вокал, в составе ансамбля «Новая нота» (https://www.ntspi.ru/news/den-znanii-v-pervom-ucitelskom-v-niznem-tagile-pedagogiceskii-most-institut-skola)
-
-**Публикации**
-
-- Статья [ОСОБЕННОСТИ ВЫПУСКНЫХ КВАЛИФИКАЦИОННЫХ РАБОТ В ТЕХНИКЕ ОЛОВЯННОЕ ЛИТЬЕ](https://kpfu.ru/staff_files/F_2048322175/Pedagogicheskij_vestnik._Vypusk_39.pdf). Педагогический вестник. Новосибирск-Ялта: Изд. АНС «СибАК», 2025. – Вып. 39. Соавторы: Гольденберг О.А., Толкачев И.Б.
-- Статья [МЕТОД КОПИРОВАНИЯ В ОСВОЕНИИ МОНУМЕНТАЛЬНОЙ ЖИВОПИСИ СТУДЕНТАМИ](https://cyberleninka.ru/article/n/metod-kopirovaniya-v-osvoenii-monumentalnoy-zhivopisi-studentami). Педагогический вестник. Новосибирск-Ялта: Изд. АНС «СибАК», 2025. – Вып. 39. Соавтор: Гольденберг О.А.
-
-Статья о копировании хорошо раскрывает тему и написана грамотно, без орфографических ошибок, но есть незначительные замечания по содержанию и стилю. Например, авторы пишут о копировании работ в изобразительном искусстве, но затем перескакивают на плагиат при копировании текстов: "Чтобы избежать плагиата, важно не просто переписывать текст, а глубоко понимать суть оригинала." Также присутствует излишняя для научного стиля парцелляция: "... А.В. Андреева, отмечает. Что копирование работ мастеров...". В статье отмечается проблема интеллектуальной собственности при копировании работ. Но сама Виталина, похоже, не очень заботится об этом, так как часть ее работ является копиями чужих произведений с pinterest или сайтов онлайн-галерей, но при публикации в своей группе она не приводила ссылку на оригинал. На pinterest, впрочем, изображения выкладываются специально как идеи для других работ, так что это может и не очень важно. Так или иначе, Виталина делом доказала, что не зря выступила соавтором этой статьи, так как ее копии картин Боттичелли понравились зрителям, а "Мадонна с младенцем" стала лицом выставки "Учимся у мастеров".
-
-Источники:
-- https://vk.com/club224151515
-- https://m.ok.ru/group/51975271874744/topic/67203250351032
-- https://turizmnt.ru/news/34849/
-- https://tribuna-urala.ru/?module=articles&amp;action=view&amp;id=19168
-
-Составление каталога начато 01.06.2025. Радует, что на этот раз у почти каждой картины есть название и выходные данные. Выглядит так, будто я составляю каталог работ состоявшейся художницы, а не непонятное нечто.</document>
+  <externalLinks>
+    <link title="Краткая биография" URL="bio.md" />
+  </externalLinks>
   <files>
     <file name="jztQoAg1RbE.jpg" purpose="frontPortrait" />
     <file name="UhrRVYYOop0aEOe.jpg" title="На концерте, 2021" />
@@ -57,6 +20,7 @@
     <metadata>
       <title>Пылающий взлëт</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>30×40 см</dimensions>
       <medium>Холст на картоне, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;w=wall-224151515_70</source>
@@ -73,6 +37,7 @@
     <metadata>
       <title>Зеркало души</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>30×40 см</dimensions>
       <medium>Холст на картоне, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239119%2Fddf309973a3592276c</source>
@@ -83,6 +48,7 @@
     <metadata>
       <title>Девушка со змеей</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>50×90 см</dimensions>
       <medium>Холст на картоне, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239113%2Fwall-224151515_53</source>
@@ -106,6 +72,7 @@
     <metadata>
       <title>Котик</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>30×40 см</dimensions>
       <medium>Холст на подрамнике, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239118%2F4036e5c1b6a8af21df</source>
@@ -118,6 +85,7 @@
     <metadata>
       <title>Тигр в воде</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>30×40 см</dimensions>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239112%2F3f434a4f1408976491</source>
       <description></description>
@@ -129,6 +97,7 @@
     <metadata>
       <title>Пионы</title>
       <date>2025</date>
+      <type>painting</type>
       <source>https://vk.com/id384086272?z=photo384086272_457243840%2F3880ea669a14e5f717</source>
       <description></description>
       <notes></notes>
@@ -139,6 +108,7 @@
     <metadata>
       <title>Портрет Наталии Соничкиной</title>
       <date>2025</date>
+      <type>drawing</type>
       <dimensions>Формат А2</dimensions>
       <medium>Бумага, уголь</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239103%2Fwall-224151515_47</source>
@@ -151,6 +121,7 @@
     <metadata>
       <title>Портрет Сергея Зырянова</title>
       <date>2024</date>
+      <type>drawing</type>
       <dimensions>Формат А2</dimensions>
       <medium>Бумага, уголь</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239105%2Fwall-224151515_48</source>
@@ -163,6 +134,7 @@
     <metadata>
       <title>Портрет Василия Мещангина</title>
       <date>2024</date>
+      <type>drawing</type>
       <dimensions>Формат А2</dimensions>
       <medium>Бумага, уголь</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239101%2Fwall-224151515_46</source>
@@ -175,6 +147,7 @@
     <metadata>
       <title>Полуфигура</title>
       <date>2024</date>
+      <type>drawing</type>
       <dimensions>50×60 см</dimensions>
       <medium>Бумага для пастели, уголь, мел</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239094%2F7e2c1cc564188c9d46</source>
@@ -187,6 +160,7 @@
     <metadata>
       <title>Шарж на Владимира Лангольфа</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>24×30 см</dimensions>
       <medium>Холст на картоне, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239091%2Fwall-224151515_40</source>
@@ -199,6 +173,7 @@
     <metadata>
       <title>Лис Мафиози</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>40×60 см</dimensions>
       <medium>Холст на картоне, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239090%2F90c3dcf6019100beab</source>
@@ -211,6 +186,7 @@
     <metadata>
       <title>Портрет женщины</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>35×25 см</dimensions>
       <medium>Холст на картоне, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239084%2Fe391dcb185673480a9</source>
@@ -224,6 +200,7 @@
     <metadata>
       <title>Интерес</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>30×40 см</dimensions>
       <medium>Холст на картоне, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239070%2Fwall-224151515_37</source>
@@ -236,6 +213,7 @@
     <metadata>
       <title>Женщина в синем</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>25×30 см</dimensions>
       <medium>Холст, акрил, поталь</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239066%2F124a3d05ab7c1330cd</source>
@@ -249,6 +227,7 @@
     <metadata>
       <title>Брутальный лис</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>40×60 см</dimensions>
       <medium>Холст, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239062%2Fwall-224151515_31</source>
@@ -261,6 +240,7 @@
     <metadata>
       <title>Счастье</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>30×30 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239060%2F91b2b792fde06a9e1a</source>
@@ -273,6 +253,7 @@
     <metadata>
       <title>Белое чудо</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>40×30 см</dimensions>
       <medium>Холст, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239057%2Fwall-224151515_29</source>
@@ -285,6 +266,7 @@
     <metadata>
       <title>Лисичка огненная</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>35×45 см</dimensions>
       <medium>Холст, акрил</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239052%2Fwall-224151515_28</source>
@@ -297,6 +279,7 @@
     <metadata>
       <title>Фрагментарная копия картины Сандро Боттичелли "Мадонна с младенцем"</title>
       <date>2024</date>
+      <type>mosaic</type>
       <dimensions>60×40 см</dimensions>
       <medium>Византийская мозаика, смальта</medium>
       <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239048%2Fwall-224151515_24</source>
@@ -325,6 +308,7 @@
     <metadata>
       <title>Копия картины Боттичелли "Портрет молодой женщины"</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>40×30 см</dimensions>
       <medium>Темпера</medium>
       <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239038%2Fwall-224151515_16</source>
@@ -349,6 +333,7 @@
     <metadata>
       <title>Ярмарка</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>100×75 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239044%2Fwall-224151515_23</source>
@@ -361,6 +346,7 @@
     <metadata>
       <title>Волшебство</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>30×40 см</dimensions>
       <medium>Холст, акрил</medium>
       <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239043%2Fc29be5ed678cc4a969</source>
@@ -373,6 +359,7 @@
     <metadata>
       <title>Лисëнок</title>
       <date>2024</date>
+      <type>painting</type>
       <dimensions>30×40 см</dimensions>
       <medium>Холст на картоне, акрил</medium>
       <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239031%2Fwall-224151515_11</source>
@@ -409,6 +396,7 @@
     <metadata>
       <title>Натюрморт</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>60×60 см</dimensions>
       <medium>Масло</medium>
       <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239033%2Fwall-224151515_12</source>
@@ -421,6 +409,7 @@
     <metadata>
       <title>Любопытство</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>30х30 см</dimensions>
       <medium>Акрил, поталь</medium>
       <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239024%2F0a132d4b3efc49bbf2</source>
@@ -438,6 +427,7 @@
     <metadata>
       <title>Зайчик</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>60×85 см</dimensions>
       <medium>Акрил</medium>
       <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239020%2F9e74b094cabe302e3b</source>
@@ -450,6 +440,7 @@
     <metadata>
       <title>Сиреневые сумерки</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>40×40 см</dimensions>
       <medium>Холст, акрил</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239481%2Fphotos-218867577</source>
@@ -467,6 +458,7 @@
     <metadata>
       <title>Фонарь желаний</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>40×30 см</dimensions>
       <medium>Холст, акрил</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239309%2Fphotos-218867577</source>
@@ -484,6 +476,7 @@
     <metadata>
       <title>На закате</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>40×60 см</dimensions>
       <medium>Холст, акрил</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239306%2Fphotos-218867577</source>
@@ -503,6 +496,7 @@
     <metadata>
       <title>Черноисточинск</title>
       <date>2023</date>
+      <type>painting</type>
       <medium>Бумага, акрил</medium>
       <source>https://vk.com/wall-4891369_7853?z=photo-4891369_457261469%2Fwall-4891369_7853</source>
       <description></description>
@@ -521,6 +515,7 @@
     <metadata>
       <title>Карьер</title>
       <date>2023</date>
+      <type>painting</type>
       <medium>Бумага, акрил</medium>
       <source>https://vk.com/wall-4891369_7853?z=photo-4891369_457261470%2Fwall-4891369_7853</source>
       <description></description>
@@ -539,6 +534,7 @@
     <metadata>
       <title>Блики на белом</title>
       <date>2023</date>
+      <type>painting</type>
       <medium>Бумага, акрил</medium>
       <source>https://vk.com/wall-4891369_7853?z=photo-4891369_457261472%2Fwall-4891369_7853</source>
       <description></description>
@@ -557,11 +553,12 @@
     <metadata>
       <title>Вдохновение</title>
       <date>2022</date>
+      <type>painting</type>
       <dimensions>21×30 см</dimensions>
       <medium>Картон, акрил</medium>
       <source>https://vk.com/wall-224151515?own=1&amp;z=photo-224151515_457239023%2F4acc264039295932d7</source>
       <description>Виталина: "Работа участвовала во многих выставках и конкурсах и до сих пор она остался одной из моих самых любимых картин"</description>
-      <notes></notes>
+      <notes>Сюжет является уникальным; хоть в интернете и есть похожие поп-арт картины с кошкой и пузырями, но такой композиции со смотрящей вверх кошкой и бабочкой найти не удалось. Почему именно она у художницы является выражением вдохновения, неизвестно.</notes>
     </metadata>
     <file name="3Y6cS90CMmA.jpg"></file>
     <events>
@@ -587,7 +584,9 @@
     <file name="lebedi.jpg"></file>
     <events>
       <event type="exhibition" date="2017">
-        <description>Участвовала в выставке "Красота природы"</description>
+        <name>Красота природы</name>
+        <URL>https://m.ok.ru/group/51975271874744/topic/67203250351032</URL>
+        <location name="Художественная студия «Цветные сны», г. Нижний Тагил" />
       </event>
     </events>
   </item>
