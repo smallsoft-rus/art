@@ -138,6 +138,8 @@ DEPOша, 2025
 
 От составителя: Является вариантом популярного тиражируемого сюжета "Веселые зебры", основанного на картине Wendy Wu "Zebras family tree" (https://2-wendy-wu.pixels.com/featured/zebras-family-tree-wendy-wu.html)
 
+В 2025 был сделан авторский повтор этой картины для заказчика из Екатеринбурга (https://dzen.ru/a/aSGXqpqUkThsGgIl)
+
 История:  
 - 2024: Выставлялась в ArtSpaceDepo
 
