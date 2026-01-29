@@ -6,8 +6,11 @@
     <birthPlace>c. Якшина, Свердловская область</birthPlace>
     <styles>Фольклор, модерн-арт</styles>
     <signature>HUA</signature>
-    <website>https://vk.com/hualice</website>
+    <website>https://alicehualice.com/</website>
   </author>
+  <files>
+    <file name="portrait.jpg" purpose="frontPortrait" />
+  </files>
   <externalLinks>
     <link title="Черновик биографии" URL="bio.md" />
     <link title="Работы в Архиве Российского Искусства" URL="https://russianartarchive.net/ru/catalogue/person/PDXZJ" />
