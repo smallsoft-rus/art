@@ -148,6 +148,7 @@
       <title>Драконье логово</title>
       <date>2024</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <source>https://vk.com/wall-225094823?z=photo-225094823_456239123%2Fwall-225094823_46</source>
       <description></description>
       <notes>Написана в Крыму, на фестивале "Таврида Арт 2024"</notes>
@@ -165,6 +166,23 @@
       <notes></notes>
     </metadata>
     <file name="fIiPAhrwZng.jpg"></file>
+  </item>
+  <item>
+    <metadata>
+      <title>Выбор</title>
+      <date>2024</date>
+      <source>https://vk.com/wall-4891369_8002</source>
+      <description></description>
+      <notes></notes>
+    </metadata>
+    <file name="2024_vybor.jpg"></file>
+    <events>
+      <event type="exhibition" date="2024">
+        <name>Выставка-конкурс "Арт-дуэль"</name>
+        <URL>https://vk.com/wall-4891369_8002</URL>
+        <location name="Свердловский областной краеведческий музей, г. Екатеринбург" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -225,6 +243,7 @@
       <title>Натюрморт с кувшином и фруктами</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>still life</genre>
       <dimensions>Формат А2</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239484%2Fphotos-218867577</source>
@@ -244,6 +263,7 @@
       <title>Натюрморт с сухой травой</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>still life</genre>
       <dimensions>Формат А2</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239483%2Fphotos-218867577</source>
@@ -288,6 +308,7 @@
       <title>Парный портрет</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>portrait</genre>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243201%2F8a7db70e48b0aa5407</source>
       <description></description>
       <notes></notes>
@@ -299,6 +320,7 @@
       <title>Лягушка</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>animal art</genre>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243200%2Fwall-79794560_7049</source>
       <description></description>
       <notes></notes>
@@ -310,6 +332,7 @@
       <title>Деревья</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243188%2Fwall-79794560_7046</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -322,6 +345,7 @@
       <title>Крыльцо</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243190%2Fwall-79794560_7046</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -334,6 +358,7 @@
       <title>Домик в деревне</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>cityscape</genre>
       <medium>Бумага, линер</medium>
       <source>https://vk.com/wall-4891369?offset=340&amp;own=1&amp;z=photo-4891369_457261463%2Fwall-4891369_7851</source>
       <description></description>
@@ -353,6 +378,7 @@
       <title>Однажды в солнечный день улыбался ты</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>portrait</genre>
       <medium>Бумага, гуашь</medium>
       <source>https://vk.com/wall-4891369?offset=340&amp;own=1&amp;z=photo-4891369_457261464%2Fwall-4891369_7851</source>
       <description></description>
@@ -372,6 +398,7 @@
       <title>Нет роднее места</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>cityscape</genre>
       <medium>Бумага, линер</medium>
       <source>https://vk.com/wall-4891369?offset=340&amp;own=1&amp;z=photo-4891369_457261465%2Fwall-4891369_7851</source>
       <description></description>
@@ -390,6 +417,7 @@
     <metadata>
       <title>Одиночество</title>
       <date>2023</date>
+      <genre>cityscape</genre>
       <medium>Бумага, пастель</medium>
       <source>https://vk.com/wall-4891369?offset=340&amp;own=1&amp;z=photo-4891369_457261466%2Fwall-4891369_7851</source>
       <description></description>
@@ -426,6 +454,7 @@
       <title>Старый завод</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>cityscape</genre>
       <dimensions>А4</dimensions>
       <medium>Черная ручка</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239204%2Fphotos-218867577</source>
@@ -444,6 +473,7 @@
       <title>Дерево</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>А4</dimensions>
       <medium>Акварель, белая ручка</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239190%2Fphotos-218867577</source>
@@ -523,6 +553,7 @@
       <title>Возлюбленный</title>
       <date>2022</date>
       <type>painting</type>
+      <genre>portrait</genre>
       <dimensions>А4</dimensions>
       <medium>Холст в багете</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577</source>
@@ -546,6 +577,7 @@
       <title>Учитель</title>
       <date>2022</date>
       <type>painting</type>
+      <genre>portrait</genre>
       <dimensions>А4</dimensions>
       <medium>Холст в багете</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239147%2Fphotos-218867577</source>
@@ -568,6 +600,7 @@
     <metadata>
       <title>Деревья на фоне неба</title>
       <date>2022</date>
+      <genre>landscape</genre>
       <source>https://vk.com/anarho_punk8grop?z=photo-79794560_457243097%2Fwall-79794560_6976</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -701,6 +734,7 @@
     <metadata>
       <title>Портрет Натальи Запояско</title>
       <date>2022</date>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-79794560?offset=200&amp;own=1&amp;z=photo-79794560_457242919%2Fwall-79794560_6816</source>
       <description></description>
       <notes></notes>
@@ -753,6 +787,7 @@ Love
     <metadata>
       <title>Ворон</title>
       <date>2021</date>
+      <genre>animal art</genre>
       <source>https://vk.com/wall-79794560?offset=200&amp;own=1&amp;z=photo-79794560_457242892%2Fwall-79794560_6778</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -774,6 +809,7 @@ Love
     <metadata>
       <title>Яблочки</title>
       <date>2021</date>
+      <genre>still life</genre>
       <source>https://vk.com/wall-79794560?offset=200&amp;own=1&amp;z=photo-79794560_457242885%2F7547f222178e8b7790</source>
       <description></description>
       <notes></notes>
@@ -785,6 +821,7 @@ Love
       <title>Памятник затопленным кораблям</title>
       <date>2021</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <medium>Акварель в технике "по сырому"</medium>
       <source>https://vk.com/wall-79794560?offset=200&amp;own=1&amp;z=photo-79794560_457242866%2F0cd17169ccd7f71b0c</source>
       <description></description>
@@ -818,6 +855,7 @@ Love
     <metadata>
       <title>Портрет Юлии Евдокимовой</title>
       <date>2021</date>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-79794560?offset=200&amp;own=1&amp;z=photo-79794560_457242849%2Fc5ba6f67963c0f4689</source>
       <description></description>
       <notes></notes>
@@ -856,6 +894,7 @@ Love
     <metadata>
       <title>Автопортрет</title>
       <date>2020</date>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-79794560?offset=320&amp;own=1&amp;z=photo-79794560_457242753%2F96668bd370642cd79a</source>
       <description></description>
       <notes></notes>
@@ -936,6 +975,7 @@ Love
     <metadata>
       <title>Портрет матери</title>
       <date>2020</date>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-79794560?offset=580&amp;own=1&amp;z=photo-79794560_457242443%2F6af3d7981384b960f1</source>
       <description></description>
       <notes></notes>
@@ -957,6 +997,7 @@ Love
       <title>Цветы на фоне луны</title>
       <date>2019</date>
       <type>painting</type>
+      <genre>still life</genre>
       <source>https://vk.com/wall-79794560?offset=640&amp;own=1&amp;z=photo-79794560_457242334%2Fe1d7c3deef9349441b</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -969,6 +1010,7 @@ Love
       <title>Портрет одногруппницы</title>
       <date>2019</date>
       <type>drawing</type>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-79794560?offset=800&amp;own=1&amp;z=photo-79794560_457242183%2F2e5c1f9c7b6530aa74</source>
       <description></description>
       <notes></notes>
@@ -990,6 +1032,7 @@ Love
       <title>Портрет Дарьи Ступак</title>
       <date>2019</date>
       <type>drawing</type>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-79794560?offset=980&amp;own=1&amp;z=photo-79794560_456241815%2Fwall-79794560_5550</source>
       <description></description>
       <notes></notes>
@@ -1001,6 +1044,7 @@ Love
       <title>Арка</title>
       <date>2019</date>
       <type>drawing</type>
+      <genre>cityscape</genre>
       <source>https://vk.com/photo-79794560_456241791</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1013,6 +1057,7 @@ Love
       <title>Автопортрет</title>
       <date>2019</date>
       <type>drawing</type>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-79794560?offset=1300&amp;own=1&amp;z=photo-79794560_456241155%2F1bec6ce12becb26567</source>
       <description></description>
       <notes></notes>
@@ -1035,6 +1080,7 @@ Love
       <title>Натюрморт с кувшином и яблоком</title>
       <date>2018</date>
       <type>painting</type>
+      <genre>still life</genre>
       <dimensions>50х60 см</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239482%2Fphotos-218867577</source>
@@ -1054,6 +1100,7 @@ Love
       <title>Натюрморт</title>
       <date>2018</date>
       <type>painting</type>
+      <genre>still life</genre>
       <source>https://vk.com/wall-79794560?offset=1480&amp;own=1&amp;z=photo-79794560_456241007%2Fe403419e1cdcfe700b</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1066,6 +1113,7 @@ Love
       <title>Портрет девушки</title>
       <date>2018</date>
       <type>drawing</type>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-79794560?offset=1480&amp;own=1&amp;z=photo-79794560_456240850%2F20426702f02506a2a4</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1100,6 +1148,7 @@ Love
       <title>Дракон</title>
       <date>2018</date>
       <type>drawing</type>
+      <genre>fantasy</genre>
       <source>https://vk.com/wall-79794560?offset=1750&amp;own=1&amp;z=photo-79794560_456240667%2F75c914140ff41412fc</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1111,6 +1160,7 @@ Love
     <metadata>
       <title>Я - Волк</title>
       <date>2018</date>
+      <genre>animal art</genre>
       <source>https://vk.com/wall-79794560?offset=1750&amp;own=1&amp;z=photo-79794560_456240660%2F2f9fcf598910291c68</source>
       <description></description>
       <notes></notes>
@@ -1121,6 +1171,7 @@ Love
     <metadata>
       <title>Натюрморт с чайником</title>
       <date>2017</date>
+      <genre>still life</genre>
       <source>https://vk.com/wall-79794560?offset=2100&amp;own=1&amp;z=photo-79794560_456240175%2Fwall-79794560_3685</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1133,6 +1184,7 @@ Love
       <title>Осенняя набережная</title>
       <date>2017</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <medium>Масло</medium>
       <source>https://vk.com/wall-79794560?offset=2100&amp;own=1</source>
       <titleType>descriptive</titleType>
@@ -1164,6 +1216,7 @@ Love
       <title>Осень</title>
       <date>2016</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <medium>Гуашь</medium>
       <source>https://vk.com/wall-79794560?offset=2640&amp;own=1&amp;z=photo-79794560_456239769%2F1c10b95ba485b3c9f2</source>
       <titleType>descriptive</titleType>
@@ -1196,6 +1249,7 @@ Love
       <title>Сова</title>
       <date>2016</date>
       <type>drawing</type>
+      <genre>animal art</genre>
       <source>https://vk.com/wall-79794560?offset=3680&amp;own=1&amp;z=photo-79794560_415758360%2Fa6a6786603741cc1c3</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1230,6 +1284,7 @@ Love
       <title>Орел</title>
       <date>2015</date>
       <type>drawing</type>
+      <genre>animal art</genre>
       <source>https://vk.com/wall-79794560?offset=4680&amp;own=1&amp;z=photo177327870_356773771%2F55f84f6382c3a24cbe</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -1242,6 +1297,7 @@ Love
       <title>Змея</title>
       <date>2014</date>
       <type>drawing</type>
+      <genre>animal art</genre>
       <source>https://vk.com/wall-79794560?offset=5140&amp;own=1&amp;z=photo-79794560_348380092%2F181b188efb2ff5a770</source>
       <titleType>descriptive</titleType>
       <description></description>
