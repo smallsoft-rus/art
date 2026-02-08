@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <author>
+    <displayName>Новоположская Ангелина</displayName>
+    <birthDate>Июль 2004</birthDate>
+    <website>https://vk.com/linaplenka</website>
+  </author>
+  <files>
+    <file name="portrait.jpg" purpose="frontPortrait" />
+  </files>
+  <externalLinks>
+    <link title="Черновик биографии" URL="bio.md" />
+  </externalLinks>
+  <item>
+    <metadata>
+      <title>Монолог</title>
+      <date>2024</date>
+      <source>https://vk.com/wall-4891369_8002</source>
+      <notes></notes>
+    </metadata>
+    <file name="2024_monolog.jpg"></file>
+    <events>
+      <event type="exhibition" date="2024">
+        <name>Выставка-конкурс "Арт-дуэль"</name>
+        <URL>https://vk.com/wall-4891369_8002</URL>
+        <location name="Свердловский областной краеведческий музей, г. Екатеринбург" />
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Кицунэ</title>
+      <date>2024</date>
+      <source>https://vk.com/linaplenka?w=wall-216017454_101</source>
+      <description>Кицунэ, лиса-оборотень, хитрая обманщица, умеющая превратиться во что угодно, даже в луну на небе</description>
+      <notes>Серия художественных фотографий, модель - Виталина Чуракова</notes>
+    </metadata>
+    <file name="2024_MjFZv3vDrxcmvVpiR6ahw9hF.jpg"></file>
+    <events>
+      <event type="exhibition" date="2024">
+        <name>Не художник, а творец</name>
+        <URL>https://vk.com/fho_tho?w=wall-4891369_8055</URL>
+        <location name="ФХО НТГСПИ" />
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Розовое зарево. Вид на церковь Александра Невского</title>
+      <date>2023</date>
+      <dimensions>21х29 см</dimensions>
+      <medium>Пастельная бумага, сухая пастель</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239471%2Fphotos-218867577</source>
+      <notes></notes>
+    </metadata>
+    <file name="2023_VTQeZ3oLY2hzrP9.jpg"></file>
+    <events>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Туманное деревенское утро</title>
+      <date>2023</date>
+      <dimensions>21х29 см</dimensions>
+      <medium>Пастельная бумага, сухая пастель</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239476%2Fphotos-218867577</source>
+      <notes></notes>
+    </metadata>
+    <link URL="https://sun9-57.userapi.com/s/v1/ig2/q2Ae2lkwBc6qTs2fX8BtmJSLeaoZnjbcFLcxvHmebXq9rRypa7YEDJC4686THp92YcGGmYd-P_FwltD2gh_4Fg9E.jpg?quality=95&amp;as=32x23,48x34,72x51,108x76,160x113,240x170,360x255,480x340,540x382,640x453,720x509,1080x764,1280x906,1440x1019,1600x1132&amp;from=bu&amp;cs=1600x0" />
+    <events>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Тоскливая стужа</title>
+      <date>2023</date>
+      <dimensions>21х29 см</dimensions>
+      <medium>Карандаш, уголь</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239475%2Fphotos-218867577</source>
+      <notes></notes>
+    </metadata>
+    <link URL="https://sun9-78.userapi.com/s/v1/ig2/PjSuRAkEdnflHYmsx5bPK_-j9xHmWZtnzcpRDHVzwXvqgkIMatjojHz1X8uFtmVau0bYo3mb2FHnjH7dwuly0_7b.jpg?quality=95&amp;as=32x24,48x36,72x55,108x82,160x121,240x182,360x273,480x364,540x409,640x485,720x545,1080x818&amp;from=bu&amp;cs=1080x0" />
+    <events>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Одинокие развалины</title>
+      <date>2023</date>
+      <dimensions>21х29 см</dimensions>
+      <medium>Карандаш, уголь</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239474%2Fphotos-218867577</source>
+      <notes></notes>
+    </metadata>
+    <link URL="https://sun9-56.userapi.com/s/v1/ig2/ehEdYCpD75MoUUysPlJAjk6NPny9qIIVZPY01MNqffUFUiy0k6q60UfDubPEffjqn77Yf8no931Rv3vokA4TJkZ3.jpg?quality=95&amp;as=32x25,48x37,72x56,108x84,160x124,240x186,360x279,480x372,540x418,640x495,720x557,885x685&amp;from=bu&amp;cs=885x0" />
+    <events>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Надвигающаяся вьюга</title>
+      <date>2023</date>
+      <dimensions>21х29 см</dimensions>
+      <medium>Пастельная бумага, сухая пастель</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239473%2Fphotos-218867577</source>
+      <notes></notes>
+    </metadata>
+    <link URL="https://sun9-38.userapi.com/s/v1/ig2/fvEO6RSNuP8UL5iLLwogFNEkKO5tqawVWIVWGkJYqmiNKZzIXb-1LS9jJiRKrC1PN1SlLuVx1EBh5jH0v_995KLq.jpg?quality=95&amp;as=32x23,48x35,72x52,108x78,160x116,240x174,360x261,480x348,540x391,640x464,720x522,876x635&amp;from=bu&amp;cs=876x0" />
+    <events>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Забор у дома</title>
+      <date>2023</date>
+      <dimensions>21х29 см</dimensions>
+      <medium>Карандаш, уголь</medium>
+      <source>https://vk.com/albums-218867577?z=photo-218867577_457239472%2Fphotos-218867577</source>
+      <notes></notes>
+    </metadata>
+    <link URL="https://sun9-23.userapi.com/s/v1/ig2/WMEvFRyC8iINxohiV_gIgZv1zftMKWL6JJL3IIpQijDXQszWHPxp24umAoRL2UiJ088S1wQp62Rt5wBtaFJCuFFS.jpg?quality=95&amp;as=32x25,48x38,72x57,108x85,160x127,240x190,360x285,480x380,540x427,640x506,720x570,972x769&amp;from=bu&amp;cs=972x0" />
+    <events>
+      <event type="exhibition" date="2023">
+        <description>Выставлялась в ArtSpaceDepo</description>
+      </event>
+    </events>
+  </item>
+</collection>
