@@ -100,6 +100,10 @@
       <subject type="identification">
         <name>Храм Александра Невского, г. Нижний Тагил</name>
         <URL>https://anevsly-ntagil.cerkov.ru</URL>
+        <location>
+          <name>Нижний Тагил</name>
+          <pos>57.891792 59.969721</pos>
+        </location>
       </subject>
     </subjects>
   </item>
