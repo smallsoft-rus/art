@@ -61,6 +61,15 @@
         <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
       </event>
     </events>
+    <subjects>
+      <subject type="identification">
+        <name>Храм Александра Невского</name>
+        <URL>https://anevsly-ntagil.cerkov.ru</URL>
+        <location name="Нижний Тагил">
+          <pos>57.891792 59.969721</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -125,6 +134,15 @@
         <description>Выставлялась в ArtSpaceDepo</description>
       </event>
     </events>
+    <subjects>
+      <subject type="identification">
+        <name>Храм Александра Невского</name>
+        <URL>https://anevsly-ntagil.cerkov.ru</URL>
+        <location name="Нижний Тагил">
+          <pos>57.891792 59.969721</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>

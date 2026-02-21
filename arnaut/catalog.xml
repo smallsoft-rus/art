@@ -26,8 +26,10 @@
     <file name="2025_2022.jpg"></file>
     <subjects>
       <subject type="identification">
-        <name>Лодочная станция, г. Верхняя Тура</name>
-        <URL>https://yandex.ru/maps/org/pristan/188796301859/?ll=59.808731%2C58.356466&amp;z=12</URL>
+        <name>Лодочная станция</name>
+        <location name="Верхняя Тура">
+          <pos>58.358417 59.817891</pos>
+        </location>
       </subject>
     </subjects>
   </item>
@@ -43,8 +45,10 @@
     <file name="2025_2010.jpg"></file>
     <subjects>
       <subject type="identification">
-        <name>Древо памяти города-завода, г. Верхняя Тура</name>
-        <URL>https://yandex.ru/maps/org/drevo_pamyati_goroda_zavoda/23692959873/?ll=59.818635%2C58.359337&amp;z=16</URL>
+        <name>Древо памяти города-завода</name>
+        <location name="Верхняя Тура">
+          <pos>58.359548 59.818411</pos>
+        </location>
       </subject>
     </subjects>
   </item>

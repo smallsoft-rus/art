@@ -87,6 +87,14 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
     </metadata>
     <link URL="https://nashural.ru/assets/uploads/5.-Gordskoj-pejzazh.-Hud.-Nataliya-Rudyj.-2023-g.jpg" />
+    <subjects>
+      <subject type="identification">
+        <name>Пионерский сквер</name>
+        <location name="Нижний Тагил">
+          <pos>57.908114 59.962537</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -141,6 +149,14 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
     </metadata>
     <file name="31-Ulitsa-naberegzhnaya-vecherom-2020.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Гора Лисья</name>
+        <location name="Нижний Тагил">
+          <pos>57.899600 59.946996</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -152,6 +168,14 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
     </metadata>
     <link URL="https://nashural.ru/assets/uploads/6.-Vid-na-Lisyu-goru.-Hud.-Nataliya-Rudyj.-2020-g.jpg" />
+    <subjects>
+      <subject type="identification">
+        <name>Гора Лисья</name>
+        <location name="Нижний Тагил">
+          <pos>57.899600 59.946996</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>

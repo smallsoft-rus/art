@@ -32,6 +32,9 @@
       <subject type="identification">
         <name>Нижнетагильский горно-металлургический колледж имени Е.А. и М.Е. Черепановых</name>
         <URL>https://ntgmk.ru/ru</URL>
+        <location name="Нижний Тагил">
+          <pos>57.909534 59.971957</pos>
+        </location>
       </subject>
     </subjects>
   </item>
@@ -48,8 +51,11 @@
     <file name="WI5Xgkf5AH5Hd.jpg"></file>
     <subjects>
       <subject type="identification">
-        <name>Скорбященский женский монастырь, Вознесенский храм, г. Нижний Тагил</name>
+        <name>Скорбященский женский монастырь, Вознесенский храм</name>
         <URL>https://ntobitel.cerkov.ru/voznesenskij-xram</URL>
+        <location name="Нижний Тагил">
+          <pos>57.895367 59.997993</pos>
+        </location>
       </subject>
     </subjects>
   </item>
@@ -98,10 +104,9 @@
     <file name="FimxQcZj2.jpg"></file>
     <subjects>
       <subject type="identification">
-        <name>Храм Александра Невского, г. Нижний Тагил</name>
+        <name>Храм Александра Невского</name>
         <URL>https://anevsly-ntagil.cerkov.ru</URL>
-        <location>
-          <name>Нижний Тагил</name>
+        <location name="Нижний Тагил">
           <pos>57.891792 59.969721</pos>
         </location>
       </subject>
@@ -452,7 +457,7 @@
   </item>
   <item>
     <metadata>
-      <title>Привет из краснодара!</title>
+      <title>Привет из Краснодара!</title>
       <date>2023</date>
       <dimensions>79,5х79,5 см</dimensions>
       <medium>ДВП, акрил, золото</medium>

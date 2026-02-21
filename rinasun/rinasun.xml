@@ -840,6 +840,14 @@ Love
         <content>Rina Noise 18.07.21</content>
       </text>
     </texts>
+    <subjects>
+      <subject type="identification">
+        <name>Памятник затопленным кораблям</name>
+        <location name="Севастополь">
+          <pos>44.618380 33.524296</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>

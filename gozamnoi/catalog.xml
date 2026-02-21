@@ -46,8 +46,11 @@
     </events>
     <subjects>
       <subject type="identification">
-        <name>Скорбященский женский монастырь, Вознесенский храм, г. Нижний Тагил</name>
+        <name>Скорбященский женский монастырь, Вознесенский храм</name>
         <URL>https://ntobitel.cerkov.ru/voznesenskij-xram</URL>
+        <location name="Нижний Тагил">
+          <pos>57.895367 59.997993</pos>
+        </location>
       </subject>
     </subjects>
   </item>
