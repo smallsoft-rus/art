@@ -177,6 +177,14 @@
 
 Декабрь 2025 - получила французскую визу таланта, начала искать европейские проекты для сотрудничества.
 
+Февраль 2026 - Поездка в Париж
+
+> Принесла цветы на могилу Симоны де Бовуар, выплакала слёз больше чем воды в Сене, выпила сто литров лукового супа и горячего шоколада, была в Нотр-Даме на вечерней службе, работала больше, чем отдыхала, встретила много людей, которым не безразлично моё искусство, упала с лестницы в Лувре, засмотревшись на Нику Самофракийскую, просидела три часа в зале греческой и этрусской терракотовой миниатюры, ходила без навигатора по знакомым кварталам, много слушала The Smiths, Martin Dupont и Cocteau Twins, подала заявки в несколько резиденций, почувствовала себя нужной, почувствовала себя одинокой, замёрзла, получила приглашение на свадьбу близкой подруги, растрогалась, впечатлилась, уехала, чтобы вскоре вернуться. Никогда я так много не делала для своего будущего, и никогда не была в таком ужасном состоянии в Париже
+
+Март 2026 - Собирается дать интервью в проекте "Art & Resistance" в Вене, Австрия. Анонс мероприятия представляет Алису как стойкого борца с системой:
+
+> We are happy to announce the newest edition of our Art & Resistance event series, this time featuring Alisa Gorshenina. Alisa Gorshenina is a multidisciplinary artist from the Ural region of Russia, where she spent most of her life. In her artistic practice, she explores symbolism, identity, memory, and transformation, working across textile, video, performance, and sculpture. After Russia’s full-scale invasion of Ukraine, she openly spoke out against the war; both on social media and through her art. Despite facing severe repression, she chose to remain in Russia and to resist. In June 2025, she was forced into exile and now lives in Tbilisi, Georgia. In her talk, she will introduce the Ural art scene and reflect on her artistic practice under political repression, the impact of Russia’s war on her life and work, and how exile has reshaped her art, body, and sense of belonging.
+
 **Творчество**
 
 Художница создает текстильные работы, маски, коллажи, рисует, фотографирует, работает с керамикой и занимается анимацией. Но особая любовь у нее все-таки к текстилю. При помощи ткани она творит собственные мифы, создает скульптуры, при этом рассказывая свою личную историю. Тагильчанка известна не только в нашем городе, но и по всему миру. Ее работы участвовали в экспозициях 3-й и 4-й Уральской индустриальной биеннале, выставлялись на ВДНХ и в Новой Третьяковке, а также на многих международных выставках (https://dzen.ru/a/aIodp7mt1g47jqFJ)
@@ -200,3 +208,7 @@
 - https://mstrok.ru/news/seychas-prishlo-vremya-zhenshchin-hudozhnic-alisa-gorshenina-o-bespolom-iskusstve-lyubvi-k
 - https://www.kommersant.ru/doc/6666335
 - [Интервью с Викторией Мусвик "Алиса Горшенина. Я максимально серьезно отношусь к фотографии"](https://experiment.gallery/viewing-rooms/alisa-gorshenina-intervyu-2/)
+
+Видео:
+- <https://vkvideo.ru/video30719982_456239198?t=2s>
+- <https://rutube.ru/video/2c47f5b64befa9cd7e5f2b8164204d1e/?r=wd>
