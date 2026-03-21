@@ -2,17 +2,28 @@
 <collection>
   <author>
     <displayName>Феденёва Анастасия Васильевна</displayName>
-    <birthDate></birthDate>
+    <birthDate>Около 2004</birthDate>
     <birthPlace></birthPlace>
     <website>https://t.me/s/gozamnoi</website>
   </author>
   <files>
     <file name="portrait.jpg" purpose="frontPortrait" />
   </files>
+  <document title="Краткая биография">Страницы в интернете: https://vk.com/a.fedenyova, https://t.me/s/gozamnoi, https://storynavigation.com/user/fedsiaa
+
+В 2022 поступила на ФХО НТГСПИ (Изобразительное искусство и дизайн). Играла в Форуме-театре "Диалог".
+
+Около января 2024 начала заниматься татуировками, с февраля работает в студии [DOM Tattoo](https://vk.com/club41318000).
+
+В феврале 2024 участвовала в выставке-конкурсе "Арт-Дуэль" в Екатеринбурге. Подробнее см. в [разделе об Анастасии Арнаутовой](../arnaut/bio.html).
+
+В марте 2026 ездила на фестиваль Sverdlovsk Tattoo Fest в Екатерибурге (участвовали другие мастера из DOM Tattoo).
+  </document>
   <item>
     <metadata>
       <title>Гриша</title>
       <date>2025</date>
+      <type>painting</type>
       <dimensions>60x90 см</dimensions>
       <medium>Холст на подрамнике, масло</medium>
       <source>https://t.me/gozamnoi/651</source>
@@ -58,6 +69,7 @@
     <metadata>
       <title>Зарисовка</title>
       <date>2023</date>
+      <type>drawing</type>
       <medium>Бумага, графитный карандаш</medium>
       <source>https://vk.com/wall-4891369_7842?z=photo-4891369_457261444%2Fwall-4891369_7842</source>
       <description></description>
@@ -94,6 +106,7 @@
     <metadata>
       <title>Холодно</title>
       <date>2023</date>
+      <type>painting</type>
       <medium>Бумага, гуашь</medium>
       <source>https://vk.com/wall-4891369_7842?z=photo-4891369_457261446%2Fwall-4891369_7842</source>
       <description></description>
@@ -112,6 +125,7 @@
     <metadata>
       <title>Теленок</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>20х20 см</dimensions>
       <medium>Холст на подрамнике, акрил</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457240127%2Fphotos-218867577</source>
@@ -129,6 +143,7 @@
     <metadata>
       <title>Дворик</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>29.7х42 см</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457240126%2Fphotos-218867577</source>
@@ -146,6 +161,7 @@
     <metadata>
       <title>п. Монетный, Лето</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>29.7х42 см</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457240124%2Fphotos-218867577</source>
@@ -163,6 +179,7 @@
     <metadata>
       <title>п.Монетный, Вечер прошел</title>
       <date>2023</date>
+      <type>painting</type>
       <dimensions>21х29.7 см</dimensions>
       <medium>Акварель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457240121%2Fphotos-218867577</source>
