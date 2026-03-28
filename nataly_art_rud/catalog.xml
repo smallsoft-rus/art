@@ -10,7 +10,11 @@
   <files>
     <file name="Hudozhnik-Nataliya-Rudyj.jpg" purpose="frontPortrait" />
   </files>
-  <document title="Краткая биография">Родилась 29 января 1989 г. в городе Серов.
+  <document title="Краткая биография">Страницы в интернете:
+- https://vk.com/nataly_art_rud
+- https://vk.com/nataliia_kuznetsova
+
+Родилась в январе 1989 в городе Серов.
 
 В 2005 г. закончила Серовскую детскую художественную школу имени С.П.Кодолова.
 
@@ -24,9 +28,15 @@
 
 2024: Выставка «Повесть уральского лета» в Арт–галерее ООО «Газпром трансгаз Екатеринбург».
 
+В августе-сентябре 2024 участвовала в I Межрегиональном пленэре «Урал. Культурное наследие» на территории этностоянки «Место силы Камень Олений», река Чусовая. Работы с него выставлялись в администрации города (https://vk.com/wall18580469_8270)
+
 2025: Персональная выставка в здании Администрации города Нижний Тагил. На выставке были в основном представлены пейзажи с видами уральской природы и города Нижний Тагил.
 
-Часто выезжает на пленэры по Среднему Уралу, например, была на реке Чусовой, в поселках Черноисточинск, Висим, Староуткинск, Уралец, Верхотурье, Таватуй, в горах Конжаковского камня.
+В июне 2025 вместе с Анной Франт работала на пленэре на территории НТМК (https://vk.com/wall18580469_8580)
+
+В июле 2025 работала на пленэре на территории старого завода-музея (https://vk.com/wall18580469_8641)
+
+Часто выезжает на пленэры по Среднему Уралу, например, была на реке Чусовой, в поселках Черноисточинск, Висим, Староуткинск, Уралец, Таватуй; в Верхотурье, в горах Конжаковского камня.
 
 **Источники:**
 
@@ -65,6 +75,45 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://vk.com/nataly_art_rud?w=wall18580469_8733</source>
     </metadata>
     <file name="2025_Mur43PM4_FtNgu_dZa.jpg"></file>
+    <events>
+      <event type="exhibition" date="2025">
+        <name>Энергия индустрии</name>
+        <URL>https://vk.com/wall18580469_8726</URL>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Поле Иван-чая</title>
+      <date>2025</date>
+      <type>painting</type>
+      <titleType>descriptive</titleType>
+      <source>https://vk.com/wall18580469_8651</source>
+    </metadata>
+    <link URL="https://sun9-30.userapi.com/s/v1/ig2/q9_ZGvx6PJlT6gnnCWKr12FicLvDbjJb56L47gpwGFXLW_L_2kS25Y-5BlF4qlbH0nVTfrqa5KKFHLfntQicb6BY.jpg?quality=95&amp;as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&amp;from=bu&amp;cs=2560x0" />
+  </item>
+  <item>
+    <metadata>
+      <title>Верхотурский Кремль. Светлый день</title>
+      <date>2025</date>
+      <type>painting</type>
+      <dimensions>40х50 см</dimensions>
+      <medium>Холст, масло</medium>
+      <source>https://vk.com/wall18580469_8592</source>
+    </metadata>
+    <link URL="https://sun9-81.userapi.com/s/v1/ig2/vnEURTfUwhB-gc3KFywiaIhMlsbehXwbQhYnJlDeiR9HMQyfHAB6Vy5iwXlCtOzaQK7r3ZsFWIH-zRSCgwZzOMi9.jpg?quality=95&amp;as=32x25,48x38,72x57,108x86,160x127,240x190,360x286,480x381,540x429,640x508,720x571,1080x857,1280x1016,1440x1143,2560x2032&amp;from=bu&amp;cs=2560x0" />
+  </item>
+  <item>
+    <metadata>
+      <title>Старая домна</title>
+      <date>2024</date>
+      <type>painting</type>
+      <dimensions>110х90 см</dimensions>
+      <medium>Холст, масло</medium>
+      <source>https://vk.com/wall18580469_8582</source>
+      <notes>Изображает доменную печь Ново-тагильского металлургического завода (сейчас Нижнетагильский металлургический комбинат) в 1940-е годы</notes>
+    </metadata>
+    <link URL="https://sun9-17.userapi.com/s/v1/ig2/yO-xF0SotDdR813wgD968DrbBg1SQt3GbOmtj2jMwkdVc7Yt7h5mYHastqSlZo79gXD0OeAO2fMRbUhOdbs5eGOk.jpg?quality=95&amp;as=32x26,48x40,72x59,108x89,160x132,240x198,360x297,480x396,540x446,640x528,720x594,1080x891,1280x1056,1440x1189,2560x2113&amp;from=bu&amp;cs=2560x0" />
   </item>
   <item>
     <metadata>
@@ -127,6 +176,16 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
         <description>Выставлялась в ArtSpaceDepo</description>
       </event>
     </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Демидовская дача</title>
+      <date>2023</date>
+      <type>painting</type>
+      <titleType>descriptive</titleType>
+      <source>https://vk.com/wall18580469_7945</source>
+    </metadata>
+    <link URL="https://sun9-63.userapi.com/s/v1/ig2/KnIWO56aZLYjBtw71zzUO_vSxIagSI54aB6DjWyxvw65mQUEDHyd-Ia5HhodGZZFyOQXOf4NklyIc7VR3evf4HAT.jpg?quality=95&amp;as=32x21,48x32,72x47,108x71,160x105,240x158,360x237,480x316,540x356,640x421,720x474,1080x711,1280x843&amp;from=bu&amp;cs=1280x0" />
   </item>
   <item>
     <metadata>
@@ -203,5 +262,17 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
     </metadata>
     <link URL="https://nashural.ru/assets/uploads/4.-Uste-Ushkovskoj-kanavy.-Hud.-N.-Rudyj.-2019-g.jpg" />
+  </item>
+  <item>
+    <metadata>
+      <title>Богатырь. Хмурый день</title>
+      <date>2014</date>
+      <type>painting</type>
+      <dimensions>65х50 см</dimensions>
+      <medium>Холст, масло</medium>
+      <source>https://vk.com/wall18580469_8519</source>
+      <notes>Изображает гору Шихан</notes>
+    </metadata>
+    <link URL="https://sun9-28.userapi.com/s/v1/ig2/XmDVyw5zFrFi7ue6mrYVsURcymDBQELJzCDHypvYD4-18w-r8pN3fKAhF4qOMwbvtsVtwsxGtDVpVfMSWMh3-FGD.jpg?quality=95&amp;as=32x26,48x40,72x60,108x89,160x132,240x199,360x298,480x397,540x447,640x529,720x596,1080x893,1238x1024&amp;from=bu&amp;cs=1238x0" />
   </item>
 </collection>
