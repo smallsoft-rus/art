@@ -120,6 +120,15 @@
         <location name="ФХО НТГСПИ" />
       </event>
     </events>
+    <subjects>
+      <subject type="identification">
+        <name>Демидовская дача</name>
+        <URL>https://museum-nt.ru/content/visit/museum/museum.php?ELEMENT_ID=122</URL>
+        <location name="Нижний Тагил">
+          <pos>57.903364 59.990006</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
