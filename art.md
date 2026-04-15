@@ -2,6 +2,7 @@
 
 - https://vk.com/search/statuses?q=%23нарисованный_тагил
 - https://vk.com/club224235383
+- https://vk.com/tagil_art
 
 ## Лисья гора
 - [Бернгард О.Э. Нижний Тагил. Лисья гора ночью.](https://artmnt.ru/collection.php?id=218), 1944. Картон, масло, НТМИИ
@@ -9,6 +10,7 @@
 - [Литвиненко Лариса. Лисья гора](https://vk.com/market/product/kartina-lisya-gora-224678814-11524326). Холст, масло
 - [Кожевников Андрей. Тагильский мотив](https://vk.com/market/product/kartina-quottagilskiy-motivquot-224678814-11280838), 2025. Холст, масло
 - [Кожевников Андрей. Вид на Лисью гору от Пассажа](https://vk.com/market/product/kartina-vid-na-lisyu-goru-ot-passazha-224678814-11210600). Холст, масло
+- [Горелов Г.А. Рисунок Лисьей горы](https://vk.com/wall-224235383_1349)
 
 ## Горсовет
 - [Бернгард О.Э. Нижний Тагил. Горсовет ночью](https://artmnt.ru/collection.php?id=238), 1946. Картон, масло, НТМИИ
