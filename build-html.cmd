@@ -19,4 +19,6 @@ cd ..\nataly_art_rud
 CatalogTools --html --homelink catalog.xml
 cd ..\linaplenka
 CatalogTools --html --homelink lina.xml
+cd ..\kostrominika
+CatalogTools --html --homelink --layout Indexed catalog.xml
 PAUSE
