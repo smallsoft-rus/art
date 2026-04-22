@@ -11,6 +11,7 @@
 - [Кожевников Андрей. Тагильский мотив](https://vk.com/market/product/kartina-quottagilskiy-motivquot-224678814-11280838), 2025. Холст, масло
 - [Кожевников Андрей. Вид на Лисью гору от Пассажа](https://vk.com/market/product/kartina-vid-na-lisyu-goru-ot-passazha-224678814-11210600). Холст, масло
 - [Горелов Г.А. Рисунок Лисьей горы](https://vk.com/wall-224235383_1349)
+- [Широбакина Наталья. Закат на Лисьей горе](http://www.artlib.ru/index.php?id=11&fp=2&uid=17545&iid=354760), 2010. Бумага, пастель
 
 ## Горсовет
 - [Бернгард О.Э. Нижний Тагил. Горсовет ночью](https://artmnt.ru/collection.php?id=238), 1946. Картон, масло, НТМИИ
