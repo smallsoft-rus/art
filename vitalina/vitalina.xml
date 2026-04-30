@@ -490,6 +490,10 @@
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo</description>
       </event>
+      <event type="contest" date="2023">
+        <name>Искусство реальности</name>
+        <URL>https://vk.com/wall-4891369_7515</URL>
+      </event>
     </events>
   </item>
   <item>
