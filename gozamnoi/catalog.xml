@@ -45,6 +45,25 @@
   </item>
   <item>
     <metadata>
+      <title>Двор</title>
+      <date>2024</date>
+      <type>decoration</type>
+      <dimensions>30x15x12 см</dimensions>
+      <medium>Стекло</medium>
+      <source>https://disk.yandex.ru/i/VXklez3N33W_Sw</source>
+      <notes></notes>
+    </metadata>
+    <file name="2024_dvor.jpg"></file>
+    <events>
+      <event type="contest" date="2024">
+        <name>Искусство реальности</name>
+        <URL>https://vk.com/wall-4891369_8045</URL>
+        <description>Заняла 2 место на II всероссийском конкурсе учебно-творческих работ студентов "Искусство реальности"</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
       <title>Скорбященский монастырь</title>
       <date>2023</date>
       <medium>Бумага, акварельные карандаши</medium>
