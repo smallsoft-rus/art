@@ -15,6 +15,7 @@
     <metadata>
       <title>Монолог</title>
       <date>2024</date>
+      <type>drawing</type>
       <source>https://vk.com/wall-4891369_8002</source>
       <notes>Предположительно, изображает подругу художницы Светлану Апретову в образе какой-то исторической героини периода XVI-XVII веков. Высокий волнообразный воротник (рафф) явно соответствует моде Западной Европы этого периода, сохранилось несколько портретов Елизаветы Тюдор в такой одежде (например, https://commons.wikimedia.org/wiki/File:George_Gower_Elizabeth_Sieve_Portrait.jpg). Впрочем, героиня этой работы на королеву не похожа. Название намекает на то, что это может быть персонаж драматического произведения, но какого именно и что здесь символизирует груша, непонятно.
 
@@ -33,6 +34,7 @@
     <metadata>
       <title>Кицунэ</title>
       <date>2024</date>
+      <type>photo series</type>
       <source>https://vk.com/linaplenka?w=wall-216017454_101</source>
       <description>Кицунэ, лиса-оборотень, хитрая обманщица, умеющая превратиться во что угодно, даже в луну на небе</description>
       <notes>Серия художественных фотографий, модель - Виталина Чуракова</notes>
@@ -50,6 +52,7 @@
     <metadata>
       <title>Розовое зарево. Вид на церковь Александра Невского</title>
       <date>2023</date>
+      <type>drawing</type>
       <dimensions>21х29 см</dimensions>
       <medium>Пастельная бумага, сухая пастель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239471%2Fphotos-218867577</source>
@@ -75,6 +78,7 @@
     <metadata>
       <title>Туманное деревенское утро</title>
       <date>2023</date>
+      <type>drawing</type>
       <dimensions>21х29 см</dimensions>
       <medium>Пастельная бумага, сухая пастель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239476%2Fphotos-218867577</source>
@@ -91,6 +95,7 @@
     <metadata>
       <title>Тоскливая стужа</title>
       <date>2023</date>
+      <type>drawing</type>
       <dimensions>21х29 см</dimensions>
       <medium>Карандаш, уголь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239475%2Fphotos-218867577</source>
@@ -107,6 +112,7 @@
     <metadata>
       <title>Одинокие развалины</title>
       <date>2023</date>
+      <type>drawing</type>
       <dimensions>21х29 см</dimensions>
       <medium>Карандаш, уголь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239474%2Fphotos-218867577</source>
@@ -123,6 +129,7 @@
     <metadata>
       <title>Надвигающаяся вьюга</title>
       <date>2023</date>
+      <type>drawing</type>
       <dimensions>21х29 см</dimensions>
       <medium>Пастельная бумага, сухая пастель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239473%2Fphotos-218867577</source>
@@ -148,6 +155,7 @@
     <metadata>
       <title>Забор у дома</title>
       <date>2023</date>
+      <type>drawing</type>
       <dimensions>21х29 см</dimensions>
       <medium>Карандаш, уголь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239472%2Fphotos-218867577</source>
@@ -157,6 +165,23 @@
     <events>
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
+      <title>Хитрая капибара</title>
+      <date>2023</date>
+      <type>decoration</type>
+      <medium>Дерево</medium>
+      <source>https://disk.yandex.ru/i/VXklez3N33W_Sw</source>
+      <notes></notes>
+    </metadata>
+    <file name="2023_5282945594287052101.jpg"></file>
+    <events>
+      <event type="contest" date="2024">
+        <name>Искусство реальности</name>
+        <URL>https://vk.com/wall-4891369_8045</URL>
       </event>
     </events>
   </item>
