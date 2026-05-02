@@ -555,6 +555,24 @@
   </item>
   <item>
     <metadata>
+      <title>Тукан</title>
+      <date>2023</date>
+      <type>decoration</type>
+      <medium>Стекло</medium>
+      <source>https://disk.yandex.ru/i/VXklez3N33W_Sw</source>
+      <notes></notes>
+    </metadata>
+    <file name="2023_tukan.jpg"></file>
+    <events>
+      <event type="contest" date="2024">
+        <name>Искусство реальности</name>
+        <URL>https://vk.com/wall-4891369_8045</URL>
+        <description>Заняла 3 место на II всероссийском конкурсе учебно-творческих работ студентов "Искусство реальности"</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
       <title>Вдохновение</title>
       <date>2022</date>
       <type>painting</type>

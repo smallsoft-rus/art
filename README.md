@@ -9,6 +9,7 @@
 - [Арнаутова Анастасия Александровна](arnaut/catalog.md)
 - [Каранина Ирина Дмитриевна](rinasun/rinasun.md)
 - [Овчинникова Анастасия Анатольевна](asya.less/asyaless.md)
+- [Феденёва Анастасия Васильевна](gozamnoi/catalog.md)
 - [Франт Анна](filkins/catalog.md)
 - [Чуракова Виталина Вячеславовна](vitalina/vitalina.md)
 
