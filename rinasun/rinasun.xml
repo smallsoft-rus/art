@@ -200,6 +200,11 @@
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo</description>
       </event>
+      <event type="exhibition" date="2024">
+        <name>Вдохновляйся! Действуй!</name>
+        <URL>https://vk.com/wall-4891369_8180</URL>
+        <location name="Дом художника" />
+      </event>
     </events>
   </item>
   <item>
@@ -291,6 +296,13 @@
       <notes></notes>
     </metadata>
     <file name="9MfdCogYW4k.jpg"></file>
+    <events>
+      <event type="exhibition" date="2024">
+        <name>Вдохновляйся! Действуй!</name>
+        <URL>https://vk.com/wall-4891369_8180</URL>
+        <location name="Дом художника" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -570,6 +582,11 @@
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
       </event>
+      <event type="exhibition" date="2024">
+        <name>Вдохновляйся! Действуй!</name>
+        <URL>https://vk.com/wall-4891369_8180</URL>
+        <location name="Дом художника" />
+      </event>
     </events>
   </item>
   <item>
@@ -593,6 +610,11 @@
       </event>
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo (не продавалась)</description>
+      </event>
+      <event type="exhibition" date="2024">
+        <name>Вдохновляйся! Действуй!</name>
+        <URL>https://vk.com/wall-4891369_8180</URL>
+        <location name="Дом художника" />
       </event>
     </events>
   </item>
@@ -686,6 +708,11 @@
       <event type="exhibition" date="2023">
         <description>Выставлялась в ArtSpaceDepo</description>
       </event>
+      <event type="exhibition" date="2024">
+        <name>Вдохновляйся! Действуй!</name>
+        <URL>https://vk.com/wall-4891369_8180</URL>
+        <location name="Дом художника" />
+      </event>
     </events>
   </item>
   <item>
@@ -700,6 +727,13 @@
       <notes></notes>
     </metadata>
     <file name="XSYjTGbDi2g.jpg"></file>
+    <events>
+      <event type="exhibition" date="2024">
+        <name>Вдохновляйся! Действуй!</name>
+        <URL>https://vk.com/wall-4891369_8180</URL>
+        <location name="Дом художника" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
