@@ -166,13 +166,11 @@
 
 ![](bfYoN5hLPQM.jpg)
 
-С курицей, 2024
+(С курицей), 2024
 
 <https://vk.com/wall-149859040?own=1&z=photo-149859040_457241548%2Fwall-149859040_2366>
 
 Тип: Картина
-
-descriptive
 
 ![](BCaaC-ntIEY.jpg)
 
