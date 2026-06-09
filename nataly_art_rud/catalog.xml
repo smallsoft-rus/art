@@ -69,6 +69,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Река Чусовая. Камень Олений</title>
       <date>2025</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>40х60 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
@@ -85,6 +86,22 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
     </metadata>
     <link URL="https://nashural.ru/assets/uploads/23.-Nizhnetagilskij-zavod-muzej.jpg" />
+    <subjects>
+      <subject type="identification">
+        <name>Эко-индустриальный технопарк "Старый Демидовский завод"</name>
+        <URL>https://museum-nt.ru/content/visit/museum/museum.php?ELEMENT_ID=39</URL>
+        <location name="Нижний Тагил">
+          <pos>57.906518 59.945652</pos>
+        </location>
+      </subject>
+    </subjects>
+    <events>
+      <event type="exhibition" date="2026">
+        <name>Ленинский район: палитра впечатлений</name>
+        <URL>https://vk.com/wall18580469_8828</URL>
+        <location name="Здание администрации Ленинского района, г. Нижний Тагил" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -96,6 +113,11 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://vk.com/nataly_art_rud?w=wall18580469_8733</source>
     </metadata>
     <file name="2025_Mur43PM4_FtNgu_dZa.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Доменный цех Нижнетагильского металлургического комбината</name>
+      </subject>
+    </subjects>
     <events>
       <event type="exhibition" date="2025">
         <name>Энергия индустрии</name>
@@ -108,6 +130,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Поле Иван-чая</title>
       <date>2025</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <titleType>descriptive</titleType>
       <source>https://vk.com/wall18580469_8651</source>
     </metadata>
@@ -118,6 +141,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Верхотурский Кремль. Светлый день</title>
       <date>2025</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <dimensions>40х50 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_8592</source>
@@ -148,6 +172,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Поселок Черноисточинск</title>
       <date>2024</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions></dimensions>
       <medium></medium>
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
@@ -159,17 +184,35 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Тагильский пруд под облаками</title>
       <date>2024</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>40х60 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_8313</source>
+      <notes>Изображает вид на Храм Александра Невского с места, где река Большая Кушва впадает в Нижнетагильский пруд</notes>
     </metadata>
     <file name="2024_pdKPEOJ0Dgucid84kaHX0b.jpg"></file>
+    <subjects>
+      <subject type="identification">
+        <name>Храм Александра Невского</name>
+        <URL>https://anevsly-ntagil.cerkov.ru</URL>
+        <location name="Нижний Тагил">
+          <pos>57.891792 59.969721</pos>
+        </location>
+      </subject>
+      <subject type="identification">
+        <name>Река Большая Кушва</name>
+        <location name="Нижний Тагил">
+          <pos>57.887491 60.002617</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
       <title>Уральское лето</title>
       <date>2024</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>40х70 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_7332</source>
@@ -182,6 +225,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Городской пейзаж</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <dimensions></dimensions>
       <medium></medium>
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
@@ -201,6 +245,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Лев</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>animal art</genre>
       <dimensions>30х40 см</dimensions>
       <medium>Холст на картоне, масло</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239353%2Fphotos-218867577</source>
@@ -217,6 +262,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Колокольчики</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>still life</genre>
       <dimensions>40х50 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239340%2Fphotos-218867577</source>
@@ -233,10 +279,19 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Демидовская дача</title>
       <date>2023</date>
       <type>painting</type>
-      <titleType>descriptive</titleType>
+      <genre>cityscape</genre>
       <source>https://vk.com/wall18580469_7945</source>
     </metadata>
     <link URL="https://sun9-63.userapi.com/s/v1/ig2/KnIWO56aZLYjBtw71zzUO_vSxIagSI54aB6DjWyxvw65mQUEDHyd-Ia5HhodGZZFyOQXOf4NklyIc7VR3evf4HAT.jpg?quality=95&amp;as=32x21,48x32,72x47,108x71,160x105,240x158,360x237,480x316,540x356,640x421,720x474,1080x711,1280x843&amp;from=bu&amp;cs=1280x0" />
+    <subjects>
+      <subject type="identification">
+        <name>Демидовская дача</name>
+        <URL>https://museum-nt.ru/content/visit/museum/museum.php?ELEMENT_ID=122</URL>
+        <location name="Нижний Тагил">
+          <pos>57.903364 59.990006</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -254,27 +309,49 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Нижний Тагил</title>
       <date>2022</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <dimensions></dimensions>
       <medium></medium>
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
+      <notes>Изображает вид с Лисьей горы на центр Нижнего Тагила. Слева - парк им. Бондина, справа - Нижнетагильский цирк.</notes>
     </metadata>
     <link URL="https://nashural.ru/assets/uploads/27.-Nizhnij-Tagil.-Hud.-Nataliya-Rudyj.-2022-g.jpg" />
+    <subjects>
+      <subject type="identification">
+        <name>Нижнетагильский цирк</name>
+        <URL>https://circus-ntagil.ru/</URL>
+        <location name="Нижний Тагил">
+          <pos>57.904561 59.965475</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
       <title>Осеннее утро. Главный проспект</title>
       <date>2021</date>
+      <genre>cityscape</genre>
       <dimensions>65х50 см</dimensions>
       <medium>Бумага, пастель</medium>
       <source>https://vk.com/wall18580469_6777</source>
+      <notes>Изображает вид проспекта Ленина около КДК Современник</notes>
     </metadata>
     <link URL="https://sun9-17.userapi.com/s/v1/ig2/5okphxiBdpzlmDIS_4m-voc36jiqFBU6Xki9ZvMQpVFf-1WZ7V5VF7bWoPUDdvX_vJcg5vc9NrkakLBBT1UTS0X5.jpg?quality=95&amp;as=32x25,48x37,72x56,108x83,160x123,240x185,360x278,480x370,540x416,640x493,720x555,1080x833,1280x987,1440x1110,2560x1974&amp;from=bu&amp;cs=2560x0" />
+    <subjects>
+      <subject type="identification">
+        <name>Проспект Ленина</name>
+        <location name="Нижний Тагил">
+          <pos>57.907890 59.964122</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
       <title>Вечерний Тагил</title>
       <date>2020</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <dimensions>90х60 см</dimensions>
       <medium>Холст, масло</medium>
       <location>Частная коллекция, г. Москва</location>
@@ -296,6 +373,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Вид на Лисью гору</title>
       <date>2020</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <dimensions>60х45 см</dimensions>
       <medium></medium>
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
@@ -316,18 +394,28 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Ай Петри. Крым</title>
       <date>2020</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>70х50 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_5399</source>
       <notes>Написана на заказ</notes>
     </metadata>
     <link URL="https://sun9-88.userapi.com/s/v1/ig2/ejMZ3uIB3n0D0Txi4pDXZMeQcB5cQ7QF8y0tllEAGC_qQFTrZHLTTkZMWdwQSa4jKrSqjAjmfZwv1ccN4-RCqHfC.jpg?quality=96&amp;as=32x23,48x35,72x52,108x79,160x116,240x175,360x262,480x349,540x393,640x466,720x524,1080x786,1280x932,1440x1048,1600x1165&amp;from=bu&amp;cs=1600x0" />
+    <subjects>
+      <subject type="identification">
+        <name>Гора Ай-Петри</name>
+        <location name="Республика Крым">
+          <pos>44.448573 34.056456</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
       <title>Весенняя симфония</title>
       <date>2019</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>50х60 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239346%2Fphotos-218867577</source>
@@ -344,6 +432,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Вид на устье Ушковской Канавы</title>
       <date>2019</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>50х70 см</dimensions>
       <medium>Масло</medium>
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
@@ -355,6 +444,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Этюд под весенним солнцем</title>
       <date>2018</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <source>https://vk.com/wall18580469_6401</source>
     </metadata>
     <link URL="https://sun9-56.userapi.com/s/v1/ig2/nmkTUoAwprG1J0cX0qAlwELsc_I4xecGcgkpaVljlpeh0FbpjcBxCZFgwVRtLwefefkFmWRgj254Q3iW7ddVcTYh.jpg?quality=95&amp;as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1920x2560&amp;from=bu&amp;cs=1920x0" />
@@ -373,6 +463,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Март на реке</title>
       <date>2018</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_4143</source>
     </metadata>
@@ -383,6 +474,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Сплавщики</title>
       <date>2017</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>70х50 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_4049</source>
@@ -394,6 +486,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Золотая берёзка</title>
       <date>2017</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>30х40 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_4064</source>
@@ -405,6 +498,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>В долине горных рек. Алтай</title>
       <date>2016</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>70х40 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_5919</source>
@@ -416,6 +510,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Исаакиевская площадь</title>
       <date>2016</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <dimensions>90х70 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall-103472646_177</source>
@@ -427,6 +522,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Ели на закате</title>
       <date>2015</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall-103472646_217</source>
     </metadata>
@@ -437,6 +533,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Верба в цвету</title>
       <date>2015</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_3241</source>
     </metadata>
@@ -447,6 +544,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Байкал</title>
       <date>2014</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>80х40 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall-103472646_217</source>
@@ -458,6 +556,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Богатырь. Хмурый день</title>
       <date>2014</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>65х50 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_8519</source>
@@ -470,6 +569,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Суздаль. После дождя</title>
       <date>2013</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <source>https://vk.com/wall18580469_7936</source>
       <notes></notes>
     </metadata>
@@ -480,6 +580,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Сиреневый туман. Чусовая</title>
       <date>2013</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>90х70 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall-103472646_288</source>
@@ -492,6 +593,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <title>Златоглавая</title>
       <date>2012</date>
       <type>painting</type>
+      <genre>cityscape</genre>
       <dimensions>80х100 см</dimensions>
       <medium>Холст, масло</medium>
       <location>Музей НТМК</location>
@@ -504,6 +606,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
     <metadata>
       <title>Камень Мултык</title>
       <date>2011</date>
+      <genre>landscape</genre>
       <medium>Пастель</medium>
       <source>https://vk.com/wall-103472646_5</source>
       <notes></notes>
