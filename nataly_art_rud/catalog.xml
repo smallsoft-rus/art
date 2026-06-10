@@ -75,6 +75,14 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
     </metadata>
     <link URL="https://nashural.ru/assets/uploads/11.-Reka-CHusovaya.-Kamen-Olenij.-Hud.-Nataliya-Rudyj.-2025-g.jpg" />
+    <subjects>
+      <subject type="identification">
+        <name>Скала "Олений камень"</name>
+        <location name="Свердловская область">
+          <pos>57.679553 58.910989</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -147,6 +155,15 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://vk.com/wall18580469_8592</source>
     </metadata>
     <link URL="https://sun9-81.userapi.com/s/v1/ig2/vnEURTfUwhB-gc3KFywiaIhMlsbehXwbQhYnJlDeiR9HMQyfHAB6Vy5iwXlCtOzaQK7r3ZsFWIH-zRSCgwZzOMi9.jpg?quality=95&amp;as=32x25,48x38,72x57,108x86,160x127,240x190,360x286,480x381,540x429,640x508,720x571,1080x857,1280x1016,1440x1143,2560x2032&amp;from=bu&amp;cs=2560x0" />
+    <subjects>
+      <subject type="identification">
+        <name>Верхотурский кремль</name>
+        <URL>http://vgiamz.ru/</URL>
+        <location name="Верхотурье">
+          <pos>58.860744 60.807284</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -178,6 +195,14 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
     </metadata>
     <link URL="https://nashural.ru/assets/uploads/7.-Poselok-CHernoistochinsk.-Hud.-Nataliya-Rudyj.-2024-g.jpg" />
+    <subjects>
+      <subject type="identification">
+        <name>Петропавловская церковь</name>
+        <location name="Черноисточинск">
+          <pos>57.737445 59.879046</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -516,6 +541,15 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <source>https://vk.com/wall-103472646_177</source>
     </metadata>
     <link URL="https://sun9-5.userapi.com/s/v1/ig1/mBALkN1XBBoS5QT8X3Wc-g9vo9FORRgIGe7_Qb8xF9IhyiP-q293oKlcL_EKnGFqFF5ebA.jpg?quality=96&amp;as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&amp;from=bu&amp;u=yFAyKC_EEBeNmFOX0lnQDNp3Y6v_ZRCs_yTcFadkt2I&amp;cs=2560x0" />
+    <subjects>
+      <subject type="identification">
+        <name>Исаакиевский собор</name>
+        <URL>https://cathedral.ru/ru/isaac/building</URL>
+        <location name="Санкт-Петербург">
+          <pos>59.934127 30.305973</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
