@@ -244,3 +244,7 @@
 - https://mstrok.ru/news/seychas-prishlo-vremya-zhenshchin-hudozhnic-alisa-gorshenina-o-bespolom-iskusstve-lyubvi-k
 - https://www.kommersant.ru/doc/6666335
 - [Интервью с Викторией Мусвик "Алиса Горшенина. Я максимально серьезно отношусь к фотографии"](https://experiment.gallery/viewing-rooms/alisa-gorshenina-intervyu-2/)
+
+Публикации:
+
+Курзенева В. А., Кузнецова Н. С., Садриева А. Н. Мир, созданный руками Алисы Горшениной. / Город, социум, среда: История и векторы развития. Сборник материалов II Всероссийской научно-практической конференции 28–29 октября 2022 г.
