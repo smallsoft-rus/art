@@ -16,7 +16,7 @@ CatalogTools --html --homelink catalog.xml
 cd ..\rinasun
 CatalogTools --html --homelink --layout Indexed rinasun.xml
 cd ..\nataly_art_rud
-CatalogTools --html --homelink catalog.xml
+CatalogTools --html --homelink --layout Indexed catalog.xml
 cd ..\linaplenka
 CatalogTools --html --homelink lina.xml
 cd ..\kostrominika
