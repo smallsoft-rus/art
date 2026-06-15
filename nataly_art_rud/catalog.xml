@@ -63,6 +63,7 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
 - https://jotto8.ru/blog/intervju-s-hudozhnikom-pejzazhistom-natalej-rudyj
 - https://natalyrud.in.gallerix.ru
 - http://shr-nt.ru/node/805
+- https://artnow.ru/ru/artists/3/37836/picture/0/0.html
 </document>
   <item>
     <metadata>
@@ -637,6 +638,14 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <notes></notes>
     </metadata>
     <link URL="https://sun9-17.userapi.com/s/v1/ig1/E0Pk1vKcCyiXVHWdxJQRbt-T99H2azxuimfkQ1f24RdfWQFMqA0nWG9Fmob4iEBqJFTGVA.jpg?quality=96&amp;as=32x21,48x31,72x47,108x71,160x105,240x157,360x236,480x315,540x354,640x420,720x472,1080x708,1279x839&amp;from=bu&amp;cs=1279x0" />
+    <subjects>
+      <subject type="identification">
+        <name>Суздальский кремль</name>
+        <location name="Суздаль">
+          <pos>56.416214 40.442608</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
@@ -666,6 +675,15 @@ https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tag
       <notes></notes>
     </metadata>
     <link URL="https://sun9-75.userapi.com/s/v1/ig2/D6MbYIDN_uD55oXlGHZ1N0iPSWHo1a2QMmWJ5PZmtR64m34kHSo_JGrgzef44o9DgaCC3jmv2kBItLyI_W7fzVVz.jpg?quality=95&amp;as=32x25,48x37,72x55,108x83,160x123,240x184,360x276,480x368,540x415,640x491,720x553,1003x770&amp;from=bu&amp;cs=1003x0" />
+    <subjects>
+      <subject type="identification">
+        <name>Покровский монастырь</name>
+        <URL>http://spokrovmon.ru/</URL>
+        <location name="Суздаль">
+          <pos>56.429357 40.437129</pos>
+        </location>
+      </subject>
+    </subjects>
   </item>
   <item>
     <metadata>
