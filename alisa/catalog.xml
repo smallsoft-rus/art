@@ -48,6 +48,13 @@
       <notes>Выставлялась на продажу на аукционе VLADEY</notes>
     </metadata>
     <link URL="https://api.vladey.net/storage/artwork/10276/cover_preview_image-318cb9132adbe922c3fd73e1968a6734.jpg"></link>
+    <events>
+      <event type="exhibition" date="2023">
+        <name>Коробка в форме сердца</name>
+        <URL>https://vladey.net/ru/exhibitions/gorsheninaheartbox</URL>
+        <location name="VLADEY Space" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -104,6 +111,13 @@
       <notes>Инсталляция с выставки "Русское инородное", с. Якшина, Свердловская область</notes>
     </metadata>
     <link URL="https://hb.bizmrg.com/raan/F/000006177/F6177/421d0a2c-e544-4fe6-9691-97a94045a0a5-800px.jpg"></link>
+    <events>
+      <event type="exhibition" date="2019">
+        <name>Русское инородное</name>
+        <URL>https://ahonline.ru/tpost/m1xkcapib1-proekt-russkoe-inorodnoehudozhnitsi-alis</URL>
+        <location name="с. Якшина, Свердловская область" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -116,6 +130,13 @@
       <notes>Инсталляция с выставки "Русское инородное", с. Якшина, Свердловская область</notes>
     </metadata>
     <link URL="https://hb.bizmrg.com/raan/F/000006177/F6177/2c7835ad-39ce-46c2-a852-8a72e32fa396-800px.jpg"></link>
+    <events>
+      <event type="exhibition" date="2019">
+        <name>Русское инородное</name>
+        <URL>https://ahonline.ru/tpost/m1xkcapib1-proekt-russkoe-inorodnoehudozhnitsi-alis</URL>
+        <location name="с. Якшина, Свердловская область" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -152,7 +173,7 @@
   </item>
   <item>
     <metadata>
-      <title>Семь святых дев худграфа, фигура I</title>
+      <title>Семь святых дев худграфа</title>
       <date>2015</date>
       <type>mural</type>
       <location>Уничтожена</location>
@@ -161,30 +182,6 @@
       <notes>Стенная роспись "Семь святых дев худграфа" была выполнена в сентябре 2015 года на заборе Художественно-графического Факультета НТГСПА, через неделю закрашена самой художницей по требованию администрации вуза. В каталог включены фотографии двух фигур.</notes>
     </metadata>
     <file name="2015_405641_original.jpg"></file>
-    <relatedWorks>
-      <relatedWork rel="part of">
-        <title>Семь святых дев худграфа</title>
-        <URL>https://mstrok.ru/news/obnazhyonnye-svyatye-devy-hudgrafa-v-centre-nizhnego-tagila-zakrasheny.-avtora-obvinili-v-bogohulstve-video.html</URL>
-      </relatedWork>
-    </relatedWorks>
-  </item>
-  <item>
-    <metadata>
-      <title>Семь святых дев худграфа, фигура II</title>
-      <date>2015</date>
-      <type>mural</type>
-      <location>Уничтожена</location>
-      <source>https://draco-argento.livejournal.com/333103.html</source>
-      <description></description>
-      <notes></notes>
-    </metadata>
-    <file name="2015_405972_original.jpg"></file>
-    <relatedWorks>
-      <relatedWork rel="part of">
-        <title>Семь святых дев худграфа</title>
-        <URL>https://mstrok.ru/news/obnazhyonnye-svyatye-devy-hudgrafa-v-centre-nizhnego-tagila-zakrasheny.-avtora-obvinili-v-bogohulstve-video.html</URL>
-      </relatedWork>
-    </relatedWorks>
   </item>
   <item>
     <metadata>
@@ -214,7 +211,7 @@
       <title>Пуча в электричке</title>
       <date>2015</date>
       <source>https://russianartarchive.net/ru/catalogue/document/F6214</source>
-      <description>Когда рождается образ, он как и младенец имеет право на жизнь. Так появилась Пуча, которая сразу заявила о том, что не собирается быть исключительно иллюстрацией. Просто лоскут ткани и кучка синтепона, но вместе с тем и буря эмоций. Все зависит от места, где находится Пуча: неприметно лежа на полке дома, или на голове хозяйки в электричке. Пуча - это образ, который работает в определенной атмосфере. Где коцепция? - Нигде, просто тряпка, а может и нет.</description>
+      <description>Когда рождается образ, он как и младенец имеет право на жизнь. Так появилась Пуча, которая сразу заявила о том, что не собирается быть исключительно иллюстрацией. Просто лоскут ткани и кучка синтепона, но вместе с тем и буря эмоций. Все зависит от места, где находится Пуча: неприметно лежа на полке дома, или на голове хозяйки в электричке. Пуча - это образ, который работает в определенной атмосфере. Где концепция? - Нигде, просто тряпка, а может и нет.</description>
       <notes>Работа из проекта «Уральская кома»</notes>
     </metadata>
     <link URL="https://hb.bizmrg.com/raan/F/000006214/F6214/adb3ecc0-f597-4c53-8c5b-0daa93bd5426-800px.jpg"></link>
