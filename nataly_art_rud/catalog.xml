@@ -105,7 +105,7 @@
       <date>2025</date>
       <id>2025_zRSCgwZzOMi9</id>
       <type>painting</type>
-      <genre>cityscape</genre>
+      <genre>architectural landscape</genre>
       <dimensions>40х50 см</dimensions>
       <medium>Холст, масло</medium>
       <source>https://vk.com/wall18580469_8592</source>
@@ -343,7 +343,7 @@
       <title>Вечерний Тагил</title>
       <date>2020</date>
       <type>painting</type>
-      <genre>landscape</genre>
+      <genre>cityscape</genre>
       <dimensions>90х60 см</dimensions>
       <medium>Холст, масло</medium>
       <location>Частная коллекция, г. Москва</location>
@@ -351,6 +351,7 @@
       <description>В жизни обязательно должны быть паузы... Такие паузы, когда с вами ничего не происходит, когда вы просто сидите и смотрите на мир, а мир смотрит на вас.
 Замечайте вокруг красоту! Созерцайте! Ловите мечту! И пусть весь мир подождет....</description>
       <notes>Другой вариант названия: "Улица Набережная вечером". Эта работа была продана через Арт-салон "Палитра". Ее местонахождение некоторое время было неизвестно, пока в 2023 году знакомая художницы, гуляя по Москве, не заметила в окне дома картину, стоящую задником к стеклу. На оборотной стороне холста была видна надпись с названием картины и фамилией автора. В 2023 году Наталия написала повторение этого сюжета с небольшими изменениями, оно было выставлено на продажу за 7 000 ₽.</notes>
+      <tags>featured</tags>
     </metadata>
     <file name="31-Ulitsa-naberegzhnaya-vecherom-2020.jpg"></file>
     <subjects>
@@ -368,7 +369,7 @@
       <date>2020</date>
       <id>Vid_na_Lisyu_goru</id>
       <type>painting</type>
-      <genre>landscape</genre>
+      <genre>cityscape</genre>
       <dimensions>60х45 см</dimensions>
       <medium></medium>
       <source>https://nashural.ru/culture/ural-characters/hudozhnik-nataliya-rudyj-nizhnij-tagil-prirodnye-pejzazhi-srednego-urala/</source>
@@ -587,7 +588,7 @@
       <date>2013</date>
       <id>2013_Suzdal</id>
       <type>painting</type>
-      <genre>cityscape</genre>
+      <genre>architectural landscape</genre>
       <source>https://vk.com/wall18580469_7936</source>
       <notes></notes>
     </metadata>
@@ -621,12 +622,13 @@
       <date>2012</date>
       <id>2012_jmv2kBItLyIW7fzVVz</id>
       <type>painting</type>
-      <genre>cityscape</genre>
+      <genre>architectural landscape</genre>
       <dimensions>80х100 см</dimensions>
       <medium>Холст, масло</medium>
       <location>Музей НТМК</location>
       <source>https://vk.com/wall18580469_7145</source>
       <notes></notes>
+      <tags>featured</tags>
     </metadata>
     <link URL="https://sun9-75.userapi.com/s/v1/ig2/D6MbYIDN_uD55oXlGHZ1N0iPSWHo1a2QMmWJ5PZmtR64m34kHSo_JGrgzef44o9DgaCC3jmv2kBItLyI_W7fzVVz.jpg?quality=95&amp;as=32x25,48x37,72x55,108x83,160x123,240x184,360x276,480x368,540x415,640x491,720x553,1003x770&amp;from=bu&amp;cs=1003x0" />
     <subjects>
