@@ -18,6 +18,7 @@
       <title>Монолог</title>
       <date>2024</date>
       <type>drawing</type>
+      <genre>portrait</genre>
       <source>https://vk.com/wall-4891369_8002</source>
       <notes>Предположительно, изображает подругу художницы Светлану Апретову в образе какой-то исторической героини периода XVI-XVII веков. Высокий волнообразный воротник (рафф) явно соответствует моде Западной Европы этого периода, сохранилось несколько портретов Елизаветы Тюдор в такой одежде (например, https://commons.wikimedia.org/wiki/File:George_Gower_Elizabeth_Sieve_Portrait.jpg). Впрочем, героиня этой работы на королеву не похожа. Название намекает на то, что это может быть персонаж драматического произведения, но какого именно и что здесь символизирует груша, непонятно.</notes>
     </metadata>
@@ -53,6 +54,7 @@
       <title>Розовое зарево. Вид на церковь Александра Невского</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>cityscape</genre>
       <dimensions>21х29 см</dimensions>
       <medium>Пастельная бумага, сухая пастель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239471%2Fphotos-218867577</source>
@@ -96,6 +98,7 @@
       <title>Тоскливая стужа</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>architectural landscape</genre>
       <dimensions>21х29 см</dimensions>
       <medium>Карандаш, уголь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239475%2Fphotos-218867577</source>
@@ -113,6 +116,7 @@
       <title>Одинокие развалины</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>architectural landscape</genre>
       <dimensions>21х29 см</dimensions>
       <medium>Карандаш, уголь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239474%2Fphotos-218867577</source>
@@ -130,6 +134,7 @@
       <title>Надвигающаяся вьюга</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>cityscape</genre>
       <dimensions>21х29 см</dimensions>
       <medium>Пастельная бумага, сухая пастель</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239473%2Fphotos-218867577</source>
@@ -156,6 +161,7 @@
       <title>Забор у дома</title>
       <date>2023</date>
       <type>drawing</type>
+      <genre>architectural landscape</genre>
       <dimensions>21х29 см</dimensions>
       <medium>Карандаш, уголь</medium>
       <source>https://vk.com/albums-218867577?z=photo-218867577_457239472%2Fphotos-218867577</source>
