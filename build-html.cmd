@@ -2,7 +2,7 @@
 rem Generate HTML from XML data
 set PATH=C:\Distr\CatalogTools;%PATH%
 cd vitalina
-CatalogTools --html --homelink vitalina.xml
+CatalogTools --html --homelink --pagesize 20 vitalina.xml
 cd ..\arnaut
 CatalogTools --html --homelink catalog.xml
 cd ..\alisa
