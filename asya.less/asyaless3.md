@@ -12,18 +12,6 @@
 
 [В начало](asyaless.md) [Предыдущая](asyaless2.md) *Страница 3 из 3* 
 
-![](iNp2xL1UfzA.jpg)
-
-(Девушка с лягушками), 2019
-
-<https://vk.com/wall-149859040?offset=780&own=1&z=photo-149859040_457239917%2Ffea89b13bf633f78ea>
-
-![](kiALJZvxw-A.jpg)
-
-(Цветы), 2019
-
-<https://vk.com/wall-149859040?offset=780&own=1&z=photo-149859040_457239889%2F81abff8417f643d702>
-
 ![](zzxOHq2YXFM.jpg)
 
 Портрет брата, 2019
@@ -73,7 +61,7 @@
 <https://vk.com/wall-149859040?offset=1140&own=1&z=photo-149859040_456239022%2Fwall-149859040_3>
 
 Тип: Рисунок  
-Жанр: Архитектурный пейзаж
+Жанр: Городской пейзаж
 
 ![](5-VKaXwDvZs.jpg)
 

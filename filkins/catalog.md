@@ -197,9 +197,9 @@ DEPOша, 2025
 
 ## Галерея
 
-![](VKXevOLz0fv0gt.jpg)
+![](LAnXwcQxiAbzkRU6k.jpg)
 
-С группой The Beavers
+За работой, 2024
 
 ![](cpvoc--IQ6GSCLj1r.jpg)
 
@@ -209,9 +209,9 @@ DEPOша, 2025
 
 На просмотре
 
-![](LAnXwcQxiAbzkRU6k.jpg)
+![](VKXevOLz0fv0gt.jpg)
 
-За работой, 2024
+С группой The Beavers
 
 ## См. также
 

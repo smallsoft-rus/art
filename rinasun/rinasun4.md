@@ -10,40 +10,7 @@
 
 ## Каталог работ
 
-[В начало](rinasun.md) [Предыдущая](rinasun3.md) *Страница 4 из 5* [Следующая](rinasun5.md) [В конец](rinasun5.md)
-
-![](2gDFZTWJm2tGvUWBX.jpg)
-
-(Цветы на фоне луны), 2019
-
-<https://vk.com/wall-79794560?offset=640&own=1&z=photo-79794560_457242334%2Fe1d7c3deef9349441b>
-
-Тип: Картина  
-Жанр: Натюрморт
-
-![](LPl_qb1GskShW8tWs.jpg)
-
-Портрет одногруппницы, 2019
-
-<https://vk.com/wall-79794560?offset=800&own=1&z=photo-79794560_457242183%2F2e5c1f9c7b6530aa74>
-
-Тип: Рисунок  
-Жанр: Портрет
-
-![](lIVgrtFzp2JzR.jpg)
-
-Гуси-лебеди, 2019
-
-<https://vk.com/wall-79794560?offset=800&own=1&z=photo-79794560_457241965%2F65bdb57b6f0ec012fa>
-
-![](2EDbj4uCj.jpg)
-
-Портрет Дарьи Ступак, 2019
-
-<https://vk.com/wall-79794560?offset=980&own=1&z=photo-79794560_456241815%2Fwall-79794560_5550>
-
-Тип: Рисунок  
-Жанр: Портрет
+[В начало](rinasun.md) [Предыдущая](rinasun3.md) *Страница 4 из 4* 
 
 ![](tdT3HCrBOx1w1J.jpg)
 
@@ -82,15 +49,6 @@
 
 История:  
 - 2023: Выставлялась в ArtSpaceDepo
-
-![](I4AJnUsTHOkjHQG9xUS.jpg)
-
-(Натюрморт), 2018
-
-<https://vk.com/wall-79794560?offset=1480&own=1&z=photo-79794560_456241007%2Fe403419e1cdcfe700b>
-
-Тип: Картина  
-Жанр: Натюрморт
 
 ![](Rl2OCIarZOn3R0cC.jpg)
 
@@ -131,14 +89,6 @@
 <https://vk.com/wall-79794560?offset=1750&own=1&z=photo-79794560_456240660%2F2f9fcf598910291c68>
 
 Жанр: Анималистика
-
-![](hJBKq2oL5yWWzFC.jpg)
-
-(Натюрморт с чайником), 2017
-
-<https://vk.com/wall-79794560?offset=2100&own=1&z=photo-79794560_456240175%2Fwall-79794560_3685>
-
-Жанр: Натюрморт
 
 ![](KpBHAi3M6h9bsZ8l.jpg)
 
@@ -195,7 +145,41 @@
 Тип: Рисунок  
 Жанр: Анималистика
 
-[В начало](rinasun.md) [Предыдущая](rinasun3.md) *Страница 4 из 5* [Следующая](rinasun5.md) [В конец](rinasun5.md)
+![](A3E2yQGTVQJCmoQ.jpg)
+
+Фантазия влюблённых, 2015
+
+<https://vk.com/wall-79794560?offset=4080&own=1&z=photo-79794560_395865182%2F0e957fd0e743194491>
+
+Тип: Рисунок
+
+![](s26KfAdgUzZHlJGhKtA.jpg)
+
+Влюбленная в небо никогда не упадет на землю камнем, 2015
+
+<https://vk.com/wall-79794560?offset=4080&own=1&z=photo-79794560_394505698%2Fe6725e2838c049a5cc>
+
+Тип: Рисунок
+
+![](PTrHvcsr05u7DVVjNEriVoq.jpg)
+
+(Орел), 2015
+
+<https://vk.com/wall-79794560?offset=4680&own=1&z=photo177327870_356773771%2F55f84f6382c3a24cbe>
+
+Тип: Рисунок  
+Жанр: Анималистика
+
+![](KpXq2pLAPc4fvDUIp5fZc.jpg)
+
+(Змея), 2014
+
+<https://vk.com/wall-79794560?offset=5140&own=1&z=photo-79794560_348380092%2F181b188efb2ff5a770>
+
+Тип: Рисунок  
+Жанр: Анималистика
+
+[В начало](rinasun.md) [Предыдущая](rinasun3.md) *Страница 4 из 4* 
 
 ## См. также
 
