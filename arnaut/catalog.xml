@@ -87,6 +87,7 @@
       <title>Нюта</title>
       <date>2025</date>
       <type>painting</type>
+      <genre>portrait</genre>
       <dimensions>формат А4</dimensions>
       <medium>Бумага для акварели, гуашь</medium>
       <source>https://t.me/OTVALMASKI/1931</source>
@@ -100,6 +101,7 @@
       <title>На веранде. Пасмурно</title>
       <date>2025</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <dimensions>формат А4</dimensions>
       <medium>Бумага для акварели, гуашь</medium>
       <source>https://t.me/OTVALMASKI/1930</source>
@@ -324,6 +326,7 @@
       <title>Декоративный натюрморт</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>still life</genre>
       <dimensions>60×60 см</dimensions>
       <medium>Масло, темпера</medium>
       <source>https://vk.com/market/product/dekorativny-natyurmort-213873622-10981409?z=photo-213873622_457239423%2Fmarket-213873622_10981409</source>
@@ -337,6 +340,7 @@
       <title>Нежный череп</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>still life</genre>
       <dimensions>40×50 см</dimensions>
       <medium>Холст, масло, темпера</medium>
       <source>https://vk.com/market/product/nezhny-cherep-213873622-10980007?z=photo-213873622_457239409%2Fmarket-213873622_10980007</source>
@@ -350,6 +354,7 @@
       <title>Пейзаж</title>
       <date>2023</date>
       <type>painting</type>
+      <genre>landscape</genre>
       <source>https://vk.com/photo-213873622_457239163?rev=1</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -374,6 +379,7 @@
       <title>Чайный сервиз</title>
       <date>2022</date>
       <type>painting</type>
+      <genre>still life</genre>
       <source>https://vk.com/wall-213873622?offset=100&amp;own=1&amp;z=photo-213873622_457239083%2Fwall-213873622_34</source>
       <titleType>descriptive</titleType>
       <description></description>
@@ -409,6 +415,7 @@
       <title>Час волшебства</title>
       <date>2022</date>
       <type>drawing</type>
+      <genre>abstract art</genre>
       <source>https://vk.com/wall-213873622?offset=100&amp;own=1&amp;z=photo-213873622_457239034%2Fwall-213873622_9</source>
       <description></description>
       <notes></notes>
