@@ -222,7 +222,7 @@
 
 История:  
 - 2022: Участвовала в выставке [Выставка студенческих работ ФХО](https://vk.com/photo-4891369_457257333); Место: Центральная библиотека г. Нижний Тагил
-- 2023: Выставлялась в ArtSpaceDepo, было продано 2 копии этой картины (оригинал не продавался)
+- 2023: Выставлялась в ArtSpaceDepo, было продано 2 авторских повторения (оригинал не продавался)
 
 ![Gloriam mosaic](https://sun9-20.vkuserphoto.ru/s/v1/ig2/Lp2SqCQ1fStCMvyQ6JT6f8CUr7NuPqWqYpdkp0x3W-IzSkxFBUQ1L_iNy8HxJ-ilCd3Sg6F-cx9sq03kmmSsAcWL.jpg?quality=95&as=32x23,48x35,72x52,108x78,160x116,240x174,360x261,480x347,540x391,640x463,720x521,1080x782,1280x926,1440x1042,2560x1853&from=bu&u=esdeDH6ONifjdgkcqvIW0erlZpKc4HkkUeFkkx29J8Q&cs=2560x0)
 
