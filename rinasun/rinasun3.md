@@ -12,19 +12,11 @@
 
 [В начало](rinasun.md) [Предыдущая](rinasun2.md) *Страница 3 из 4* [Следующая](rinasun4.md) [В конец](rinasun4.md)
 
-![](75CaSY1iFADbPG5g.jpg)
-
-(Ворон), 2021
-
-<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242892%2Fwall-79794560_6778>
-
-Жанр: Анималистика
-
-![](cLCt7RTiVpIXG2b.jpg)
+![Омут](https://sun9-64.vkuserphoto.ru/s/v1/ig2/eTNq-TbAN-jM9lzCHuUVm4xg9napUtyZFwn3EZFlN4m2q-OSnal8jlYwr5K3Md8-h9ZPdhrxcLCt7RTiVpI-XG2b.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&cs=1620x0)
 
 Омут, 2021
 
-<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242884%2F535c2d3f84f71ed751>
+<https://vk.ru/wall-79794560_6772>
 
 ![](kJG3K3CJsHR.jpg)
 
@@ -103,17 +95,17 @@
 
 <https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242752%2Fdf37ba9935cf17b880>
 
-![](SnTo8ZG7tUS8c4eV7.jpg)
+![Разум и чувства](https://sun9-46.vkuserphoto.ru/s/v1/ig2/od2cABMXZtgZNyiEL4BZo4yYUjL1kx9ABs9c9Gav_GgpjBu4f8i0OLo5Zw1diz5C7a2ruSnTo8ZG7tUS-8-c4eV7.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1200x1600&from=bu&cs=1200x0)
 
 Разум и чувства, 2020
 
-<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242688%2F035f1ffdeeefb54d25>
+<https://vk.ru/wall-79794560_6546>
 
-![](CvaNU4AGNb0rk.jpg)
+![Страсть](https://sun9-10.vkuserphoto.ru/s/v1/ig2/c7B1jg5OkXy3NOsLyBqc0rC6XRl6yIm-GnEKkrSDap2OZAH6QXFGQnpik4nHBLa0ohRQoUtrrzCvaNU4AGNb0r-k.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&from=bu&cs=1280x0)
 
 Страсть, 2020
 
-<https://vk.com/wall-79794560?offset=320&own=1&z=photo-79794560_457242650%2F250a7cbbd4581eafc4>
+<https://vk.ru/wall-79794560_6507>
 
 ![](2QQMDEAZ0RbOYnQ3XKDdE.jpg)
 
@@ -125,8 +117,8 @@
 
 Путь к свету через темноту. А свет - это любящее тебя сердце... Ключ от которого только у тебя..
 
-История:  
-- 2023: Выставлялась в ArtSpaceDepo
+История  
+- 2023: **Выставка**. Комментарий: Выставлялась в ArtSpaceDepo 
 
 ![](KWOTZEgBtYoNjeKk.jpg)
 
@@ -190,6 +182,15 @@
 
 Тип: Рисунок  
 Жанр: Портрет
+
+![](tdT3HCrBOx1w1J.jpg)
+
+(Арка), 2019
+
+<https://vk.com/photo-79794560_456241791>
+
+Тип: Рисунок  
+Жанр: Архитектурный пейзаж
 
 [В начало](rinasun.md) [Предыдущая](rinasun2.md) *Страница 3 из 4* [Следующая](rinasun4.md) [В конец](rinasun4.md)
 
