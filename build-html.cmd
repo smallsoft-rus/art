@@ -21,4 +21,6 @@ cd ..\linaplenka
 CatalogTools --html --homelink lina.xml
 cd ..\kostrominika
 CatalogTools --html --homelink --layout Indexed catalog.xml
+cd ..\orlova
+CatalogTools --html --homelink catalog.xml
 PAUSE
