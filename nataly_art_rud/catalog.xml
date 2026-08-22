@@ -202,7 +202,7 @@
       <source>https://vk.com/wall18580469_7332</source>
       <notes>Изображает пейзаж Северного Урала, район Кытлыма. Работа была начата в 2020 году.</notes>
     </metadata>
-    <link URL="https://sun9-43.userapi.com/s/v1/ig2/rrAk8aLEbmiB7Fkg9ncdlWj9UUklfdprzkLqzwc8sOUVJ_IwBRgDQ4y9ChKx6sRkmIGNGW-oQTT7NPK0VD27_jup.jpg?quality=95&amp;as=32x24,48x36,72x54,108x81,160x120,240x180,360x270,480x360,540x405,640x480,720x540,1080x810,1280x960,1440x1080,2560x1920&amp;from=bu&amp;cs=2560x0" />
+    <file name="2024-uralskoe-leto.jpg" />
   </item>
   <item>
     <metadata>
@@ -563,6 +563,18 @@
   </item>
   <item>
     <metadata>
+      <title>Уральские просторы</title>
+      <date>2015</date>
+      <type>painting</type>
+      <genre>landscape</genre>
+      <medium>Холст, масло</medium>
+      <dimensions>120х100 см</dimensions>
+      <source>https://in.gallerix.ru/natalyrud/expo/kartiny-na-prodazhu/uralskie-prostory/</source>
+    </metadata>
+    <file name="2015-uralskie-prostory.jpg" />
+  </item>
+  <item>
+    <metadata>
       <title>Байкал</title>
       <date>2014</date>
       <id>2014_TXiaYIM4</id>
@@ -587,6 +599,13 @@
       <notes>Изображает гору Шихан</notes>
     </metadata>
     <link URL="https://sun9-28.userapi.com/s/v1/ig2/XmDVyw5zFrFi7ue6mrYVsURcymDBQELJzCDHypvYD4-18w-r8pN3fKAhF4qOMwbvtsVtwsxGtDVpVfMSWMh3-FGD.jpg?quality=95&amp;as=32x26,48x40,72x60,108x89,160x132,240x199,360x298,480x397,540x447,640x529,720x596,1080x893,1238x1024&amp;from=bu&amp;cs=1238x0" />
+    <events>
+      <event type="exhibition" date="2016">
+        <name>Свет малой родины</name>
+        <URL>https://culturolog.ru/content/view/2559/</URL>
+        <location name="Курганский областной культурно-выставочный центр" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -621,6 +640,20 @@
       <notes></notes>
     </metadata>
     <link URL="https://sun9-23.userapi.com/s/v1/ig2/JJFbr6tHb5lA3de_RBCHNo2dKD04T9dhobb77ehTp-8a2pfijM4zkKxQ6bJ6aRsUDbnDDVb_zbjWheocOHmA-W5I.jpg?quality=95&amp;as=32x25,48x38,72x56,108x84,160x125,240x188,360x281,480x375,540x422,640x500,720x563,1080x844,1280x1001,1440x1126,1600x1251&amp;from=bu&amp;u=zsQaoKgxVg1TJTH1YTSNmfn5rFbuhayhfCNzdv6Bkgo&amp;cs=1600x0" />
+  </item>
+  <item>
+    <metadata>
+      <title>Лунная Чусовая</title>
+      <date>2013</date>
+      <id>2013-lunnaya-chusovaya</id>
+      <type>painting</type>
+      <genre>landscape</genre>
+      <dimensions>70х90 см</dimensions>
+      <medium>Холст, масло</medium>
+      <source>https://vk.ru/wall18580469_2019</source>
+      <notes></notes>
+    </metadata>
+    <link URL="https://sun9-59.vkuserphoto.ru/s/v1/ig2/BNOu-8VlC9F-hLrcrSKc5L6CVWLXyVylxcAlTHSy8SGmq5gkQA_Alc463t7O2JSVoihC7pLMXo13alGcYBe6yVq2.jpg?quality=96&amp;as=32x25,48x38,72x57,108x85,160x126,240x189,360x283,480x378,540x425,640x503,720x566,1080x850,1280x1007,1440x1133,2560x2014&amp;from=bu&amp;cs=2560x0" />
   </item>
   <item>
     <metadata>
