@@ -9,7 +9,7 @@
 
 ## Каталог работ
 
-*Страница 1 из 3* [Следующая](vitalina2.md) [В конец](vitalina3.md)
+*Страница 1 из 2* [Следующая](vitalina2.md) [В конец](vitalina2.md)
 
 ![](2026_hzhBAgMtMW0vmtXC.jpg)
 
@@ -50,8 +50,8 @@
 
 Тип: Картина
 
-История:  
-- 2025: [Заняла 1 место в конкурсе АРТ-БОМБА-Я](https://vk.com/arononoreschool?w=wall-186925653_69172)
+История  
+- 2025: **Конкурс**. Комментарий: Заняла 1 место в конкурсе АРТ-БОМБА-Я ([подробнее..](https://vk.com/arononoreschool?w=wall-186925653_69172))
 
 Оригинал: [Девушка-змея (shedevrum.ai)](https://shedevrum.ai/post/3a1fc57a72d111ef948bc29ccd14b578/?utm_medium=organic&utm_source=yandexsmartcamera)
 
@@ -216,7 +216,7 @@
 Тип: Картина  
 Жанр: Анималистика
 
-*Страница 1 из 3* [Следующая](vitalina2.md) [В конец](vitalina3.md)
+*Страница 1 из 2* [Следующая](vitalina2.md) [В конец](vitalina2.md)
 
 ## Галерея
 
