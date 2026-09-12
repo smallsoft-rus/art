@@ -3,6 +3,8 @@
 - https://vk.com/search/statuses?q=%23нарисованный_тагил
 - https://vk.com/club224235383
 - https://vk.com/tagil_art
+- https://tagil-press.ru/galleries/24/hudozhniki-tagila
+- https://historyntagil.ru/9_160.htm
 
 ## Лисья гора
 - [Бернгард О.Э. Нижний Тагил. Лисья гора ночью.](https://artmnt.ru/collection.php?id=218), 1944. Картон, масло, НТМИИ
