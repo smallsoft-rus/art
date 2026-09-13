@@ -11,33 +11,6 @@
 
 [В начало](vitalina.md) [Предыдущая](vitalina.md) *Страница 2 из 2* 
 
-![](W8kLiM3JzJ0.jpg)
-
-Фрагментарная копия картины Сандро Боттичелли "Мадонна с младенцем", 2024. Византийская мозаика, смальта, 60×40 см
-
-<https://vk.com/club224151515?from=groups&z=photo-224151515_457239048%2Fwall-224151515_24>
-
-Тип: Мозаика
-
-История  
-- 2025: **Выставка** [Выставка учебно-творческих работ "Учимся у мастеров"](https://vk.com/fho_tho?w=wall-4891369_8448). Место: ФХО НТГСПИ. 
-
-Оригинал: [Sandro Botticelli. The Virgin and Child](https://hvrd.art/o/230460); Harvard Art Museums; 1943.105
-
-![](9XUqkCxPd4Q.jpg)
-
-Копия картины Боттичелли "Портрет молодой женщины", 2024. Темпера, 40×30 см
-
-<https://vk.com/wall-224151515?own=1&z=photo-224151515_457239038%2Fwall-224151515_16>
-
-Тип: Картина  
-Жанр: Портрет
-
-История  
-- 2025: **Выставка** [Выставка учебно-творческих работ "Учимся у мастеров"](https://vk.com/fho_tho?w=wall-4891369_8448). Место: ФХО НТГСПИ. 
-
-Оригинал: [Sandro Botticelli. Idealised Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph)](https://sammlung.staedelmuseum.de/en/work/idealised-portrait-of-a-lady)
-
 ![](GLkXBLttdjY.jpg)
 
 Ярмарка, 2024. Холст, масло, 100×75 см
