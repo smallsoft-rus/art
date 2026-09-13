@@ -18,6 +18,26 @@
   </files>
   <item>
     <metadata>
+      <title>Каманский монастырь</title>
+      <date>2026</date>
+      <type>painting</type>
+      <dimensions>40×50 см</dimensions>
+      <medium>Холст на картоне, акрил</medium>
+      <source>https://vk.ru/wall-224151515_88</source>
+      <notes></notes>
+    </metadata>
+    <link URL="https://sun9-34.vkuserphoto.ru/s/v1/ig2/bWJjSZgWWnkh6d8Bd9GhOVpSZ2IMVs1Fp0ix6eYd_tDY5QXDgd3nWbFm0VaLpmT5cLd4L4q5-xAJe1wCfo820wjM.jpg?quality=95&amp;crop=0,0,2560,2077&amp;as=32x26,48x39,72x58,108x88,160x130,240x195,360x292,480x389,540x438,640x519,720x584,1080x876,1280x1038,1440x1168,2560x2077&amp;from=bu&amp;cs=2560x0" />
+    <subjects>
+      <subject type="identification">
+        <name>Каманский монастырь</name>
+        <location name="Сухумский район, Абхазия">
+          <pos>43.095664 40.997026</pos>
+        </location>
+      </subject>
+    </subjects>
+  </item>
+  <item>
+    <metadata>
       <title>Автопортрет по мотивам праздника Ночь на Ивана Купала</title>
       <date>2026</date>
       <type>painting</type>
@@ -164,19 +184,6 @@
   </item>
   <item>
     <metadata>
-      <title>Полуфигура</title>
-      <date>2024</date>
-      <type>drawing</type>
-      <dimensions>50×60 см</dimensions>
-      <medium>Бумага для пастели, уголь, мел</medium>
-      <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239094%2F7e2c1cc564188c9d46</source>
-      <description></description>
-      <notes></notes>
-    </metadata>
-    <file name="L0Oj_fxvIfI.jpg"></file>
-  </item>
-  <item>
-    <metadata>
       <title>Шарж на Владимира Лангольфа</title>
       <date>2024</date>
       <type>painting</type>
@@ -215,35 +222,6 @@
       <notes></notes>
     </metadata>
     <file name="Syv-x65gPhGhhTuJyOS0eb.jpg"></file>
-  </item>
-  <item>
-    <metadata>
-      <title>Интерес</title>
-      <date>2024</date>
-      <type>painting</type>
-      <genre>animal art</genre>
-      <dimensions>30×40 см</dimensions>
-      <medium>Холст на картоне, акрил</medium>
-      <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239070%2Fwall-224151515_37</source>
-      <description></description>
-      <notes></notes>
-    </metadata>
-    <file name="RtulrumUZhdt7krw7.jpg"></file>
-  </item>
-  <item>
-    <metadata>
-      <title>Женщина в синем</title>
-      <date>2024</date>
-      <type>painting</type>
-      <genre>portrait</genre>
-      <dimensions>25×30 см</dimensions>
-      <medium>Холст, акрил, поталь</medium>
-      <source>https://vk.com/club224151515?from=groups&amp;z=photo-224151515_457239066%2F124a3d05ab7c1330cd</source>
-      <titleType>descriptive</titleType>
-      <description></description>
-      <notes>Написана на заказ</notes>
-    </metadata>
-    <file name="kiEnRdbxaqK4-QF3jHizpeZEb0aPx8e.jpg"></file>
   </item>
   <item>
     <metadata>
