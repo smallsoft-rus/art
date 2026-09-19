@@ -12,6 +12,14 @@
 
 [В начало](rinasun.md) [Предыдущая](rinasun2.md) *Страница 3 из 4* [Следующая](rinasun4.md) [В конец](rinasun4.md)
 
+![](75CaSY1iFADbPG5g.jpg)
+
+(Ворон), 2021
+
+<https://vk.com/wall-79794560?offset=200&own=1&z=photo-79794560_457242892%2Fwall-79794560_6778>
+
+Жанр: Анималистика
+
 ![Омут](https://sun9-64.vkuserphoto.ru/s/v1/ig2/eTNq-TbAN-jM9lzCHuUVm4xg9napUtyZFwn3EZFlN4m2q-OSnal8jlYwr5K3Md8-h9ZPdhrxcLCt7RTiVpI-XG2b.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440,1280x1707,1440x1920,1620x2160&from=bu&cs=1620x0)
 
 Омут, 2021
@@ -182,15 +190,6 @@
 
 Тип: Рисунок  
 Жанр: Портрет
-
-![](tdT3HCrBOx1w1J.jpg)
-
-(Арка), 2019
-
-<https://vk.com/photo-79794560_456241791>
-
-Тип: Рисунок  
-Жанр: Архитектурный пейзаж
 
 [В начало](rinasun.md) [Предыдущая](rinasun2.md) *Страница 3 из 4* [Следующая](rinasun4.md) [В конец](rinasun4.md)
 
