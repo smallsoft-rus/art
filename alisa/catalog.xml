@@ -4,7 +4,6 @@
     <displayName>Горшенина Алиса</displayName>
     <birthDate>1994</birthDate>
     <birthPlace>c. Якшина, Свердловская область</birthPlace>
-    <styles>Фольклор, модерн-арт</styles>
     <signature>HUA</signature>
     <website>https://alicehualice.com/</website>
     <RaanId>PDXZJ</RaanId>
@@ -15,6 +14,18 @@
   <externalLinks>
     <link title="Черновик биографии" URL="bio.md" />
   </externalLinks>
+  <item>
+    <metadata>
+      <title>Так поливают цветы</title>
+      <date>2026</date>
+      <type>drawing</type>
+      <dimensions>14,8х21 см</dimensions>
+      <medium>Бумага, акварельные карандаши</medium>
+      <source>https://alicehualice.com/prodazha</source>
+      <notes>Выставлялась на продажу за 550€</notes>
+    </metadata>
+    <link URL="https://optim.tildacdn.com/tild6561-6237-4266-b463-393839333362/-/format/webp/21.jpg.webp" />
+  </item>
   <item>
     <metadata>
       <title>Зародыш избушки</title>
@@ -47,7 +58,7 @@
       <description>Работа была создана для выставки “Коробка в форме сердца” во VLADEY Space. В искусстве я мыслю образами и символами. В этой серии я представляю кровеносную систему человека как нечто метафорическое. Кровеносная система — это путь, по которому идет кислород и питание для каждой клетки нашего организма. В моей работе она предстает в образе растения, фонтана, созвездий и других символов. Кровеносная система — это что-то живое и сложное,  напоминание о том, что внутри меня еще есть жизнь.</description>
       <notes>Выставлялась на продажу на аукционе VLADEY</notes>
     </metadata>
-    <link URL="https://api.vladey.net/storage/artwork/10276/cover_preview_image-318cb9132adbe922c3fd73e1968a6734.jpg"></link>
+    <link URL="https://newadmin.vladey.net/storage/artwork/10276/detail_preview_image-318cb9132adbe922c3fd73e1968a6734.jpg"></link>
     <events>
       <event type="exhibition" date="2023">
         <name>Коробка в форме сердца</name>
@@ -66,7 +77,7 @@
       <description></description>
       <notes>Выставлялась на продажу на аукционе VLADEY</notes>
     </metadata>
-    <link URL="https://api.vladey.net/storage/artwork/10201/cover_preview_image-a76d1c7219e6cbe49e94887bc0e31520.jpg"></link>
+    <link URL="https://newadmin.vladey.net/storage/artwork/10201/detail_preview_image-a76d1c7219e6cbe49e94887bc0e31520.jpg"></link>
   </item>
   <item>
     <metadata>
@@ -82,7 +93,7 @@
 Помимо того, что женщина-древо является для меня значимым символом и постоянно прорастает и воплощается в различных работах, она также представляется олицетворением персональной системы внутри моего искусства. Я представляю свое искусство как дерево, где ветки — отдельные проекты, которые я называю состояниями. Это условная система: одна работа может быть частью то одного, то другого проекта. Состояния множатся — новые ветки растут.</description>
       <notes>Выставлялась на продажу на аукционе VLADEY</notes>
     </metadata>
-    <link URL="https://api.vladey.net/storage/artwork/9455/cover_preview_image-68f3d4500ae4b3b281b2caabfcb93b14.jpg"></link>
+    <link URL="https://newadmin.vladey.net/storage/artwork/9455/detail_preview_image-68f3d4500ae4b3b281b2caabfcb93b14.jpg"></link>
   </item>
   <item>
     <metadata>
@@ -98,7 +109,7 @@
 Эта простая бытовая магия и воспоминания из детства пробудили во мне желание отдать дань культуре украшения окон. Так родилась серия “Магических наличников”, внутри которых я помещаю уже не бытовые сцены, а свои персональные символы. Мне нравится образ загадки, я всегда украшаю свои наличники бархатными шторами, а в центр помещаю некий сакральный объект, будь то слеза как символ боли или птица как символ надежды</description>
       <notes>Выставлялась на продажу на аукционе VLADEY</notes>
     </metadata>
-    <link URL="https://api.vladey.net/storage/artwork/8703/cover_preview_image-63e79178bec962b1e37cd999274c40b2.jpg"></link>
+    <link URL="https://newadmin.vladey.net/storage/artwork/8703/detail_preview_image-63e79178bec962b1e37cd999274c40b2.jpg"></link>
   </item>
   <item>
     <metadata>
