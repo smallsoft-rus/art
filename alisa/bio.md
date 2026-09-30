@@ -274,5 +274,11 @@
 
 Публикации:
 
-- Курзенева В. А., Кузнецова Н. С., Садриева А. Н. Мир, созданный руками Алисы Горшениной. / Город, социум, среда: История и векторы развития. Сборник материалов II Всероссийской научно-практической конференции 28–29 октября 2022 г.
 - Gorshenina, Alisa (2025) [Works of Love from Russia](https://digitalcommons.unomaha.edu/id-journal/vol15/iss1/4/), International Dialogue: Vol. 15, Article 4. DOI: https://doi.org/10.32873/uno.dc.ID.15.01.1221
+- Natasha Young. [She May Create Some of Russia's Weirdest Feminist Art​—Just Don't Call Her a Feminist](https://web.archive.org/web/20231201201625/https://garage.vice.com/en_us/article/ywqqmk/the-artist-creating-some-of-russias-weirdest-feminist-art-but-dont-call-her-a-feminist) / Garage Vice, 2018
+- [The Russian Artist Serving Up Surrealism on Instagram](https://www.sleek-mag.com/article/alice-hualice-instagram/) / Sleek Magazine, 2018
+- Шахов Алексей. [Текстильная скульптура и десятки глаз в инстаграме тагильской художницы Алисы Горшениной](https://web.archive.org/web/20190417053257/https://www.the-village.ru/village/people/zakladka/327343-alice-hualice) / The Village, 2018
+- Падерина Светлана. [«Россия — это большое вдохновение»: Я создаю текстильные скульптуры](https://web.archive.org/web/20191023212911/https://www.wonderzine.com/wonderzine/style/my-experience/239801-alisa) / Wonderzine, около 2019
+- Anastasiia Fedorova. [Alice Hualice, the Russian Artist Making Surreal Objects From a Remote Town](https://web.archive.org/web/20250907090901/https://www.anothermag.com/fashion-beauty/12251/alice-hualice-alisa-gorshenina-artist-nizhny-tagil-russia-jack-davison) / AnOther Magazine, 2020
+- Курзенева В. А., Кузнецова Н. С., Садриева А. Н. Мир, созданный руками Алисы Горшениной. / Город, социум, среда: История и векторы развития. Сборник материалов II Всероссийской научно-практической конференции 28–29 октября 2022 г.
+- Катя Колпинец. [Алиса Горшенина](https://theblueprint.ru/culture/interview/alisa-gorshenina) / Blueprint, 2024
