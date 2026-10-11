@@ -12,6 +12,16 @@
 
 *Страница 1 из 3* [Следующая](catalog2.md) [В конец](catalog3.md)
 
+![Точка сборки](https://sun9-52.vkuserphoto.ru/s/v1/ig2/IQsAFSniXAujMfehM8UdHnyJNGTqUOPZ1yCVIcn98yVzeL3byLGPlrQLwsMGZI-Cxmc7bVP5rfYk21e4-WRvMTbF.jpg?quality=95&crop=0,0,2560,2017&as=32x25,48x38,72x57,108x85,160x126,240x189,360x284,480x378,540x425,640x504,720x567,1080x851,1280x1008,1440x1135,2560x2017&from=bu&u=BeVYZV8GzPrpc1sqqlEzCZOxmvbkrfctmaHQzWcQlRI&cs=2560x0)
+
+Точка сборки, 2026. Холст, акрил, эмаль, 80х100 см
+
+<https://vk.ru/wall35705684_10903>
+
+Тип: Картина
+
+От составителя: Выставлялась на продажу за 25000₽
+
 ![](GLRMU8RIPFOLwh.jpg)
 
 Мой любимый Горный техникум, 2025. Холст, масло, 60х80 см
@@ -180,15 +190,6 @@ DEPOша, 2025
 Розовое на голубом, 2023. Холст, масло, 44х53 см
 
 <https://vk.com/albums-218867577?z=photo-218867577_457239420%2Fphotos-218867577>
-
-История  
-- 2023: **Выставка**. Комментарий: Выставлялась в ArtSpaceDepo 
-
-![](WrU0FV-AqtLbUe_unz_.jpg)
-
-Пара, 2023. Холст, акрил, 80х100 см
-
-<https://vk.com/albums-218867577?z=photo-218867577_457239419%2Fphotos-218867577>
 
 История  
 - 2023: **Выставка**. Комментарий: Выставлялась в ArtSpaceDepo 
