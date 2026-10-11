@@ -590,6 +590,30 @@
   </item>
   <item>
     <metadata>
+      <title>Проекция</title>
+      <date>2023</date>
+      <type>drawing</type>
+      <genre>abstract art</genre>
+      <medium>Тонированный картон, сепия, сангина, уголь, мел</medium>
+      <dimensions>59.4×42 см</dimensions>
+      <source>https://disk.yandex.ru/i/VXklez3N33W_Sw</source>
+      <notes></notes>
+    </metadata>
+    <file name="2023_proekcia.jpg"></file>
+    <events>
+      <event type="contest" date="2024">
+        <name>Искусство реальности</name>
+        <URL>https://vk.ru/wall-4891369_8045</URL>
+      </event>
+      <event type="exhibition" date="2024">
+        <name>Вдохновляйся! Действуй!</name>
+        <URL>https://vk.ru/wall287002377_5170</URL>
+        <location name="Дом художника" />
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
       <title>Вдохновение</title>
       <date>2022</date>
       <type>painting</type>
