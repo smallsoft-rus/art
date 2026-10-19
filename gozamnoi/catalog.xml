@@ -25,6 +25,29 @@
   </item>
   <item>
     <metadata>
+      <title>Русский быт</title>
+      <date>2025</date>
+      <type>painting</type>
+      <medium>Холст, масло</medium>
+      <source>https://vk.com/wall-4891369_8754</source>
+      <notes></notes>
+    </metadata>
+    <file name="2025_ifKQd5b4Y0QQlWgb.jpg" />
+    <events>
+      <event type="contest" date="2025">
+        <name>Новогодний календарь</name>
+        <URL>https://art-inschool.ru/sites/default/files/kalendar_2025_pedagogi-hudozhniki_0.pdf</URL>
+        <description>Картина была выбрана в качестве изображения для сентября</description>
+      </event>
+      <event type="exhibition" date="2025">
+        <name>Выставка учебно-творческих работ "Пространство цвета"</name>
+        <URL>https://vk.com/wall-4891369_8754</URL>
+        <location name="Галерея НТГСПИ" />
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
       <title>Гриша</title>
       <date>2025</date>
       <type>painting</type>
