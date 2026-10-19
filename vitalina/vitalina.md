@@ -21,6 +21,16 @@
 
 Изображено: Каманский монастырь, Сухумский район, Абхазия ([43,10° с.ш.; 41,00° в.д.](https://yandex.ru/maps/?pt=40.997026%2C43.095664&z=16))
 
+![Ботанический сад](https://sun9-77.vkuserphoto.ru/s/v1/ig2/YCJGsM2O0VkwYWpYdEOaBAolE1TI_W437bD-7vBAGhe62BBnVtgChDx68nZ2MJRMHo9xROF1G3PFgLy4pWmcsoRj.jpg?quality=95&crop=0,0,2560,1838&as=32x23,48x34,72x52,108x78,160x115,240x172,360x258,480x345,540x388,640x459,720x517,1080x775,1280x919,1440x1034,2560x1838&from=bu&u=h0Wqj3WOEnyoNcugGDBN2BzgwrhsTtS-h4mu0nayOVE&cs=2560x0)
+
+Ботанический сад, 2026. Холст на картоне, акрил, 25×35 см
+
+<https://vk.ru/wall-224151515_86>
+
+Тип: Картина
+
+Изображено: [Ботанический сад академии наук Абхазии](http://bsbiana.ru/), г. Сухум, Абхазия ([43,01° с.ш.; 41,02° в.д.](https://yandex.ru/maps/?pt=41.023068%2C43.006067&z=16))
+
 ![](2026_hzhBAgMtMW0vmtXC.jpg)
 
 Автопортрет по мотивам праздника Ночь на Ивана Купала, 2026. Холст на подрамнике, акрил, 120×80 см
@@ -210,20 +220,6 @@
 - 2025: **Выставка** [Выставка учебно-творческих работ "Учимся у мастеров"](https://vk.com/fho_tho?w=wall-4891369_8448). Место: ФХО НТГСПИ. 
 
 Оригинал: [Sandro Botticelli. The Virgin and Child](https://hvrd.art/o/230460); Harvard Art Museums; 1943.105
-
-![](9XUqkCxPd4Q.jpg)
-
-Копия картины Боттичелли "Портрет молодой женщины", 2024. Темпера, 40×30 см
-
-<https://vk.com/wall-224151515?own=1&z=photo-224151515_457239038%2Fwall-224151515_16>
-
-Тип: Картина  
-Жанр: Портрет
-
-История  
-- 2025: **Выставка** [Выставка учебно-творческих работ "Учимся у мастеров"](https://vk.com/fho_tho?w=wall-4891369_8448). Место: ФХО НТГСПИ. 
-
-Оригинал: [Sandro Botticelli. Idealised Portrait of a Lady (Portrait of Simonetta Vespucci as Nymph)](https://sammlung.staedelmuseum.de/en/work/idealised-portrait-of-a-lady)
 
 *Страница 1 из 2* [Следующая](vitalina2.md) [В конец](vitalina2.md)
 
