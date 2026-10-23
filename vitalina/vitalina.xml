@@ -71,6 +71,26 @@
   </item>
   <item>
     <metadata>
+      <title>Художник</title>
+      <date>2025</date>
+      <type>painting</type>
+      <genre>portrait</genre>
+      <dimensions>80×60 см</dimensions>
+      <medium>Холст, акрил</medium>
+      <source>https://vk.ru/wall-4891369_8955</source>
+      <notes></notes>
+    </metadata>
+    <file name="2025_khudozhnik.jpg"></file>
+    <events>
+      <event type="contest" date="2026">
+        <name>Искусство реальности</name>
+        <URL>https://vk.ru/wall-4891369_9305</URL>
+        <description>Заняла 3 место в номинации "Живопись. Портрет"</description>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
       <title>Пылающий взлëт</title>
       <date>2025</date>
       <type>painting</type>
