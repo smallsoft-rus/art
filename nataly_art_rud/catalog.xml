@@ -119,6 +119,13 @@
         </location>
       </subject>
     </subjects>
+    <events>
+      <event type="exhibition" date="2026">
+        <name>Застывшие мгновения. Пленэрная живопись Наталии Рудый</name>
+        <URL>https://vk.ru/wall18580469_8973</URL>
+        <location name="Нижнетагильский музей изобразительных искусств" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -585,6 +592,13 @@
       <source>https://in.gallerix.ru/natalyrud/expo/kartiny-na-prodazhu/uralskie-prostory/</source>
     </metadata>
     <file name="2015-uralskie-prostory.jpg" />
+    <events>
+      <event type="exhibition" date="2026">
+        <name>Застывшие мгновения. Пленэрная живопись Наталии Рудый</name>
+        <URL>https://vk.ru/wall18580469_8973</URL>
+        <location name="Нижнетагильский музей изобразительных искусств" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -674,6 +688,13 @@
       <notes></notes>
     </metadata>
     <link URL="https://sun9-59.vkuserphoto.ru/s/v1/ig2/BNOu-8VlC9F-hLrcrSKc5L6CVWLXyVylxcAlTHSy8SGmq5gkQA_Alc463t7O2JSVoihC7pLMXo13alGcYBe6yVq2.jpg?quality=96&amp;as=32x25,48x38,72x57,108x85,160x126,240x189,360x283,480x378,540x425,640x503,720x566,1080x850,1280x1007,1440x1133,2560x2014&amp;from=bu&amp;cs=2560x0" />
+    <events>
+      <event type="exhibition" date="2026">
+        <name>Застывшие мгновения. Пленэрная живопись Наталии Рудый</name>
+        <URL>https://vk.ru/wall18580469_8973</URL>
+        <location name="Нижнетагильский музей изобразительных искусств" />
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -689,7 +710,7 @@
       <notes></notes>
       <tags>featured</tags>
     </metadata>
-    <link URL="https://sun9-75.userapi.com/s/v1/ig2/D6MbYIDN_uD55oXlGHZ1N0iPSWHo1a2QMmWJ5PZmtR64m34kHSo_JGrgzef44o9DgaCC3jmv2kBItLyI_W7fzVVz.jpg?quality=95&amp;as=32x25,48x37,72x55,108x83,160x123,240x184,360x276,480x368,540x415,640x491,720x553,1003x770&amp;from=bu&amp;cs=1003x0" />
+    <file name="2012_jmv2kBItLyIW7fzVVz.jpg" />
     <subjects>
       <subject type="identification">
         <name>Покровский монастырь</name>
