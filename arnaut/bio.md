@@ -5,6 +5,8 @@
 
 Другие имена: Аста, Арнаут
 
+[Каталог работ](catalog.html)
+
 Страницы в интернете:
 - <https://t.me/s/ARRRNAUT>
 - <https://vk.ru/arrrrrnaut>
