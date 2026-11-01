@@ -28,6 +28,15 @@
       <notes>Выставлялась на продажу за 25000₽</notes>
     </metadata>
     <link URL="https://sun9-52.vkuserphoto.ru/s/v1/ig2/IQsAFSniXAujMfehM8UdHnyJNGTqUOPZ1yCVIcn98yVzeL3byLGPlrQLwsMGZI-Cxmc7bVP5rfYk21e4-WRvMTbF.jpg?quality=95&amp;crop=0,0,2560,2017&amp;as=32x25,48x38,72x57,108x85,160x126,240x189,360x284,480x378,540x425,640x504,720x567,1080x851,1280x1008,1440x1135,2560x2017&amp;from=bu&amp;u=BeVYZV8GzPrpc1sqqlEzCZOxmvbkrfctmaHQzWcQlRI&amp;cs=2560x0" />
+    <events>
+      <event type="exhibition" date="2026">
+        <name>Уралвагонзавод. Взгляд художников</name>
+        <URL>https://vk.ru/wall35705684_10940</URL>
+        <location name="Музей истории Уралвагонзавода">
+          <place>Нижний Тагил</place>
+        </location>
+      </event>
+    </events>
   </item>
   <item>
     <metadata>
@@ -112,6 +121,7 @@
       <source>https://vk.com/wall35705684?z=photo35705684_457261941%2F53e9ecd14317f7b89c</source>
       <description></description>
       <notes>Выставлялась на продажу за 5000₽</notes>
+      <tags>featured</tags>
     </metadata>
     <file name="FimxQcZj2.jpg"></file>
     <subjects>
@@ -216,6 +226,7 @@
       <notes>Работа содержит фрагменты, намекающие на произведения Энди Уорхолла: Бутылка Coca Cola, надпись Tomato Soup - "Банки с супом Кэмпбелл", надпись Love Girls - предположительно фильм "Девушки из Челси", надпись Coronation - предположительно "Серия портретов королев".
 
 Выставлялась на продажу за 30 000 р.</notes>
+      <tags>featured</tags>
     </metadata>
     <file name="aYsbcvBjmfbF.jpg"></file>
     <events>
