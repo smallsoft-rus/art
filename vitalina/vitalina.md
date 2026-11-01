@@ -11,7 +11,7 @@
 
 *Страница 1 из 3* [Следующая](vitalina2.md) [В конец](vitalina3.md)
 
-![Каманский монастырь](https://sun9-34.vkuserphoto.ru/s/v1/ig2/bWJjSZgWWnkh6d8Bd9GhOVpSZ2IMVs1Fp0ix6eYd_tDY5QXDgd3nWbFm0VaLpmT5cLd4L4q5-xAJe1wCfo820wjM.jpg?quality=95&crop=0,0,2560,2077&as=32x26,48x39,72x58,108x88,160x130,240x195,360x292,480x389,540x438,640x519,720x584,1080x876,1280x1038,1440x1168,2560x2077&from=bu&cs=2560x0)
+![Каманский монастырь](https://sun9-50.vkuserphoto.ru/s/v1/ig2/bWJjSZgWWnkh6d8Bd9GhOVpSZ2IMVs1Fp0ix6eYd_tDY5QXDgd3nWbFm0VaLpmT5cLd4L4q5-xAJe1wCfo820wjM.jpg?quality=95&crop=0,0,2560,2077&as=32x26,48x39,72x58,108x88,160x130,240x195,360x292,480x389,540x438,640x519,720x584,1080x876,1280x1038,1440x1168,2560x2077&from=bu&cs=2560x0)
 
 Каманский монастырь, 2026. Холст на картоне, акрил, 40×50 см
 
