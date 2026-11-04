@@ -208,7 +208,7 @@
 - 2024: **Конкурс** [Искусство реальности](https://vk.ru/wall-4891369_8045). 
 - 2024: **Выставка** [Вдохновляйся! Действуй!](https://vk.ru/wall287002377_5170). Место: Дом художника. 
 
-![Вдохновение](https://sun9-57.vkuserphoto.ru/s/v1/ig2/7_dC1oxW7Ac6clqfehAzaL6DVFEBbkqI0ZnSYeguDBUzRJAivdvzHQtWvu5VWuHA4LLD_96DY8wIHkk4AkVOupYr.jpg?quality=95&as=32x48,48x72,72x109,108x163,160x241,240x362,360x543,480x725,540x815,640x966,720x1087,1080x1630,1280x1932,1440x2174,1696x2560&from=bu&cs=1696x0)
+![Вдохновение](https://sun9-38.vkuserphoto.ru/s/v1/ig2/7_dC1oxW7Ac6clqfehAzaL6DVFEBbkqI0ZnSYeguDBUzRJAivdvzHQtWvu5VWuHA4LLD_96DY8wIHkk4AkVOupYr.jpg?quality=95&as=32x48,48x72,72x109,108x163,160x241,240x362,360x543,480x725,540x815,640x966,720x1087,1080x1630,1280x1932,1440x2174,1696x2560&from=bu&cs=1696x0)
 
 Вдохновение, 2022. Картон, акрил, 21×30 см
 
