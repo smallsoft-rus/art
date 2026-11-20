@@ -252,6 +252,24 @@
   </item>
   <item>
     <metadata>
+      <title>Вероника</title>
+      <date>2023</date>
+      <type>drawing</type>
+      <dimensions>70х50 см</dimensions>
+      <medium>Картон, акварельные карандаши</medium>
+      <source>https://disk.yandex.ru/i/VXklez3N33W_Sw</source>
+      <notes></notes>
+    </metadata>
+    <file name="2023_Veronika.jpg" />
+    <events>
+      <event type="contest" date="2024">
+        <name>Искусство реальности</name>
+        <URL>https://vk.com/wall-4891369_8045</URL>
+      </event>
+    </events>
+  </item>
+  <item>
+    <metadata>
       <title>Теленок</title>
       <date>2022</date>
       <type>painting</type>
