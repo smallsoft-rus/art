@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection>
   <author>
-    <displayName>Горшенина Алиса</displayName>
+    <displayName>Горшенина Алиса Алексеевна</displayName>
     <birthDate>1994</birthDate>
     <birthPlace>c. Якшина, Свердловская область</birthPlace>
     <signature>HUA</signature>
@@ -107,7 +107,7 @@
 Обрамленные в резные рамы, они выглядят загадочно и гипнотически. Я помню, как в детстве с любопытством пыталась заглянуть в дома жителей деревни, — эта картина глубоко отпечаталась в моей памяти. Резной наличник, окно, а внутри темнота, и где-то в глубине виден небольшой луч света — кто-то зажег лампу. А в другом окне — красные герани, еще в одном — старые пожелтевшие книги, в следующем — постоянная темнота, потому что хозяева навсегда покинули дом. И в каждом окне своя история, уникальная как и те наличники, что обрамляют эти окна.
 
 Эта простая бытовая магия и воспоминания из детства пробудили во мне желание отдать дань культуре украшения окон. Так родилась серия “Магических наличников”, внутри которых я помещаю уже не бытовые сцены, а свои персональные символы. Мне нравится образ загадки, я всегда украшаю свои наличники бархатными шторами, а в центр помещаю некий сакральный объект, будь то слеза как символ боли или птица как символ надежды</description>
-      <notes>Выставлялась на продажу на аукционе VLADEY</notes>
+      <notes>Выставлялась на продажу на аукционе VLADEY. Другой вариант магического наличника, с красными занавесками и маской-солнцем, хранится в Екатеринбургском музее изобразительных искусств (https://goskatalog.ru/portal/#/collections?id=39179241).</notes>
     </metadata>
     <link URL="https://newadmin.vladey.net/storage/artwork/8703/detail_preview_image-63e79178bec962b1e37cd999274c40b2.jpg"></link>
   </item>
@@ -244,6 +244,30 @@
       <notes></notes>
     </metadata>
     <file name="2015_51875e6a4151.jpg"></file>
+  </item>
+  <item>
+    <metadata>
+      <title>Экслибрис Alice</title>
+      <date>2015</date>
+      <type>print</type>
+      <dimensions>13,5х9,7 см</dimensions>
+      <medium>Бумага, офорт, акватинта</medium>
+      <source>https://goskatalog.ru/portal/#/collections?id=27039270</source>
+      <location>Вологодская областная картинная галерея</location>
+      <notes>Надпись по краю состоит из строк стихотворения М. И. Цветаевой "Кошки"</notes>
+    </metadata>
+    <link URL="https://goskatalog.ru/muzfo-imaginator/rest/images/original/30573991?originalName=3708862.jpg" />
+    <texts>
+      <text category="inscription">
+        <type>work content</type>
+        <content>В кошачьем сердце нет стыда! В кошачьем сердце рабства нет! В кошачьем сердце нет любви. EXL Alice</content>
+      </text>
+      <text category="inscription">
+        <type>signature</type>
+        <location>Внизу</location>
+        <content>E.A. Alice 2015</content>
+      </text>
+    </texts>
   </item>
   <item>
     <metadata>
